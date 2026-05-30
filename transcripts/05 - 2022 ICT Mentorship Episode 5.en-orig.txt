@@ -1,0 +1,4420 @@
+﻿
+ 
+all right folks welcome back this is the
+all right folks welcome back this is the
+ 
+all right folks welcome back this is the
+2022 ICT mentorship on
+2022 ICT mentorship on
+ 
+2022 ICT mentorship on
+YouTube and this lesson is going to be
+YouTube and this lesson is going to be
+ 
+YouTube and this lesson is going to be
+intraday order flow and understanding
+intraday order flow and understanding
+ 
+intraday order flow and understanding
+the daily
+ 
+ 
+ 
+range all right folks we're looking at
+range all right folks we're looking at
+ 
+range all right folks we're looking at
+tradingview.com and you can can use this
+tradingview.com and you can can use this
+ 
+tradingview.com and you can can use this
+platform for free uh there are some
+platform for free uh there are some
+ 
+platform for free uh there are some
+benefits to having a membership there
+benefits to having a membership there
+ 
+benefits to having a membership there
+it's not terribly expensive but
+it's not terribly expensive but
+ 
+it's not terribly expensive but
+nonetheless it provides you a means of
+nonetheless it provides you a means of
+ 
+nonetheless it provides you a means of
+looking at charts that I show in my
+looking at charts that I show in my
+ 
+looking at charts that I show in my
+mentorship here and in my private
+mentorship here and in my private
+ 
+mentorship here and in my private
+mentorship group so it's the same charts
+mentorship group so it's the same charts
+ 
+mentorship group so it's the same charts
+that I'm producing for that community
+that I'm producing for that community
+ 
+that I'm producing for that community
+that I'm producing for you as well
+that I'm producing for you as well
+ 
+that I'm producing for you as well
+everything in this lecture is going to
+everything in this lecture is going to
+ 
+everything in this lecture is going to
+be predominantly around teaching you the
+be predominantly around teaching you the
+ 
+be predominantly around teaching you the
+elements of the e-
+elements of the e-
+ 
+elements of the e-
+mini setting up your daily range and
+mini setting up your daily range and
+ 
+mini setting up your daily range and
+your intraday layouts and I'll talk a
+your intraday layouts and I'll talk a
+ 
+your intraday layouts and I'll talk a
+little bit about daily profiles so that
+little bit about daily profiles so that
+ 
+little bit about daily profiles so that
+way I'll help you and I'll compare in
+way I'll help you and I'll compare in
+ 
+way I'll help you and I'll compare in
+contrast showing you what it is that
+contrast showing you what it is that
+ 
+contrast showing you what it is that
+you're trying to learn from me here
+you're trying to learn from me here
+ 
+you're trying to learn from me here
+versus what is available out there in
+versus what is available out there in
+ 
+versus what is available out there in
+the internet okay so that way you can
+the internet okay so that way you can
+ 
+the internet okay so that way you can
+decide whether or not this is going to
+decide whether or not this is going to
+ 
+decide whether or not this is going to
+be a worthwhile Pursuit for
+be a worthwhile Pursuit for
+ 
+be a worthwhile Pursuit for
+you these things that I'm
+you these things that I'm
+ 
+you these things that I'm
+teaching today are direct ly linked to
+teaching today are direct ly linked to
+ 
+teaching today are direct ly linked to
+index features okay like S&amp;P NASDAQ and
+index features okay like S&amp;P NASDAQ and
+ 
+index features okay like S&amp;P NASDAQ and
+theal okay you can use the Russell
+theal okay you can use the Russell
+ 
+theal okay you can use the Russell
+200000 those are the markets that I'm
+200000 those are the markets that I'm
+ 
+200000 those are the markets that I'm
+targeting with the lessons the ideas
+targeting with the lessons the ideas
+ 
+targeting with the lessons the ideas
+of trading the Asian range and things
+of trading the Asian range and things
+ 
+of trading the Asian range and things
+like that they are not applicable to
+like that they are not applicable to
+ 
+like that they are not applicable to
+these markets I don't teach that to my
+these markets I don't teach that to my
+ 
+these markets I don't teach that to my
+students I want you to just focus on the
+students I want you to just focus on the
+ 
+students I want you to just focus on the
+things I'm going to show you in this
+things I'm going to show you in this
+ 
+things I'm going to show you in this
+mentorship all right first things first
+mentorship all right first things first
+ 
+mentorship all right first things first
+I'm going to get the boring stuff right
+I'm going to get the boring stuff right
+ 
+I'm going to get the boring stuff right
+out of the way
+out of the way
+ 
+out of the way
+whenever you're looking at Futures
+whenever you're looking at Futures
+ 
+whenever you're looking at Futures
+especially the index Futures these
+especially the index Futures these
+ 
+especially the index Futures these
+contracts trade with expiration dates
+contracts trade with expiration dates
+ 
+contracts trade with expiration dates
+and the months that they trade are going
+and the months that they trade are going
+ 
+and the months that they trade are going
+to be shown here es is the symbol for E
+to be shown here es is the symbol for E
+ 
+to be shown here es is the symbol for E
+mini S&amp;P H in this example stands for
+mini S&amp;P H in this example stands for
+ 
+mini S&amp;P H in this example stands for
+March so the delivery month codes for
+March so the delivery month codes for
+ 
+March so the delivery month codes for
+the commodity markets H is always
+the commodity markets H is always
+ 
+the commodity markets H is always
+representing the month of
+representing the month of
+ 
+representing the month of
+March m is June U is September Z is
+March m is June U is September Z is
+ 
+March m is June U is September Z is
+December these are the only four months
+December these are the only four months
+ 
+December these are the only four months
+that the index Futures trade
+that the index Futures trade
+ 
+that the index Futures trade
+on E mini S&amp;P e mini NASDAQ and E mini
+on E mini S&amp;P e mini NASDAQ and E mini
+ 
+on E mini S&amp;P e mini NASDAQ and E mini
+Dow
+Dow
+ 
+Dow
+okay the year obviously is what it is
+okay the year obviously is what it is
+ 
+okay the year obviously is what it is
+now if you're going to be using like for
+now if you're going to be using like for
+ 
+now if you're going to be using like for
+instance when I take live trades in the
+instance when I take live trades in the
+ 
+instance when I take live trades in the
+TDM trade they don't take their year
+TDM trade they don't take their year
+ 
+TDM trade they don't take their year
+symbol like this it's 22 but in trading
+symbol like this it's 22 but in trading
+ 
+symbol like this it's 22 but in trading
+view if you're pulling out the symbol
+view if you're pulling out the symbol
+ 
+view if you're pulling out the symbol
+like I have here
+like I have here
+ 
+like I have here
+e2022 that represent the Emin S&amp;P 500
+e2022 that represent the Emin S&amp;P 500
+ 
+e2022 that represent the Emin S&amp;P 500
+contract for delivery month March year
+contract for delivery month March year
+ 
+contract for delivery month March year
+2022 okay since they expire it's
+2022 okay since they expire it's
+ 
+2022 okay since they expire it's
+important for you to know that the third
+important for you to know that the third
+ 
+important for you to know that the third
+Friday of the
+Friday of the
+ 
+Friday of the
+month of delivery which is obviously in
+month of delivery which is obviously in
+ 
+month of delivery which is obviously in
+this example here March the third Friday
+this example here March the third Friday
+ 
+this example here March the third Friday
+of that month is expiration you do not
+of that month is expiration you do not
+ 
+of that month is expiration you do not
+want to be trading after expiration and
+want to be trading after expiration and
+ 
+want to be trading after expiration and
+the question is going to be is when when
+the question is going to be is when when
+ 
+the question is going to be is when when
+do I start trading the next month out
+do I start trading the next month out
+ 
+do I start trading the next month out
+okay this is always going to be the
+okay this is always going to be the
+ 
+okay this is always going to be the
+front month or the current month or
+front month or the current month or
+ 
+front month or the current month or
+nearby contract the month after the
+nearby contract the month after the
+ 
+nearby contract the month after the
+front month or current contract month is
+front month or current contract month is
+ 
+front month or current contract month is
+always going to be referred to by me as
+always going to be referred to by me as
+ 
+always going to be referred to by me as
+the next month
+the next month
+ 
+the next month
+out if you ever have a doubt you can go
+out if you ever have a doubt you can go
+ 
+out if you ever have a doubt you can go
+to barchart.com and you can go to the
+to barchart.com and you can go to the
+ 
+to barchart.com and you can go to the
+select commodity tab here this is all
+select commodity tab here this is all
+ 
+select commodity tab here this is all
+free you can scrub down into this list
+free you can scrub down into this list
+ 
+free you can scrub down into this list
+here go to S&amp;P 500 E mini click on that
+here go to S&amp;P 500 E mini click on that
+ 
+here go to S&amp;P 500 E mini click on that
+it'll open up what I just showed you
+it'll open up what I just showed you
+ 
+it'll open up what I just showed you
+there and the the first one that's the
+there and the the first one that's the
+ 
+there and the the first one that's the
+cash you don't want to look at that the
+cash you don't want to look at that the
+ 
+cash you don't want to look at that the
+next contract available is March see
+next contract available is March see
+ 
+next contract available is March see
+that even gives you the little
+that even gives you the little
+ 
+that even gives you the little
+cheat right now this is considered the
+cheat right now this is considered the
+ 
+cheat right now this is considered the
+front month or nearby
+front month or nearby
+ 
+front month or nearby
+contract the open interest is what I'm
+contract the open interest is what I'm
+ 
+contract the open interest is what I'm
+watching okay so one week before
+watching okay so one week before
+ 
+watching okay so one week before
+expiration which is the third Friday of
+expiration which is the third Friday of
+ 
+expiration which is the third Friday of
+the delivery contract month month so
+the delivery contract month month so
+ 
+the delivery contract month month so
+third Friday of March third Friday of
+third Friday of March third Friday of
+ 
+third Friday of March third Friday of
+June third Friday of September third
+June third Friday of September third
+ 
+June third Friday of September third
+Friday of December roll over to a new
+Friday of December roll over to a new
+ 
+Friday of December roll over to a new
+year starts the sequence all over again
+year starts the sequence all over again
+ 
+year starts the sequence all over again
+March June September December real easy
+March June September December real easy
+ 
+March June September December real easy
+pattern real
+pattern real
+ 
+pattern real
+easy means of keeping track of where
+easy means of keeping track of where
+ 
+easy means of keeping track of where
+you're supposed to be at but usually
+you're supposed to be at but usually
+ 
+you're supposed to be at but usually
+around the first or second day of the
+around the first or second day of the
+ 
+around the first or second day of the
+week prior to expiration I start
+week prior to expiration I start
+ 
+week prior to expiration I start
+monitoring open interest and I want to
+monitoring open interest and I want to
+ 
+monitoring open interest and I want to
+be in the month that has the larger open
+be in the month that has the larger open
+ 
+be in the month that has the larger open
+interest number notice that the June
+interest number notice that the June
+ 
+interest number notice that the June
+contract only has
+ 
+ 
+ 
+57,124 million so this is the larger
+57,124 million so this is the larger
+ 
+57,124 million so this is the larger
+liquidity base contract month so I'm
+liquidity base contract month so I'm
+ 
+liquidity base contract month so I'm
+going to be trading this
+going to be trading this
+ 
+going to be trading this
+month if it becomes a matter of this
+month if it becomes a matter of this
+ 
+month if it becomes a matter of this
+month here has larger open interest than
+month here has larger open interest than
+ 
+month here has larger open interest than
+this one here then I'm going to be
+this one here then I'm going to be
+ 
+this one here then I'm going to be
+trading the next month out because I
+trading the next month out because I
+ 
+trading the next month out because I
+want the liquidity that's available in
+want the liquidity that's available in
+ 
+want the liquidity that's available in
+the larger pool liquidity offered by the
+the larger pool liquidity offered by the
+ 
+the larger pool liquidity offered by the
+most traded contract month okay so
+most traded contract month okay so
+ 
+most traded contract month okay so
+hopefully that answered that question
+hopefully that answered that question
+ 
+hopefully that answered that question
+got a lot of questions regarding
+got a lot of questions regarding
+ 
+got a lot of questions regarding
+that all right so now what we're looking
+that all right so now what we're looking
+ 
+that all right so now what we're looking
+for is an opportunity and I'm going
+for is an opportunity and I'm going
+ 
+for is an opportunity and I'm going
+to teach bias and specific entry
+to teach bias and specific entry
+ 
+to teach bias and specific entry
+techniques next week this week I'm
+techniques next week this week I'm
+ 
+techniques next week this week I'm
+teaching you the intraday framework and
+teaching you the intraday framework and
+ 
+teaching you the intraday framework and
+I want you to start thinking about
+I want you to start thinking about
+ 
+I want you to start thinking about
+market profiles and you're going to have
+market profiles and you're going to have
+ 
+market profiles and you're going to have
+homework assignments obviously for that
+homework assignments obviously for that
+ 
+homework assignments obviously for that
+at the end of this video but we're going
+at the end of this video but we're going
+ 
+at the end of this video but we're going
+to
+to
+ 
+to
+assume that you were bullish in here
+assume that you were bullish in here
+ 
+assume that you were bullish in here
+okay I'm going to provide proof in this
+okay I'm going to provide proof in this
+ 
+okay I'm going to provide proof in this
+video that I was bullish and I did
+video that I was bullish and I did
+ 
+video that I was bullish and I did
+execute with that bias in mind but but
+execute with that bias in mind but but
+ 
+execute with that bias in mind but but
+just kind of put that to the sideline I
+just kind of put that to the sideline I
+ 
+just kind of put that to the sideline I
+know some of you are very anxious and
+know some of you are very anxious and
+ 
+know some of you are very anxious and
+you're leaving comments saying can you
+you're leaving comments saying can you
+ 
+you're leaving comments saying can you
+teach me how to get in you know what you
+teach me how to get in you know what you
+ 
+teach me how to get in you know what you
+know what am I looking for I understand
+know what am I looking for I understand
+ 
+know what am I looking for I understand
+your excitement but take the lessons at
+your excitement but take the lessons at
+ 
+your excitement but take the lessons at
+the pace that I'm giving you because I'm
+the pace that I'm giving you because I'm
+ 
+the pace that I'm giving you because I'm
+giving you homework assignments and
+giving you homework assignments and
+ 
+giving you homework assignments and
+studying so that way it helps build and
+studying so that way it helps build and
+ 
+studying so that way it helps build and
+ingrain the understanding I'm giving you
+ingrain the understanding I'm giving you
+ 
+ingrain the understanding I'm giving you
+because your study time is actually
+because your study time is actually
+ 
+because your study time is actually
+going to be where the majority of your
+going to be where the majority of your
+ 
+going to be where the majority of your
+learning is going to come from I'm just
+learning is going to come from I'm just
+ 
+learning is going to come from I'm just
+giving you you know points of reference
+giving you you know points of reference
+ 
+giving you you know points of reference
+so that way you can go in and start
+so that way you can go in and start
+ 
+so that way you can go in and start
+looking at things and start seeing a
+looking at things and start seeing a
+ 
+looking at things and start seeing a
+reoccurring repeating
+reoccurring repeating
+ 
+reoccurring repeating
+phenomenon but I want to take
+phenomenon but I want to take
+ 
+phenomenon but I want to take
+a look at the
+a look at the
+ 
+a look at the
+15minute time
+ 
+ 
+ 
+frame all right
+frame all right
+ 
+frame all right
+and when you're looking at this
+and when you're looking at this
+ 
+and when you're looking at this
+15-minute time frame this is the Bell
+15-minute time frame this is the Bell
+ 
+15-minute time frame this is the Bell
+weather time frame this is
+weather time frame this is
+ 
+weather time frame this is
+where I'm looking for key highs and lows
+where I'm looking for key highs and lows
+ 
+where I'm looking for key highs and lows
+I'm looking for imbalances like fair
+I'm looking for imbalances like fair
+ 
+I'm looking for imbalances like fair
+value gaps and things of that nature um
+value gaps and things of that nature um
+ 
+value gaps and things of that nature um
+yes I'll look for order blocks but I'm
+yes I'll look for order blocks but I'm
+ 
+yes I'll look for order blocks but I'm
+going to try to stay away from order
+going to try to stay away from order
+ 
+going to try to stay away from order
+blocks in this lesson in this mentorship
+blocks in this lesson in this mentorship
+ 
+blocks in this lesson in this mentorship
+really because I have models that don't
+really because I have models that don't
+ 
+really because I have models that don't
+even rely on order blocks obviously I'm
+even rely on order blocks obviously I'm
+ 
+even rely on order blocks obviously I'm
+teaching fair value Gap here and that is
+teaching fair value Gap here and that is
+ 
+teaching fair value Gap here and that is
+the main focus because it repeats it's
+the main focus because it repeats it's
+ 
+the main focus because it repeats it's
+easy pattern it's it's there a lot but I
+easy pattern it's it's there a lot but I
+ 
+easy pattern it's it's there a lot but I
+want you to think about how you frame
+want you to think about how you frame
+ 
+want you to think about how you frame
+your day so when you're in trading view
+your day so when you're in trading view
+ 
+your day so when you're in trading view
+or you can do this in your own platform
+or you can do this in your own platform
+ 
+or you can do this in your own platform
+if you're not using trading view but I'm
+if you're not using trading view but I'm
+ 
+if you're not using trading view but I'm
+recommending you at least while you're
+recommending you at least while you're
+ 
+recommending you at least while you're
+going through mentorship here on YouTube
+going through mentorship here on YouTube
+ 
+going through mentorship here on YouTube
+to go through the process with trading
+to go through the process with trading
+ 
+to go through the process with trading
+view all right and then this is what you
+view all right and then this is what you
+ 
+view all right and then this is what you
+would classically see annotated in my
+would classically see annotated in my
+ 
+would classically see annotated in my
+chart for a Forex setup I'm taking you
+chart for a Forex setup I'm taking you
+ 
+chart for a Forex setup I'm taking you
+to
+to
+ 
+to
+8:30 okay you're going to put a vertical
+8:30 okay you're going to put a vertical
+ 
+8:30 okay you're going to put a vertical
+line there at
+line there at
+ 
+line there at
+8:30 click this clone I know this is
+8:30 click this clone I know this is
+ 
+8:30 click this clone I know this is
+very boring for some of you because you
+very boring for some of you because you
+ 
+very boring for some of you because you
+really want to just get in there and get
+really want to just get in there and get
+ 
+really want to just get in there and get
+to the nuts and bolts but I have new
+to the nuts and bolts but I have new
+ 
+to the nuts and bolts but I have new
+people watching the same video so I have
+people watching the same video so I have
+ 
+people watching the same video so I have
+to make this as complete as possible and
+to make this as complete as possible and
+ 
+to make this as complete as possible and
+try to cover all the bases and then
+try to cover all the bases and then
+ 
+try to cover all the bases and then
+hopefully I don't get as many
+hopefully I don't get as many
+ 
+hopefully I don't get as many
+emails cuz I can't keep up with them and
+emails cuz I can't keep up with them and
+ 
+emails cuz I can't keep up with them and
+so if you email me and I'm not
+so if you email me and I'm not
+ 
+so if you email me and I'm not
+responding I apologize but I just I I
+responding I apologize but I just I I
+ 
+responding I apologize but I just I I
+can't keep up with
+can't keep up with
+ 
+can't keep up with
+it all right so we looking
+ 
+ 
+ 
+at there you go that's good all right so
+at there you go that's good all right so
+ 
+at there you go that's good all right so
+the equal distance and time in the
+the equal distance and time in the
+ 
+the equal distance and time in the
+morning then an hour lunch New York
+morning then an hour lunch New York
+ 
+morning then an hour lunch New York
+lunch and then an equal amount of time
+lunch and then an equal amount of time
+ 
+lunch and then an equal amount of time
+after that okay so I want to zoom in
+ 
+ 
+ 
+here and in your mind I want you to
+here and in your mind I want you to
+ 
+here and in your mind I want you to
+think about that lunch hour and this is
+think about that lunch hour and this is
+ 
+think about that lunch hour and this is
+always New York local time okay set your
+always New York local time okay set your
+ 
+always New York local time okay set your
+trading view chart to this if you do
+trading view chart to this if you do
+ 
+trading view chart to this if you do
+that no matter where you are in the
+that no matter where you are in the
+ 
+that no matter where you are in the
+world you'll be able to calibrate your
+world you'll be able to calibrate your
+ 
+world you'll be able to calibrate your
+local time with this okay everything I'm
+local time with this okay everything I'm
+ 
+local time with this okay everything I'm
+showing you is directly linked to New
+showing you is directly linked to New
+ 
+showing you is directly linked to New
+York local time if you do it with any
+York local time if you do it with any
+ 
+York local time if you do it with any
+other time frame you're going to mess up
+other time frame you're going to mess up
+ 
+other time frame you're going to mess up
+you won't have the same calibrations as
+you won't have the same calibrations as
+ 
+you won't have the same calibrations as
+all my students in what I'm looking at
+all my students in what I'm looking at
+ 
+all my students in what I'm looking at
+in price because eventually I'm going to
+in price because eventually I'm going to
+ 
+in price because eventually I'm going to
+be showing you charts on my community
+be showing you charts on my community
+ 
+be showing you charts on my community
+tab that I want you to be watching
+tab that I want you to be watching
+ 
+tab that I want you to be watching
+before it happens but before I even
+before it happens but before I even
+ 
+before it happens but before I even
+start doing that I'm not going to create
+start doing that I'm not going to create
+ 
+start doing that I'm not going to create
+a train wreck by having everybody
+a train wreck by having everybody
+ 
+a train wreck by having everybody
+looking at charts in their own local
+looking at charts in their own local
+ 
+looking at charts in their own local
+time and not New York time and
+time and not New York time and
+ 
+time and not New York time and
+completely miss the the point and plot
+completely miss the the point and plot
+ 
+completely miss the the point and plot
+so once we have
+so once we have
+ 
+so once we have
+this I want you to think of this hour
+ 
+ 
+ 
+here noon to 1:00 in the
+here noon to 1:00 in the
+ 
+here noon to 1:00 in the
+afternoon New York
+afternoon New York
+ 
+afternoon New York
+time that is a no trade time period I
+time that is a no trade time period I
+ 
+time that is a no trade time period I
+don't care who tells you that they can
+don't care who tells you that they can
+ 
+don't care who tells you that they can
+do this and do that if you're learning
+do this and do that if you're learning
+ 
+do this and do that if you're learning
+from me just don't trade during that
+from me just don't trade during that
+ 
+from me just don't trade during that
+time okay not even in demo because just
+time okay not even in demo because just
+ 
+time okay not even in demo because just
+trust me don't do it
+trust me don't do it
+ 
+trust me don't do it
+okay as we go through the mentorship
+okay as we go through the mentorship
+ 
+okay as we go through the mentorship
+you'll understand more reasons why I
+you'll understand more reasons why I
+ 
+you'll understand more reasons why I
+just can't give everything in one video
+just can't give everything in one video
+ 
+just can't give everything in one video
+obviously I want to and I I want to do
+obviously I want to and I I want to do
+ 
+obviously I want to and I I want to do
+4H hour long teachings but but I'm
+4H hour long teachings but but I'm
+ 
+4H hour long teachings but but I'm
+trying to make them palatable because I
+trying to make them palatable because I
+ 
+trying to make them palatable because I
+know majority of you don't have the
+know majority of you don't have the
+ 
+know majority of you don't have the
+attention span because you're new and
+attention span because you're new and
+ 
+attention span because you're new and
+you're just now discovering so I'm
+you're just now discovering so I'm
+ 
+you're just now discovering so I'm
+trying to bear that in mind when I'm
+trying to bear that in mind when I'm
+ 
+trying to bear that in mind when I'm
+making these presentations so you have
+making these presentations so you have
+ 
+making these presentations so you have
+your daily range on an intraday
+your daily range on an intraday
+ 
+your daily range on an intraday
+basis all set up and laid out so these
+basis all set up and laid out so these
+ 
+basis all set up and laid out so these
+are your boundaries your morning trade
+are your boundaries your morning trade
+ 
+are your boundaries your morning trade
+is between 8:30 in the morning why
+is between 8:30 in the morning why
+ 
+is between 8:30 in the morning why
+because there's news events that come
+because there's news events that come
+ 
+because there's news events that come
+out at
+out at
+ 
+out at
+8:30 all the way to noon preferably
+8:30 all the way to noon preferably
+ 
+8:30 all the way to noon preferably
+around 11:00 I generally don't like to
+around 11:00 I generally don't like to
+ 
+around 11:00 I generally don't like to
+take
+take
+ 
+take
+trades after 11 o'clock in the morning
+trades after 11 o'clock in the morning
+ 
+trades after 11 o'clock in the morning
+now it doesn't mean I haven't or that I
+now it doesn't mean I haven't or that I
+ 
+now it doesn't mean I haven't or that I
+won't I just generally try not to I want
+won't I just generally try not to I want
+ 
+won't I just generally try not to I want
+to try to be positioned before 11:00 and
+to try to be positioned before 11:00 and
+ 
+to try to be positioned before 11:00 and
+hopefully be riding something into the
+hopefully be riding something into the
+ 
+hopefully be riding something into the
+New York lunch at noon and then you know
+New York lunch at noon and then you know
+ 
+New York lunch at noon and then you know
+squaring positions or taking some off if
+squaring positions or taking some off if
+ 
+squaring positions or taking some off if
+I'm going to hold through the lunch and
+I'm going to hold through the lunch and
+ 
+I'm going to hold through the lunch and
+anticipate something going through to
+anticipate something going through to
+ 
+anticipate something going through to
+the close and we'll talk about that when
+the close and we'll talk about that when
+ 
+the close and we'll talk about that when
+we get into
+we get into
+ 
+we get into
+profiles not volume profile okay uh the
+profiles not volume profile okay uh the
+ 
+profiles not volume profile okay uh the
+idea of the afternoon session I wasn't
+idea of the afternoon session I wasn't
+ 
+idea of the afternoon session I wasn't
+going to teach that
+going to teach that
+ 
+going to teach that
+but because I see a lot of nonsense on
+but because I see a lot of nonsense on
+ 
+but because I see a lot of nonsense on
+YouTube I'm going to I'm just going to
+YouTube I'm going to I'm just going to
+ 
+YouTube I'm going to I'm just going to
+teach it to you okay so it's going to be
+teach it to you okay so it's going to be
+ 
+teach it to you okay so it's going to be
+a complete daily treaties on the entire
+a complete daily treaties on the entire
+ 
+a complete daily treaties on the entire
+daily range of indices so that
+daily range of indices so that
+ 
+daily range of indices so that
+way if you're interest is in this asset
+way if you're interest is in this asset
+ 
+way if you're interest is in this asset
+class you'll have a far better chance of
+class you'll have a far better chance of
+ 
+class you'll have a far better chance of
+being successful in my opinion using the
+being successful in my opinion using the
+ 
+being successful in my opinion using the
+information I'm going to give you okay
+information I'm going to give you okay
+ 
+information I'm going to give you okay
+and I'm proving it with actual
+and I'm proving it with actual
+ 
+and I'm proving it with actual
+executions as you'll see later in the
+executions as you'll see later in the
+ 
+executions as you'll see later in the
+video all right so we're looking
+video all right so we're looking
+ 
+video all right so we're looking
+at prior to 8:30 what are you looking
+at prior to 8:30 what are you looking
+ 
+at prior to 8:30 what are you looking
+for okay I got a lot of questions in the
+for okay I got a lot of questions in the
+ 
+for okay I got a lot of questions in the
+comment section I'm reading all the
+comment section I'm reading all the
+ 
+comment section I'm reading all the
+comments folks I love it because it's
+comments folks I love it because it's
+ 
+comments folks I love it because it's
+real short little Snippets I know a lot
+real short little Snippets I know a lot
+ 
+real short little Snippets I know a lot
+of my students they like to send me
+of my students they like to send me
+ 
+of my students they like to send me
+these really long-winded appreciative
+these really long-winded appreciative
+ 
+these really long-winded appreciative
+emails and then they give me one chart
+emails and then they give me one chart
+ 
+emails and then they give me one chart
+that doesn't really explain much to me
+that doesn't really explain much to me
+ 
+that doesn't really explain much to me
+and I can't really answer it so the
+and I can't really answer it so the
+ 
+and I can't really answer it so the
+comment section that
+comment section that
+ 
+comment section that
+I'm opening up on every one of these
+I'm opening up on every one of these
+ 
+I'm opening up on every one of these
+videos if you haven't noticed I'm
+videos if you haven't noticed I'm
+ 
+videos if you haven't noticed I'm
+allowing one comment that to kind of
+allowing one comment that to kind of
+ 
+allowing one comment that to kind of
+like honor those individuals that are
+like honor those individuals that are
+ 
+like honor those individuals that are
+showing appreciation and they're not
+showing appreciation and they're not
+ 
+showing appreciation and they're not
+gratuitously you know looking to praise
+gratuitously you know looking to praise
+ 
+gratuitously you know looking to praise
+me I don't like that okay I I I like the
+me I don't like that okay I I I like the
+ 
+me I don't like that okay I I I like the
+appreciation for my time and energy and
+appreciation for my time and energy and
+ 
+appreciation for my time and energy and
+sacrifice giving it to you for free but
+sacrifice giving it to you for free but
+ 
+sacrifice giving it to you for free but
+I don't want to be worshiped okay I
+I don't want to be worshiped okay I
+ 
+I don't want to be worshiped okay I
+don't want all that kind of stuff don't
+don't want all that kind of stuff don't
+ 
+don't want all that kind of stuff don't
+call me the goat don't call me you the
+call me the goat don't call me you the
+ 
+call me the goat don't call me you the
+greatest of all time I don't like that
+greatest of all time I don't like that
+ 
+greatest of all time I don't like that
+kind of stuff but if you have something
+kind of stuff but if you have something
+ 
+kind of stuff but if you have something
+that you want me to touch on and improve
+that you want me to touch on and improve
+ 
+that you want me to touch on and improve
+a delivery or explanation of a specific
+a delivery or explanation of a specific
+ 
+a delivery or explanation of a specific
+thing I mentioned in a video I may
+thing I mentioned in a video I may
+ 
+thing I mentioned in a video I may
+already have something in a future
+already have something in a future
+ 
+already have something in a future
+lesson planned but if it's something
+lesson planned but if it's something
+ 
+lesson planned but if it's something
+that I don't have in my outline that's
+that I don't have in my outline that's
+ 
+that I don't have in my outline that's
+going to be in future videos I'll
+going to be in future videos I'll
+ 
+going to be in future videos I'll
+utilize the feedback I get okay so that
+utilize the feedback I get okay so that
+ 
+utilize the feedback I get okay so that
+way I understand some of you want
+way I understand some of you want
+ 
+way I understand some of you want
+everything all at one time and there's
+everything all at one time and there's
+ 
+everything all at one time and there's
+no way I can do the all that in one time
+no way I can do the all that in one time
+ 
+no way I can do the all that in one time
+but I am taking the feedback back I'm
+but I am taking the feedback back I'm
+ 
+but I am taking the feedback back I'm
+getting from you all and I'm using that
+getting from you all and I'm using that
+ 
+getting from you all and I'm using that
+okay but one of the questions I got was
+okay but one of the questions I got was
+ 
+okay but one of the questions I got was
+what highs and lows are we looking for
+what highs and lows are we looking for
+ 
+what highs and lows are we looking for
+that you know a stop run would be framed
+that you know a stop run would be framed
+ 
+that you know a stop run would be framed
+on or what would be the Catalyst for a
+on or what would be the Catalyst for a
+ 
+on or what would be the Catalyst for a
+stop hunt well prior to 8:30 if you look
+stop hunt well prior to 8:30 if you look
+ 
+stop hunt well prior to 8:30 if you look
+at that okay
+at that okay
+ 
+at that okay
+we'll just grab a horizontal
+we'll just grab a horizontal
+ 
+we'll just grab a horizontal
+Ray and we see this High here and I'm
+Ray and we see this High here and I'm
+ 
+Ray and we see this High here and I'm
+utilizing this with the benefit of
+utilizing this with the benefit of
+ 
+utilizing this with the benefit of
+hindsight
+hindsight
+ 
+hindsight
+cuz this is how you're going to go back
+cuz this is how you're going to go back
+ 
+cuz this is how you're going to go back
+and back test everything I want you to
+and back test everything I want you to
+ 
+and back test everything I want you to
+take a look at
+take a look at
+ 
+take a look at
+the high
+ 
+ 
+ 
+here and the low right
+ 
+ 
+ 
+here so prior to 830 and other words to
+here so prior to 830 and other words to
+ 
+here so prior to 830 and other words to
+the left of that on a 15-minute time
+the left of that on a 15-minute time
+ 
+the left of that on a 15-minute time
+frame what's the most significant or
+frame what's the most significant or
+ 
+frame what's the most significant or
+obvious swing high and swing low swing
+obvious swing high and swing low swing
+ 
+obvious swing high and swing low swing
+high as this it's a candle with a lower
+high as this it's a candle with a lower
+ 
+high as this it's a candle with a lower
+high to the left of it and a lower high
+high to the left of it and a lower high
+ 
+high to the left of it and a lower high
+to the right of it three candle pattern
+to the right of it three candle pattern
+ 
+to the right of it three candle pattern
+okay it does not matter if the candles
+okay it does not matter if the candles
+ 
+okay it does not matter if the candles
+are up or down closes you're just
+are up or down closes you're just
+ 
+are up or down closes you're just
+looking for a swing High because above
+looking for a swing High because above
+ 
+looking for a swing High because above
+that's it's going to be buy side
+that's it's going to be buy side
+ 
+that's it's going to be buy side
+liquidity or buy stops and a swing low
+liquidity or buy stops and a swing low
+ 
+liquidity or buy stops and a swing low
+prior to 8:30 that's a candle that has a
+prior to 8:30 that's a candle that has a
+ 
+prior to 8:30 that's a candle that has a
+higher low to the left and a higher low
+higher low to the left and a higher low
+ 
+higher low to the left and a higher low
+to the right of it it's three candles
+to the right of it it's three candles
+ 
+to the right of it it's three candles
+again it does not matter what
+again it does not matter what
+ 
+again it does not matter what
+the close of the candles are it has
+the close of the candles are it has
+ 
+the close of the candles are it has
+absolutely no bearing on what I'm
+absolutely no bearing on what I'm
+ 
+absolutely no bearing on what I'm
+showing you here because the swing
+showing you here because the swing
+ 
+showing you here because the swing
+points are where liquidity is going to
+points are where liquidity is going to
+ 
+points are where liquidity is going to
+be placed okay so once you have these
+be placed okay so once you have these
+ 
+be placed okay so once you have these
+levels on your chart on a 50-minute time
+levels on your chart on a 50-minute time
+ 
+levels on your chart on a 50-minute time
+frame then you can drop down into your
+frame then you can drop down into your
+ 
+frame then you can drop down into your
+first lower time frame for
+first lower time frame for
+ 
+first lower time frame for
+entry that's your F minute chart so
+entry that's your F minute chart so
+ 
+entry that's your F minute chart so
+let's do that now all these things will
+let's do that now all these things will
+ 
+let's do that now all these things will
+be transposed right to the 5minute Chart
+be transposed right to the 5minute Chart
+ 
+be transposed right to the 5minute Chart
+you won't lose anything in case you're
+you won't lose anything in case you're
+ 
+you won't lose anything in case you're
+wondering I know a lot of new people are
+wondering I know a lot of new people are
+ 
+wondering I know a lot of new people are
+afraid if they do something with the
+afraid if they do something with the
+ 
+afraid if they do something with the
+time frame they'll lose
+time frame they'll lose
+ 
+time frame they'll lose
+annotations all right so now we have
+annotations all right so now we have
+ 
+annotations all right so now we have
+this old high back here look
+this old high back here look
+ 
+this old high back here look
+at look at this price right there okay
+at look at this price right there okay
+ 
+at look at this price right there okay
+that's going to be the uh high price on
+that's going to be the uh high price on
+ 
+that's going to be the uh high price on
+that particular candle right there it's
+that particular candle right there it's
+ 
+that particular candle right there it's
+45145 this candle trades to 4514 A5
+45145 this candle trades to 4514 A5
+ 
+45145 this candle trades to 4514 A5
+exactly the same high when we have that
+exactly the same high when we have that
+ 
+exactly the same high when we have that
+but look closer we have relative equal
+but look closer we have relative equal
+ 
+but look closer we have relative equal
+high but we have it in multiple
+high but we have it in multiple
+ 
+high but we have it in multiple
+short-term highs that keep going higher
+short-term highs that keep going higher
+ 
+short-term highs that keep going higher
+if there's three
+if there's three
+ 
+if there's three
+highs they go up like that that's a
+highs they go up like that that's a
+ 
+highs they go up like that that's a
+classic three drives pattern uh there's
+classic three drives pattern uh there's
+ 
+classic three drives pattern uh there's
+a book I really enjoyed when I was in
+a book I really enjoyed when I was in
+ 
+a book I really enjoyed when I was in
+the 90s uh Linda rash and Larry Connor's
+the 90s uh Linda rash and Larry Connor's
+ 
+the 90s uh Linda rash and Larry Connor's
+uh Street smarts book um really nice
+uh Street smarts book um really nice
+ 
+uh Street smarts book um really nice
+little book I don't like everything in
+little book I don't like everything in
+ 
+little book I don't like everything in
+the book but I liked a few of the things
+the book but I liked a few of the things
+ 
+the book but I liked a few of the things
+that they talked about
+that they talked about
+ 
+that they talked about
+and it helped me understand stop hunts
+and it helped me understand stop hunts
+ 
+and it helped me understand stop hunts
+because I couldn't understand it as a
+because I couldn't understand it as a
+ 
+because I couldn't understand it as a
+developing
+developing
+ 
+developing
+student that
+student that
+ 
+student that
+why would the price want to go for those
+why would the price want to go for those
+ 
+why would the price want to go for those
+stops it didn't make any sense because
+stops it didn't make any sense because
+ 
+stops it didn't make any sense because
+the books that I had bought never really
+the books that I had bought never really
+ 
+the books that I had bought never really
+explained all that in in detail they
+explained all that in in detail they
+ 
+explained all that in in detail they
+just said trust this pattern of
+just said trust this pattern of
+ 
+just said trust this pattern of
+continuation or reversal pattern and the
+continuation or reversal pattern and the
+ 
+continuation or reversal pattern and the
+idea of stop hunts or raids on liquidity
+idea of stop hunts or raids on liquidity
+ 
+idea of stop hunts or raids on liquidity
+never really came up so it was an alien
+never really came up so it was an alien
+ 
+never really came up so it was an alien
+topic to me so when I started delving
+topic to me so when I started delving
+ 
+topic to me so when I started delving
+into the charts and started looking at
+into the charts and started looking at
+ 
+into the charts and started looking at
+it it helped me and the pattern that she
+it it helped me and the pattern that she
+ 
+it it helped me and the pattern that she
+and Larry mentioned in there was the
+and Larry mentioned in there was the
+ 
+and Larry mentioned in there was the
+three little endings pattern it sounds
+three little endings pattern it sounds
+ 
+three little endings pattern it sounds
+quirky sounds a little silly but it's
+quirky sounds a little silly but it's
+ 
+quirky sounds a little silly but it's
+basically the three drives pattern okay
+basically the three drives pattern okay
+ 
+basically the three drives pattern okay
+that means it's a swing High a higher
+that means it's a swing High a higher
+ 
+that means it's a swing High a higher
+swing High and a higher swing high so
+swing High and a higher swing high so
+ 
+swing High and a higher swing high so
+it's three times the market kept
+it's three times the market kept
+ 
+it's three times the market kept
+pressing up I like to see this pattern
+pressing up I like to see this pattern
+ 
+pressing up I like to see this pattern
+forming when there's an old high back
+forming when there's an old high back
+ 
+forming when there's an old high back
+here okay on any time frame it's
+here okay on any time frame it's
+ 
+here okay on any time frame it's
+Universal okay but if you ever start
+Universal okay but if you ever start
+ 
+Universal okay but if you ever start
+seeing these three drives up into an old
+seeing these three drives up into an old
+ 
+seeing these three drives up into an old
+high you don't have to see that third
+high you don't have to see that third
+ 
+high you don't have to see that third
+High take out the old High because what
+High take out the old High because what
+ 
+High take out the old High because what
+it's doing is
+it's doing is
+ 
+it's doing is
+it's already pressing into running out
+it's already pressing into running out
+ 
+it's already pressing into running out
+liquidity every time it creates a swing
+liquidity every time it creates a swing
+ 
+liquidity every time it creates a swing
+high and it starts to go down bears are
+high and it starts to go down bears are
+ 
+high and it starts to go down bears are
+trying to sell that and they're putting
+trying to sell that and they're putting
+ 
+trying to sell that and they're putting
+buy stops rating above the previous high
+buy stops rating above the previous high
+ 
+buy stops rating above the previous high
+and they keep getting taken so it's
+and they keep getting taken so it's
+ 
+and they keep getting taken so it's
+already building in liquidity and
+already building in liquidity and
+ 
+already building in liquidity and
+informed investors or quote unquote
+informed investors or quote unquote
+ 
+informed investors or quote unquote
+smart money will be already establishing
+smart money will be already establishing
+ 
+smart money will be already establishing
+short
+short
+ 
+short
+positions then the market breaks in one
+positions then the market breaks in one
+ 
+positions then the market breaks in one
+of the previous videos I talked about
+of the previous videos I talked about
+ 
+of the previous videos I talked about
+the pattern or the setup and I suggested
+the pattern or the setup and I suggested
+ 
+the pattern or the setup and I suggested
+not
+not
+ 
+not
+using a particular swing low that looks
+using a particular swing low that looks
+ 
+using a particular swing low that looks
+like it's been violated and why didn't
+like it's been violated and why didn't
+ 
+like it's been violated and why didn't
+that trade work out wouldn't that be a
+that trade work out wouldn't that be a
+ 
+that trade work out wouldn't that be a
+losing
+losing
+ 
+losing
+trade I want you to think
+trade I want you to think
+ 
+trade I want you to think
+about this idea that I teach which is
+about this idea that I teach which is
+ 
+about this idea that I teach which is
+displacement
+displacement
+ 
+displacement
+okay if you have a children's swimming
+okay if you have a children's swimming
+ 
+okay if you have a children's swimming
+pool okay if you have a children's
+pool okay if you have a children's
+ 
+pool okay if you have a children's
+swimming pool in your backyard and you
+swimming pool in your backyard and you
+ 
+swimming pool in your backyard and you
+fill it up and then you have an elephant
+fill it up and then you have an elephant
+ 
+fill it up and then you have an elephant
+just fall down inside of it what's going
+just fall down inside of it what's going
+ 
+just fall down inside of it what's going
+to happen the water's going to be
+to happen the water's going to be
+ 
+to happen the water's going to be
+displaced okay it's going to be an
+displaced okay it's going to be an
+ 
+displaced okay it's going to be an
+obvious displacement of that
+obvious displacement of that
+ 
+obvious displacement of that
+water rather simplistic analogy but
+water rather simplistic analogy but
+ 
+water rather simplistic analogy but
+that's what you're looking for in price
+that's what you're looking for in price
+ 
+that's what you're looking for in price
+when price goes above an old
+when price goes above an old
+ 
+when price goes above an old
+high and it trades down below it you
+high and it trades down below it you
+ 
+high and it trades down below it you
+want to see an obvious displacement you
+want to see an obvious displacement you
+ 
+want to see an obvious displacement you
+don't want to see it just dude like H
+don't want to see it just dude like H
+ 
+don't want to see it just dude like H
+well you know little lethargic run here
+well you know little lethargic run here
+ 
+well you know little lethargic run here
+that's not enough this is like that
+that's not enough this is like that
+ 
+that's not enough this is like that
+elephant falling into that children's
+elephant falling into that children's
+ 
+elephant falling into that children's
+swimming pool it's no doubt about it it
+swimming pool it's no doubt about it it
+ 
+swimming pool it's no doubt about it it
+really had a displacement when that
+really had a displacement when that
+ 
+really had a displacement when that
+occurs then you go in you start looking
+occurs then you go in you start looking
+ 
+occurs then you go in you start looking
+for the fair value
+for the fair value
+ 
+for the fair value
+G the low the high and if it trades back
+G the low the high and if it trades back
+ 
+G the low the high and if it trades back
+up into that then you can look for a
+up into that then you can look for a
+ 
+up into that then you can look for a
+short
+ 
+ 
+ 
+okay there's a process that you go
+okay there's a process that you go
+ 
+okay there's a process that you go
+through learning it and it's good that
+through learning it and it's good that
+ 
+through learning it and it's good that
+three of you were very critical about it
+three of you were very critical about it
+ 
+three of you were very critical about it
+but but trust me there's rules for
+but but trust me there's rules for
+ 
+but but trust me there's rules for
+reason and I'm not trying to hide
+reason and I'm not trying to hide
+ 
+reason and I'm not trying to hide
+failure because these patterns sometimes
+failure because these patterns sometimes
+ 
+failure because these patterns sometimes
+will fail you okay you'll read them
+will fail you okay you'll read them
+ 
+will fail you okay you'll read them
+wrong or they just won't work okay
+wrong or they just won't work okay
+ 
+wrong or they just won't work okay
+sometimes the market will have some kind
+sometimes the market will have some kind
+ 
+sometimes the market will have some kind
+of a news event that comes out or it
+of a news event that comes out or it
+ 
+of a news event that comes out or it
+just simply just rolls over top of it
+just simply just rolls over top of it
+ 
+just simply just rolls over top of it
+and goes higher goes lower that's a
+and goes higher goes lower that's a
+ 
+and goes higher goes lower that's a
+losing trade that's why you have to have
+losing trade that's why you have to have
+ 
+losing trade that's why you have to have
+a stop loss that's why you have to have
+a stop loss that's why you have to have
+ 
+a stop loss that's why you have to have
+good sound money management because if
+good sound money management because if
+ 
+good sound money management because if
+you don't have those
+you don't have those
+ 
+you don't have those
+things Murphy's Law is going to creep in
+things Murphy's Law is going to creep in
+ 
+things Murphy's Law is going to creep in
+and whatever can go wrong will and if
+and whatever can go wrong will and if
+ 
+and whatever can go wrong will and if
+you leave it open to the markets that
+you leave it open to the markets that
+ 
+you leave it open to the markets that
+determination how bad the Pain's going
+determination how bad the Pain's going
+ 
+determination how bad the Pain's going
+to be trust me you don't want that okay
+to be trust me you don't want that okay
+ 
+to be trust me you don't want that okay
+you want to limit that so now we have
+you want to limit that so now we have
+ 
+you want to limit that so now we have
+this previous High previous low now if
+this previous High previous low now if
+ 
+this previous High previous low now if
+we did not this is really important that
+we did not this is really important that
+ 
+we did not this is really important that
+you understand this part here if we
+you understand this part here if we
+ 
+you understand this part here if we
+don't start seeing these higher highs
+don't start seeing these higher highs
+ 
+don't start seeing these higher highs
+forming and it's just one steady run up
+forming and it's just one steady run up
+ 
+forming and it's just one steady run up
+then you anticipate a high like this to
+then you anticipate a high like this to
+ 
+then you anticipate a high like this to
+be taken out and it doesn't need to be
+be taken out and it doesn't need to be
+ 
+be taken out and it doesn't need to be
+taken out by much just trade above it
+taken out by much just trade above it
+ 
+taken out by much just trade above it
+and then you want to look for this
+and then you want to look for this
+ 
+and then you want to look for this
+energetic movement lower that's
+energetic movement lower that's
+ 
+energetic movement lower that's
+displacement where it's really animated
+displacement where it's really animated
+ 
+displacement where it's really animated
+so in other words it would look like
+so in other words it would look like
+ 
+so in other words it would look like
+when you're looking at your
+ 
+ 
+ 
+chart that's a little bit more
+chart that's a little bit more
+ 
+chart that's a little bit more
+pronounced because it went Above This
+pronounced because it went Above This
+ 
+pronounced because it went Above This
+previous High here you're looking at
+previous High here you're looking at
+ 
+previous High here you're looking at
+this one but as it's starting to move
+this one but as it's starting to move
+ 
+this one but as it's starting to move
+towards that old
+towards that old
+ 
+towards that old
+high remember 830 prior to that you're
+high remember 830 prior to that you're
+ 
+high remember 830 prior to that you're
+looking for what's this it down a swing
+looking for what's this it down a swing
+ 
+looking for what's this it down a swing
+High yes so it's trading above it here
+High yes so it's trading above it here
+ 
+High yes so it's trading above it here
+does it have an energetic break below
+does it have an energetic break below
+ 
+does it have an energetic break below
+that no it's just a very weak anemic
+that no it's just a very weak anemic
+ 
+that no it's just a very weak anemic
+move lower then you have another run
+move lower then you have another run
+ 
+move lower then you have another run
+higher here and then you have this Wick
+higher here and then you have this Wick
+ 
+higher here and then you have this Wick
+or tail come down and it quickly snaps
+or tail come down and it quickly snaps
+ 
+or tail come down and it quickly snaps
+back does that create a fair value Gap
+back does that create a fair value Gap
+ 
+back does that create a fair value Gap
+in that no it's not there yet then it
+in that no it's not there yet then it
+ 
+in that no it's not there yet then it
+goes higher here doesn't go above it
+goes higher here doesn't go above it
+ 
+goes higher here doesn't go above it
+matches that high but then now this High
+matches that high but then now this High
+ 
+matches that high but then now this High
+watch does it go below that yes a little
+watch does it go below that yes a little
+ 
+watch does it go below that yes a little
+bit here but it's a little anemic still
+bit here but it's a little anemic still
+ 
+bit here but it's a little anemic still
+but then look what we have here it
+but then look what we have here it
+ 
+but then look what we have here it
+trades up and then smashes down then the
+trades up and then smashes down then the
+ 
+trades up and then smashes down then the
+next candle here closes what do we have
+next candle here closes what do we have
+ 
+next candle here closes what do we have
+there's your fair value got
+ 
+ 
+ 
+that's your short and you could reach
+that's your short and you could reach
+ 
+that's your short and you could reach
+for the liquidity resting below that low
+for the liquidity resting below that low
+ 
+for the liquidity resting below that low
+that you would be identifying prior to
+that you would be identifying prior to
+ 
+that you would be identifying prior to
+8:30 so sell side liquidity matching up
+8:30 so sell side liquidity matching up
+ 
+8:30 so sell side liquidity matching up
+with your short you sell you want to buy
+with your short you sell you want to buy
+ 
+with your short you sell you want to buy
+it back to cover that short well here's
+it back to cover that short well here's
+ 
+it back to cover that short well here's
+waiting sellers right down here in the
+waiting sellers right down here in the
+ 
+waiting sellers right down here in the
+form of sell
+form of sell
+ 
+form of sell
+stops bam hits it
+stops bam hits it
+ 
+stops bam hits it
+okay putting aside that you may not have
+okay putting aside that you may not have
+ 
+okay putting aside that you may not have
+seen this as a long entry okay maybe you
+seen this as a long entry okay maybe you
+ 
+seen this as a long entry okay maybe you
+didn't see this as a potential
+didn't see this as a potential
+ 
+didn't see this as a potential
+continuation of
+continuation of
+ 
+continuation of
+bullishness but look at these highs
+bullishness but look at these highs
+ 
+bullishness but look at these highs
+here what's resting above that now buy
+here what's resting above that now buy
+ 
+here what's resting above that now buy
+stops buy side liquidity and then what
+stops buy side liquidity and then what
+ 
+stops buy side liquidity and then what
+do we have here right before lunch hour
+do we have here right before lunch hour
+ 
+do we have here right before lunch hour
+it goes slightly above it and then
+it goes slightly above it and then
+ 
+it goes slightly above it and then
+trades down and then we're in that time
+trades down and then we're in that time
+ 
+trades down and then we're in that time
+of the day you don't Trade It New York
+of the day you don't Trade It New York
+ 
+of the day you don't Trade It New York
+lunch hour noon to one don't trade it
+lunch hour noon to one don't trade it
+ 
+lunch hour noon to one don't trade it
+okay do not trade it it can do a lot of
+okay do not trade it it can do a lot of
+ 
+okay do not trade it it can do a lot of
+weird things in that hour or simply do
+weird things in that hour or simply do
+ 
+weird things in that hour or simply do
+nothing and go sideways but either way
+nothing and go sideways but either way
+ 
+nothing and go sideways but either way
+you don't want to be a participant in
+you don't want to be a participant in
+ 
+you don't want to be a participant in
+that because it's
+that because it's
+ 
+that because it's
+just it's not usually a clean time of
+just it's not usually a clean time of
+ 
+just it's not usually a clean time of
+day for Price action so now here we have
+day for Price action so now here we have
+ 
+day for Price action so now here we have
+the high of the day and all the
+the high of the day and all the
+ 
+the high of the day and all the
+liquidity resting above here that would
+liquidity resting above here that would
+ 
+liquidity resting above here that would
+not have been tagged by this in other
+not have been tagged by this in other
+ 
+not have been tagged by this in other
+words stops are resting a little bit
+words stops are resting a little bit
+ 
+words stops are resting a little bit
+above that because there's a lot of
+above that because there's a lot of
+ 
+above that because there's a lot of
+people trying to sell short they want
+people trying to sell short they want
+ 
+people trying to sell short they want
+they want to see this thing go lower but
+they want to see this thing go lower but
+ 
+they want to see this thing go lower but
+we created a very important low last
+we created a very important low last
+ 
+we created a very important low last
+week and the market has already tanked a
+week and the market has already tanked a
+ 
+week and the market has already tanked a
+lot so it's pulling back up in the run
+lot so it's pulling back up in the run
+ 
+lot so it's pulling back up in the run
+that it created going lower on a daily
+that it created going lower on a daily
+ 
+that it created going lower on a daily
+chart so all these buy side liquidity
+chart so all these buy side liquidity
+ 
+chart so all these buy side liquidity
+pools here are going to be a reason for
+pools here are going to be a reason for
+ 
+pools here are going to be a reason for
+the market to want to reach up to that
+the market to want to reach up to that
+ 
+the market to want to reach up to that
+because you don't have to be a
+because you don't have to be a
+ 
+because you don't have to be a
+participant down here as a buyer you
+participant down here as a buyer you
+ 
+participant down here as a buyer you
+just need to know on the other side of
+just need to know on the other side of
+ 
+just need to know on the other side of
+lunch at 1:00 start watching and see is
+lunch at 1:00 start watching and see is
+ 
+lunch at 1:00 start watching and see is
+there an indication that this thing
+there an indication that this thing
+ 
+there an indication that this thing
+wants to go higher
+ 
+ 
+ 
+and as you can
+ 
+ 
+ 
+see all the buy side liquidity here was
+see all the buy side liquidity here was
+ 
+see all the buy side liquidity here was
+ran aggressively here but then the
+ran aggressively here but then the
+ 
+ran aggressively here but then the
+market trades right into the close
+market trades right into the close
+ 
+market trades right into the close
+aggressively
+aggressively
+ 
+aggressively
+bullish small little retracement here
+bullish small little retracement here
+ 
+bullish small little retracement here
+small little retracement here and then
+small little retracement here and then
+ 
+small little retracement here and then
+immediate run right into the close
+immediate run right into the close
+ 
+immediate run right into the close
+now obviously the market trades a little
+now obviously the market trades a little
+ 
+now obviously the market trades a little
+bit beyond that but this time of day
+bit beyond that but this time of day
+ 
+bit beyond that but this time of day
+expect whatever algorithms that you
+expect whatever algorithms that you
+ 
+expect whatever algorithms that you
+would expect to be driving price and
+would expect to be driving price and
+ 
+would expect to be driving price and
+price runs to pretty much cap the the
+price runs to pretty much cap the the
+ 
+price runs to pretty much cap the the
+majority of the volume that's going to
+majority of the volume that's going to
+ 
+majority of the volume that's going to
+be in that
+be in that
+ 
+be in that
+day
+day
+ 
+day
+so what I want you to think about is how
+so what I want you to think about is how
+ 
+so what I want you to think about is how
+the day is designed to have a morning
+the day is designed to have a morning
+ 
+the day is designed to have a morning
+move a lunch hour where you don't want
+move a lunch hour where you don't want
+ 
+move a lunch hour where you don't want
+to be trading and then the afternoon
+to be trading and then the afternoon
+ 
+to be trading and then the afternoon
+move go back through your charts and you
+move go back through your charts and you
+ 
+move go back through your charts and you
+can go back as far as you want the more
+can go back as far as you want the more
+ 
+can go back as far as you want the more
+you do this the better you'll get but I
+you do this the better you'll get but I
+ 
+you do this the better you'll get but I
+want you to think about creating your
+want you to think about creating your
+ 
+want you to think about creating your
+charts like this and then describing
+charts like this and then describing
+ 
+charts like this and then describing
+what the morning Trend was was it a
+what the morning Trend was was it a
+ 
+what the morning Trend was was it a
+bullish move was it a bearish move was
+bullish move was it a bearish move was
+ 
+bullish move was it a bearish move was
+it
+it
+ 
+it
+consolidation if it was consolidation
+consolidation if it was consolidation
+ 
+consolidation if it was consolidation
+prior to that part of the day in other
+prior to that part of the day in other
+ 
+prior to that part of the day in other
+words the previous day or the previous
+words the previous day or the previous
+ 
+words the previous day or the previous
+days was it bullish or bearish then
+days was it bullish or bearish then
+ 
+days was it bullish or bearish then
+because if it was bullish this is
+because if it was bullish this is
+ 
+because if it was bullish this is
+probably setting up another continuation
+probably setting up another continuation
+ 
+probably setting up another continuation
+higher especially if you start seeing
+higher especially if you start seeing
+ 
+higher especially if you start seeing
+these relative equal highs forming where
+these relative equal highs forming where
+ 
+these relative equal highs forming where
+it Paints the idea that this is retail
+it Paints the idea that this is retail
+ 
+it Paints the idea that this is retail
+resistance so Traders are going to think
+resistance so Traders are going to think
+ 
+resistance so Traders are going to think
+that this is going to go lower and it
+that this is going to go lower and it
+ 
+that this is going to go lower and it
+starts to build up a lot more interest
+starts to build up a lot more interest
+ 
+starts to build up a lot more interest
+in the form of buy side liquidity or
+in the form of buy side liquidity or
+ 
+in the form of buy side liquidity or
+buying interest at a high price even
+buying interest at a high price even
+ 
+buying interest at a high price even
+though those Traders may be framing the
+though those Traders may be framing the
+ 
+though those Traders may be framing the
+context of their trades as a short entry
+context of their trades as a short entry
+ 
+context of their trades as a short entry
+trying to make money going lower they're
+trying to make money going lower they're
+ 
+trying to make money going lower they're
+protective stop if they choose to use
+protective stop if they choose to use
+ 
+protective stop if they choose to use
+one it's going to be in the form of a
+one it's going to be in the form of a
+ 
+one it's going to be in the form of a
+buy stop and this is where it's going to
+buy stop and this is where it's going to
+ 
+buy stop and this is where it's going to
+be at so the Market's going to want to
+be at so the Market's going to want to
+ 
+be at so the Market's going to want to
+gravitate towards that especially if you
+gravitate towards that especially if you
+ 
+gravitate towards that especially if you
+start seeing the swing lows not the one
+start seeing the swing lows not the one
+ 
+start seeing the swing lows not the one
+in lunch time ignore that one you start
+in lunch time ignore that one you start
+ 
+in lunch time ignore that one you start
+seeing the swing lows that are forming
+seeing the swing lows that are forming
+ 
+seeing the swing lows that are forming
+every candle has a higher low to the
+every candle has a higher low to the
+ 
+every candle has a higher low to the
+left and higher low to the right if they
+left and higher low to the right if they
+ 
+left and higher low to the right if they
+start building up and every time they
+start building up and every time they
+ 
+start building up and every time they
+create a new one it's going
+create a new one it's going
+ 
+create a new one it's going
+higher that's a under pinning of the
+higher that's a under pinning of the
+ 
+higher that's a under pinning of the
+marketplace that showing accumulation it
+marketplace that showing accumulation it
+ 
+marketplace that showing accumulation it
+wants to go up because it wants to clean
+wants to go up because it wants to clean
+ 
+wants to go up because it wants to clean
+out all this here plus we've been going
+out all this here plus we've been going
+ 
+out all this here plus we've been going
+up for a few days on the daily
+up for a few days on the daily
+ 
+up for a few days on the daily
+chart plus the sentiment is everybody
+chart plus the sentiment is everybody
+ 
+chart plus the sentiment is everybody
+thinks it's been going down so they all
+thinks it's been going down so they all
+ 
+thinks it's been going down so they all
+want to sell short because they want to
+want to sell short because they want to
+ 
+want to sell short because they want to
+see a stock market crash but what they
+see a stock market crash but what they
+ 
+see a stock market crash but what they
+are failing to realize is we've already
+are failing to realize is we've already
+ 
+are failing to realize is we've already
+went down below a old low on the daily
+went down below a old low on the daily
+ 
+went down below a old low on the daily
+chart so now we're running back the
+chart so now we're running back the
+ 
+chart so now we're running back the
+other direction and anyone that's trying
+other direction and anyone that's trying
+ 
+other direction and anyone that's trying
+to sell short unless it's a real quick
+to sell short unless it's a real quick
+ 
+to sell short unless it's a real quick
+intraday scalp they're having their
+intraday scalp they're having their
+ 
+intraday scalp they're having their
+clocks
+clocks
+ 
+clocks
+cleaned so in the Aon there's a trend
+cleaned so in the Aon there's a trend
+ 
+cleaned so in the Aon there's a trend
+and one of the built-in characteristics
+and one of the built-in characteristics
+ 
+and one of the built-in characteristics
+of the afternoon is there's mechanisms
+of the afternoon is there's mechanisms
+ 
+of the afternoon is there's mechanisms
+that are built in that help this Market
+that are built in that help this Market
+ 
+that are built in that help this Market
+really accelerate into the close and if
+really accelerate into the close and if
+ 
+really accelerate into the close and if
+you studied the price action in your
+you studied the price action in your
+ 
+you studied the price action in your
+lower time frame charts you'll see that
+lower time frame charts you'll see that
+ 
+lower time frame charts you'll see that
+there's a repeating phenomenon at
+there's a repeating phenomenon at
+ 
+there's a repeating phenomenon at
+typically around 20 minutes to 4 and 10
+typically around 20 minutes to 4 and 10
+ 
+typically around 20 minutes to 4 and 10
+minutes to 4 and
+minutes to 4 and
+ 
+minutes to 4 and
+4:00 and it's all based
+4:00 and it's all based
+ 
+4:00 and it's all based
+on Market on close orders that's really
+on Market on close orders that's really
+ 
+on Market on close orders that's really
+what it is okay and the algorithms will
+what it is okay and the algorithms will
+ 
+what it is okay and the algorithms will
+start spitting out really really
+start spitting out really really
+ 
+start spitting out really really
+aggressive pricing and forcing traders
+aggressive pricing and forcing traders
+ 
+aggressive pricing and forcing traders
+to either cover or you know get out of
+to either cover or you know get out of
+ 
+to either cover or you know get out of
+their trades and usually if it's going
+their trades and usually if it's going
+ 
+their trades and usually if it's going
+up it really just ramps up and
+up it really just ramps up and
+ 
+up it really just ramps up and
+accelerates in that direction so while I
+accelerates in that direction so while I
+ 
+accelerates in that direction so while I
+really enjoy trading the morning session
+really enjoy trading the morning session
+ 
+really enjoy trading the morning session
+because there's a lot of volatility and
+because there's a lot of volatility and
+ 
+because there's a lot of volatility and
+excitement if you're looking for if you
+excitement if you're looking for if you
+ 
+excitement if you're looking for if you
+know what your daily bias is and we'll
+know what your daily bias is and we'll
+ 
+know what your daily bias is and we'll
+talk about that next week if you know
+talk about that next week if you know
+ 
+talk about that next week if you know
+what your daily bias is and if you know
+what your daily bias is and if you know
+ 
+what your daily bias is and if you know
+what you're looking for in terms of
+what you're looking for in terms of
+ 
+what you're looking for in terms of
+range expansion on the daily chart now
+range expansion on the daily chart now
+ 
+range expansion on the daily chart now
+what what I mean by that the daily
+what what I mean by that the daily
+ 
+what what I mean by that the daily
+candle do you expect it to trade higher
+candle do you expect it to trade higher
+ 
+candle do you expect it to trade higher
+or lower you're not trying to predict
+or lower you're not trying to predict
+ 
+or lower you're not trying to predict
+you know every single daily candle's
+you know every single daily candle's
+ 
+you know every single daily candle's
+close but you're trying to determine do
+close but you're trying to determine do
+ 
+close but you're trying to determine do
+you think that the daily candle you're
+you think that the daily candle you're
+ 
+you think that the daily candle you're
+looking at forming today or what would
+looking at forming today or what would
+ 
+looking at forming today or what would
+be forming tomorrow is it more likely to
+be forming tomorrow is it more likely to
+ 
+be forming tomorrow is it more likely to
+be expanding higher or lower if it's
+be expanding higher or lower if it's
+ 
+be expanding higher or lower if it's
+expanding higher in your analysis that
+expanding higher in your analysis that
+ 
+expanding higher in your analysis that
+means you want to try to trade with the
+means you want to try to trade with the
+ 
+means you want to try to trade with the
+expectation to find a trade in the
+expectation to find a trade in the
+ 
+expectation to find a trade in the
+afternoon based on the logic that was
+afternoon based on the logic that was
+ 
+afternoon based on the logic that was
+used in the morning so in other words
+used in the morning so in other words
+ 
+used in the morning so in other words
+think about what I taught in Forex the
+think about what I taught in Forex the
+ 
+think about what I taught in Forex the
+daily range okay creating a initial high
+daily range okay creating a initial high
+ 
+daily range okay creating a initial high
+of the day and the low of the day here
+of the day and the low of the day here
+ 
+of the day and the low of the day here
+now this is not the time of London but
+now this is not the time of London but
+ 
+now this is not the time of London but
+this would be like what I teach as a
+this would be like what I teach as a
+ 
+this would be like what I teach as a
+London
+London
+ 
+London
+low in a buy day for Forex this would be
+low in a buy day for Forex this would be
+ 
+low in a buy day for Forex this would be
+the low of the day then we consolidate
+the low of the day then we consolidate
+ 
+the low of the day then we consolidate
+and then we get the New York
+and then we get the New York
+ 
+and then we get the New York
+continuation and it runs in the same
+continuation and it runs in the same
+ 
+continuation and it runs in the same
+direction that the London session formed
+direction that the London session formed
+ 
+direction that the London session formed
+but this is not London this is all New
+but this is not London this is all New
+ 
+but this is not London this is all New
+York time so there's a little bit of
+York time so there's a little bit of
+ 
+York time so there's a little bit of
+adjusting that needs to be taken into
+adjusting that needs to be taken into
+ 
+adjusting that needs to be taken into
+consideration which is why I made sure
+consideration which is why I made sure
+ 
+consideration which is why I made sure
+at the beginning of the video I said
+at the beginning of the video I said
+ 
+at the beginning of the video I said
+make sure your charts are set to New
+make sure your charts are set to New
+ 
+make sure your charts are set to New
+York time over here it needs to be that
+York time over here it needs to be that
+ 
+York time over here it needs to be that
+okay and if you don't have it like that
+okay and if you don't have it like that
+ 
+okay and if you don't have it like that
+everything you're learning here if it's
+everything you're learning here if it's
+ 
+everything you're learning here if it's
+at your
+at your
+ 
+at your
+local time in your local time zone it's
+local time in your local time zone it's
+ 
+local time in your local time zone it's
+it's going to be a mess so you need to
+it's going to be a mess so you need to
+ 
+it's going to be a mess so you need to
+calibrate your charts on trading view to
+calibrate your charts on trading view to
+ 
+calibrate your charts on trading view to
+that and everything I'm showing you here
+that and everything I'm showing you here
+ 
+that and everything I'm showing you here
+is it's the same thing every day every
+is it's the same thing every day every
+ 
+is it's the same thing every day every
+single day same thing so back to the
+single day same thing so back to the
+ 
+single day same thing so back to the
+homework
+homework
+ 
+homework
+assignment I want you to think
+assignment I want you to think
+ 
+assignment I want you to think
+about outlining what the session was in
+about outlining what the session was in
+ 
+about outlining what the session was in
+the morning and then what did session do
+the morning and then what did session do
+ 
+the morning and then what did session do
+in the afternoon sometimes what you'll
+in the afternoon sometimes what you'll
+ 
+in the afternoon sometimes what you'll
+see is it'll be bullish in the morning
+see is it'll be bullish in the morning
+ 
+see is it'll be bullish in the morning
+and then reverse in the afternoon or
+and then reverse in the afternoon or
+ 
+and then reverse in the afternoon or
+it'll be bullish in the morning and
+it'll be bullish in the morning and
+ 
+it'll be bullish in the morning and
+continuation higher in the afternoon and
+continuation higher in the afternoon and
+ 
+continuation higher in the afternoon and
+you'll get like a measured move what's a
+you'll get like a measured move what's a
+ 
+you'll get like a measured move what's a
+measured move whatever the morning move
+measured move whatever the morning move
+ 
+measured move whatever the morning move
+was it'll duplicate that twice so if it
+was it'll duplicate that twice so if it
+ 
+was it'll duplicate that twice so if it
+moves up 200 points in the morning the
+moves up 200 points in the morning the
+ 
+moves up 200 points in the morning the
+afternoon could see another 200 points
+afternoon could see another 200 points
+ 
+afternoon could see another 200 points
+in addition to that and have a 400 Point
+in addition to that and have a 400 Point
+ 
+in addition to that and have a 400 Point
+range or we could have a consolidation
+range or we could have a consolidation
+ 
+range or we could have a consolidation
+in the morning session
+in the morning session
+ 
+in the morning session
+and then it Trends in the afternoon
+and then it Trends in the afternoon
+ 
+and then it Trends in the afternoon
+higher or lower okay and I want you to
+higher or lower okay and I want you to
+ 
+higher or lower okay and I want you to
+go through your charts and look at that
+go through your charts and look at that
+ 
+go through your charts and look at that
+on an intay basis do your charts like
+on an intay basis do your charts like
+ 
+on an intay basis do your charts like
+this and I know it's a lot of work but
+this and I know it's a lot of work but
+ 
+this and I know it's a lot of work but
+you want to learn how to do it right
+you want to learn how to do it right
+ 
+you want to learn how to do it right
+this is how you do
+this is how you do
+ 
+this is how you do
+it then study what the daily chart was
+it then study what the daily chart was
+ 
+it then study what the daily chart was
+showing days before when it had days
+showing days before when it had days
+ 
+showing days before when it had days
+that had these nice runs like this and
+that had these nice runs like this and
+ 
+that had these nice runs like this and
+yesterday and previous
+yesterday and previous
+ 
+yesterday and previous
+Friday so it allows you to help find
+Friday so it allows you to help find
+ 
+Friday so it allows you to help find
+these big moves where if you're looking
+these big moves where if you're looking
+ 
+these big moves where if you're looking
+at other like I'm not going to say this
+at other like I'm not going to say this
+ 
+at other like I'm not going to say this
+to try to be mean-spirited CU that's not
+to try to be mean-spirited CU that's not
+ 
+to try to be mean-spirited CU that's not
+my intent here but I want you to compare
+my intent here but I want you to compare
+ 
+my intent here but I want you to compare
+and contrast like if you look around at
+and contrast like if you look around at
+ 
+and contrast like if you look around at
+all the folks on
+all the folks on
+ 
+all the folks on
+YouTube and again this is this is not me
+YouTube and again this is this is not me
+ 
+YouTube and again this is this is not me
+trying to be arrogant I just want you to
+trying to be arrogant I just want you to
+ 
+trying to be arrogant I just want you to
+understand there's a stark contrast to
+understand there's a stark contrast to
+ 
+understand there's a stark contrast to
+what I'm teaching you here and what is
+what I'm teaching you here and what is
+ 
+what I'm teaching you here and what is
+predominantly shown in this area of
+predominantly shown in this area of
+ 
+predominantly shown in this area of
+trading okay index fatures you'll see
+trading okay index fatures you'll see
+ 
+trading okay index fatures you'll see
+Traders that'll get in
+Traders that'll get in
+ 
+Traders that'll get in
+here and they get in a price like
+here and they get in a price like
+ 
+here and they get in a price like
+that and then they're going to make a
+that and then they're going to make a
+ 
+that and then they're going to make a
+big
+big
+ 
+big
+attempt to worry
+attempt to worry
+ 
+attempt to worry
+about a
+ 
+ 
+ 
+move like
+move like
+ 
+move like
+that and they'll put lots of contracts
+that and they'll put lots of contracts
+ 
+that and they'll put lots of contracts
+on on and you know trade this and have a
+on on and you know trade this and have a
+ 
+on on and you know trade this and have a
+whole lot of hype and anxiety about
+whole lot of hype and anxiety about
+ 
+whole lot of hype and anxiety about
+whether or not it's going to move in
+whether or not it's going to move in
+ 
+whether or not it's going to move in
+their favor and worry about their stop
+their favor and worry about their stop
+ 
+their favor and worry about their stop
+getting hit and all this stuff
+getting hit and all this stuff
+ 
+getting hit and all this stuff
+and I don't want you thinking like that
+and I don't want you thinking like that
+ 
+and I don't want you thinking like that
+okay I don't want you thinking like that
+okay I don't want you thinking like that
+ 
+okay I don't want you thinking like that
+at all I want you to think about how if
+at all I want you to think about how if
+ 
+at all I want you to think about how if
+this day was bullish for you say you had
+this day was bullish for you say you had
+ 
+this day was bullish for you say you had
+the benefit of knowing that through
+the benefit of knowing that through
+ 
+the benefit of knowing that through
+analysis you felt that this was going to
+analysis you felt that this was going to
+ 
+analysis you felt that this was going to
+go higher okay if that's the case this
+go higher okay if that's the case this
+ 
+go higher okay if that's the case this
+swing low here first swing low any
+swing low here first swing low any
+ 
+swing low here first swing low any
+importance after 130 this is really
+importance after 130 this is really
+ 
+importance after 130 this is really
+important
+important
+ 
+important
+130 I'm looking for swing highs and
+130 I'm looking for swing highs and
+ 
+130 I'm looking for swing highs and
+swing lows for the afternoon session
+swing lows for the afternoon session
+ 
+swing lows for the afternoon session
+that's what I'm looking
+that's what I'm looking
+ 
+that's what I'm looking
+for it's the same context that I use for
+for it's the same context that I use for
+ 
+for it's the same context that I use for
+the morning session I'm looking for
+the morning session I'm looking for
+ 
+the morning session I'm looking for
+swing highs and swing lows prior to
+swing highs and swing lows prior to
+ 
+swing highs and swing lows prior to
+8:30 I'm looking for the first one okay
+8:30 I'm looking for the first one okay
+ 
+8:30 I'm looking for the first one okay
+I'm not needing to go back days and days
+I'm not needing to go back days and days
+ 
+I'm not needing to go back days and days
+and days I'm just looking for the first
+and days I'm just looking for the first
+ 
+and days I'm just looking for the first
+one it's not a complicated
+one it's not a complicated
+ 
+one it's not a complicated
+thing but at 130 that's usually when I'm
+thing but at 130 that's usually when I'm
+ 
+thing but at 130 that's usually when I'm
+wanting to start trading the afternoon
+wanting to start trading the afternoon
+ 
+wanting to start trading the afternoon
+that's the earliest but I'm preferably
+that's the earliest but I'm preferably
+ 
+that's the earliest but I'm preferably
+looking for a swing high and swing low
+looking for a swing high and swing low
+ 
+looking for a swing high and swing low
+to form at 130 why 130 because there's
+to form at 130 why 130 because there's
+ 
+to form at 130 why 130 because there's
+an algorithm macro that starts running
+an algorithm macro that starts running
+ 
+an algorithm macro that starts running
+at
+at
+ 
+at
+130 that's beyond the scope of this
+130 that's beyond the scope of this
+ 
+130 that's beyond the scope of this
+mentorship but just trust me there is
+mentorship but just trust me there is
+ 
+mentorship but just trust me there is
+something going on that creates movement
+something going on that creates movement
+ 
+something going on that creates movement
+at 130 in the New York session okay in
+at 130 in the New York session okay in
+ 
+at 130 in the New York session okay in
+equity market so when that occurs all
+equity market so when that occurs all
+ 
+equity market so when that occurs all
+we're looking for or what I'm looking
+we're looking for or what I'm looking
+ 
+we're looking for or what I'm looking
+for is a swing High and a swing low and
+for is a swing High and a swing low and
+ 
+for is a swing High and a swing low and
+then that same basis of looking for a
+then that same basis of looking for a
+ 
+then that same basis of looking for a
+stop hunt in the morning like we
+stop hunt in the morning like we
+ 
+stop hunt in the morning like we
+described here I'm looking for the same
+described here I'm looking for the same
+ 
+described here I'm looking for the same
+thing here that's it same thing so now
+thing here that's it same thing so now
+ 
+thing here that's it same thing so now
+think about this I'm I'm thinking that
+think about this I'm I'm thinking that
+ 
+think about this I'm I'm thinking that
+these stops are in Jeopardy because it's
+these stops are in Jeopardy because it's
+ 
+these stops are in Jeopardy because it's
+too clean the level's too clean straight
+too clean the level's too clean straight
+ 
+too clean the level's too clean straight
+line edges in the market they don't tend
+line edges in the market they don't tend
+ 
+line edges in the market they don't tend
+to stay like that there's going to be a
+to stay like that there's going to be a
+ 
+to stay like that there's going to be a
+disruption the Market's been going
+disruption the Market's been going
+ 
+disruption the Market's been going
+higher hasn't it
+higher hasn't it
+ 
+higher hasn't it
+yes there this pent
+ 
+ 
+ 
+up aggression that this Market wants to
+up aggression that this Market wants to
+ 
+up aggression that this Market wants to
+go higher but it's seeing short-term
+go higher but it's seeing short-term
+ 
+go higher but it's seeing short-term
+resistance here here it tried it a
+resistance here here it tried it a
+ 
+resistance here here it tried it a
+little bit here and then retraced inside
+little bit here and then retraced inside
+ 
+little bit here and then retraced inside
+the lunch hour the algorithm
+the lunch hour the algorithm
+ 
+the lunch hour the algorithm
+reserved the price run until later in
+reserved the price run until later in
+ 
+reserved the price run until later in
+the day now watch what happens this
+the day now watch what happens this
+ 
+the day now watch what happens this
+swing low here gets violated right
+swing low here gets violated right
+ 
+swing low here gets violated right
+there see
+there see
+ 
+there see
+that That Swing Low gets violated right
+that That Swing Low gets violated right
+ 
+that That Swing Low gets violated right
+there that small little stop Hunt is all
+there that small little stop Hunt is all
+ 
+there that small little stop Hunt is all
+that's necessary that will start what is
+that's necessary that will start what is
+ 
+that's necessary that will start what is
+called a buy program a by program is
+called a buy program a by program is
+ 
+called a buy program a by program is
+when the algorithms go into the process
+when the algorithms go into the process
+ 
+when the algorithms go into the process
+of spooling spooling is where it just
+of spooling spooling is where it just
+ 
+of spooling spooling is where it just
+continuously keeps offering higher
+continuously keeps offering higher
+ 
+continuously keeps offering higher
+prices if it's a buy program it just
+prices if it's a buy program it just
+ 
+prices if it's a buy program it just
+keeps offering higher prices it does not
+keeps offering higher prices it does not
+ 
+keeps offering higher prices it does not
+matter what the volume is it does not
+matter what the volume is it does not
+ 
+matter what the volume is it does not
+matter and I don't care who you know who
+matter and I don't care who you know who
+ 
+matter and I don't care who you know who
+worked at at the exchange I don't care
+worked at at the exchange I don't care
+ 
+worked at at the exchange I don't care
+trust me when I tell you if you go
+trust me when I tell you if you go
+ 
+trust me when I tell you if you go
+through the charts you're going to see
+through the charts you're going to see
+ 
+through the charts you're going to see
+this okay look at the volume that comes
+this okay look at the volume that comes
+ 
+this okay look at the volume that comes
+in sometimes it'll be good volume and
+in sometimes it'll be good volume and
+ 
+in sometimes it'll be good volume and
+another like why is this happening right
+another like why is this happening right
+ 
+another like why is this happening right
+that's that's your signature that's how
+that's that's your signature that's how
+ 
+that's that's your signature that's how
+you know that this is being completely
+you know that this is being completely
+ 
+you know that this is being completely
+manipulated so if it's being manipulated
+manipulated so if it's being manipulated
+ 
+manipulated so if it's being manipulated
+doesn't it stand profitable for you to
+doesn't it stand profitable for you to
+ 
+doesn't it stand profitable for you to
+know what it's likely to do not if
+know what it's likely to do not if
+ 
+know what it's likely to do not if
+you're going know it all the time you're
+you're going know it all the time you're
+ 
+you're going know it all the time you're
+not going to know I don't know it all
+not going to know I don't know it all
+ 
+not going to know I don't know it all
+the time but these things tend to repeat
+the time but these things tend to repeat
+ 
+the time but these things tend to repeat
+and if they repeat a majority of time
+and if they repeat a majority of time
+ 
+and if they repeat a majority of time
+not every
+not every
+ 
+not every
+day but the majority of time if these
+day but the majority of time if these
+ 
+day but the majority of time if these
+things are in alignment if they start
+things are in alignment if they start
+ 
+things are in alignment if they start
+showing the same
+showing the same
+ 
+showing the same
+fingerprints it's probably going to pan
+fingerprints it's probably going to pan
+ 
+fingerprints it's probably going to pan
+out and then you can start
+out and then you can start
+ 
+out and then you can start
+doing long
+doing long
+ 
+doing long
+entries and then hold for the close
+entries and then hold for the close
+ 
+entries and then hold for the close
+don't get in here and try to trade these
+don't get in here and try to trade these
+ 
+don't get in here and try to trade these
+little Mickey Mouse moves and worry
+little Mickey Mouse moves and worry
+ 
+little Mickey Mouse moves and worry
+about them and over leverage and try to
+about them and over leverage and try to
+ 
+about them and over leverage and try to
+put more contracts on than your account
+put more contracts on than your account
+ 
+put more contracts on than your account
+can really weather because if you don't
+can really weather because if you don't
+ 
+can really weather because if you don't
+know what you're
+know what you're
+ 
+know what you're
+doing cheap leverage discount leverage
+doing cheap leverage discount leverage
+ 
+doing cheap leverage discount leverage
+can murder you can absolutely murder you
+can murder you can absolutely murder you
+ 
+can murder you can absolutely murder you
+and especially in these kind of markets
+and especially in these kind of markets
+ 
+and especially in these kind of markets
+they're very fast markets right now I'm
+they're very fast markets right now I'm
+ 
+they're very fast markets right now I'm
+loving it but it's very quick violent
+loving it but it's very quick violent
+ 
+loving it but it's very quick violent
+volatility and if you don't know what
+volatility and if you don't know what
+ 
+volatility and if you don't know what
+you're
+you're
+ 
+you're
+doing you can literally be dismantled
+doing you can literally be dismantled
+ 
+doing you can literally be dismantled
+very quickly expediently okay
+very quickly expediently okay
+ 
+very quickly expediently okay
+so inside this area
+so inside this area
+ 
+so inside this area
+the market creates a swing low runs
+the market creates a swing low runs
+ 
+the market creates a swing low runs
+through this low stop hunt so the stops
+through this low stop hunt so the stops
+ 
+through this low stop hunt so the stops
+below here what sell
+below here what sell
+ 
+below here what sell
+stops buy those sell stops I know it
+stops buy those sell stops I know it
+ 
+stops buy those sell stops I know it
+feels scary but go through your charts
+feels scary but go through your charts
+ 
+feels scary but go through your charts
+and you'll see many examples of this
+and you'll see many examples of this
+ 
+and you'll see many examples of this
+happening it's the same thing took place
+happening it's the same thing took place
+ 
+happening it's the same thing took place
+over
+over
+ 
+over
+here buy the sell stops that are resting
+here buy the sell stops that are resting
+ 
+here buy the sell stops that are resting
+below here and expect this level to be
+below here and expect this level to be
+ 
+below here and expect this level to be
+taken
+ 
+ 
+ 
+out consolidation through lunch at after
+out consolidation through lunch at after
+ 
+out consolidation through lunch at after
+1:30 in the afternoon wait for a swing
+1:30 in the afternoon wait for a swing
+ 
+1:30 in the afternoon wait for a swing
+low to be
+low to be
+ 
+low to be
+violated and then rally what if you
+violated and then rally what if you
+ 
+violated and then rally what if you
+don't get a swing low that trades below
+don't get a swing low that trades below
+ 
+don't get a swing low that trades below
+it what do you look for well you look
+it what do you look for well you look
+ 
+it what do you look for well you look
+for a move higher that's
+for a move higher that's
+ 
+for a move higher that's
+sudden displacement
+sudden displacement
+ 
+sudden displacement
+higher then look for a fair value Gap if
+higher then look for a fair value Gap if
+ 
+higher then look for a fair value Gap if
+it trades back down in the fair value
+it trades back down in the fair value
+ 
+it trades back down in the fair value
+Gap you buy that there's your two
+Gap you buy that there's your two
+ 
+Gap you buy that there's your two
+patterns that's it that's the only two
+patterns that's it that's the only two
+ 
+patterns that's it that's the only two
+patterns you need you don't need 15
+patterns you need you don't need 15
+ 
+patterns you need you don't need 15
+different gimmicky names okay you don't
+different gimmicky names okay you don't
+ 
+different gimmicky names okay you don't
+need Breakers you don't need an order
+need Breakers you don't need an order
+ 
+need Breakers you don't need an order
+block
+block
+ 
+block
+see how easy that is very simple
+see how easy that is very simple
+ 
+see how easy that is very simple
+strategy very very simple strategy you
+strategy very very simple strategy you
+ 
+strategy very very simple strategy you
+have a trade one way or the other and
+have a trade one way or the other and
+ 
+have a trade one way or the other and
+the logic has to be there for either one
+the logic has to be there for either one
+ 
+the logic has to be there for either one
+of them to
+of them to
+ 
+of them to
+form now I was not in the EM Min S&amp;P
+form now I was not in the EM Min S&amp;P
+ 
+form now I was not in the EM Min S&amp;P
+today I was trading NASDAQ so let's go
+today I was trading NASDAQ so let's go
+ 
+today I was trading NASDAQ so let's go
+over to NASDAQ and I'm going to save
+over to NASDAQ and I'm going to save
+ 
+over to NASDAQ and I'm going to save
+time and not put all the lipstick on the
+time and not put all the lipstick on the
+ 
+time and not put all the lipstick on the
+chart I hope you can allow me that
+chart I hope you can allow me that
+ 
+chart I hope you can allow me that
+but here is 130
+but here is 130
+ 
+but here is 130
+we have a swing low there and it's
+we have a swing low there and it's
+ 
+we have a swing low there and it's
+basically almost the same low as that
+basically almost the same low as that
+ 
+basically almost the same low as that
+one so what's happening
+one so what's happening
+ 
+one so what's happening
+here what's that it's trading down below
+here what's that it's trading down below
+ 
+here what's that it's trading down below
+it see
+it see
+ 
+it see
+that look further to the
+that look further to the
+ 
+that look further to the
+left what's
+left what's
+ 
+left what's
+that fair value
+that fair value
+ 
+that fair value
+Gap man it can't be that easy it can't
+Gap man it can't be that easy it can't
+ 
+Gap man it can't be that easy it can't
+be that easy these relative equal highs
+be that easy these relative equal highs
+ 
+be that easy these relative equal highs
+what's above that buy side
+what's above that buy side
+ 
+what's above that buy side
+liquidity
+liquidity
+ 
+liquidity
+okay watch I'm going to drop into a one
+okay watch I'm going to drop into a one
+ 
+okay watch I'm going to drop into a one
+minute
+ 
+ 
+ 
+chart scrub back
+ 
+ 
+ 
+here
+ 
+ 
+ 
+to
+to
+ 
+to
+130 and I don't need to do 20 contracts
+130 and I don't need to do 20 contracts
+ 
+130 and I don't need to do 20 contracts
+or 10
+or 10
+ 
+or 10
+contracts to do like a
+contracts to do like a
+ 
+contracts to do like a
+$20,000
+$20,000
+ 
+$20,000
+day that's kind of like the flavor of
+day that's kind of like the flavor of
+ 
+day that's kind of like the flavor of
+the month right now
+the month right now
+ 
+the month right now
+and if you
+ 
+ 
+ 
+look at this low and this low here what
+look at this low and this low here what
+ 
+look at this low and this low here what
+are those they're relative equal lows so
+are those they're relative equal lows so
+ 
+are those they're relative equal lows so
+that's going to be viewed as what
+that's going to be viewed as what
+ 
+that's going to be viewed as what
+support retail support and they're going
+support retail support and they're going
+ 
+support retail support and they're going
+to buy those little runs here they're
+to buy those little runs here they're
+ 
+to buy those little runs here they're
+basically going to chase that so if you
+basically going to chase that so if you
+ 
+basically going to chase that so if you
+look at
+look at
+ 
+look at
+this through the scope
+this through the scope
+ 
+this through the scope
+of below this
+of below this
+ 
+of below this
+level there's sell stops and you think
+level there's sell stops and you think
+ 
+level there's sell stops and you think
+it's going to go
+it's going to go
+ 
+it's going to go
+higher like I believed it was going to
+higher like I believed it was going to
+ 
+higher like I believed it was going to
+go higher
+go higher
+ 
+go higher
+today I want to be buying those stops
+today I want to be buying those stops
+ 
+today I want to be buying those stops
+all right so say you're watching price
+all right so say you're watching price
+ 
+all right so say you're watching price
+it's Meandering through through through
+it's Meandering through through through
+ 
+it's Meandering through through through
+and then all of a sudden That Swing Low
+and then all of a sudden That Swing Low
+ 
+and then all of a sudden That Swing Low
+forms right there and we had this low
+forms right there and we had this low
+ 
+forms right there and we had this low
+here and we had this sudden drop down
+here and we had this sudden drop down
+ 
+here and we had this sudden drop down
+when you see that if you're watching it
+when you see that if you're watching it
+ 
+when you see that if you're watching it
+on a like a one minute chart that's
+on a like a one minute chart that's
+ 
+on a like a one minute chart that's
+going to look so Dynamic
+going to look so Dynamic
+ 
+going to look so Dynamic
+so aggressive if you're zoomed in it's
+so aggressive if you're zoomed in it's
+ 
+so aggressive if you're zoomed in it's
+going to feel like the floor has just
+going to feel like the floor has just
+ 
+going to feel like the floor has just
+dropped out but that's exactly what
+dropped out but that's exactly what
+ 
+dropped out but that's exactly what
+you're looking for to
+you're looking for to
+ 
+you're looking for to
+buy now you
+buy now you
+ 
+buy now you
+see fellas out there on YouTube You're
+see fellas out there on YouTube You're
+ 
+see fellas out there on YouTube You're
+Going To See by contrast there are folks
+Going To See by contrast there are folks
+ 
+Going To See by contrast there are folks
+out there that are trying to
+out there that are trying to
+ 
+out there that are trying to
+trade you know just a handful of ticks
+trade you know just a handful of ticks
+ 
+trade you know just a handful of ticks
+with a lot of contracts that to me
+with a lot of contracts that to me
+ 
+with a lot of contracts that to me
+doesn't make any sense but if that works
+doesn't make any sense but if that works
+ 
+doesn't make any sense but if that works
+for you did great okay but I want you to
+for you did great okay but I want you to
+ 
+for you did great okay but I want you to
+think about in comparison and by
+think about in comparison and by
+ 
+think about in comparison and by
+contrast what seems more logical for you
+contrast what seems more logical for you
+ 
+contrast what seems more logical for you
+to feel it's worth more to pursue in
+to feel it's worth more to pursue in
+ 
+to feel it's worth more to pursue in
+study and learning how to do something
+study and learning how to do something
+ 
+study and learning how to do something
+like that where it's risk a lot put a
+like that where it's risk a lot put a
+ 
+like that where it's risk a lot put a
+lot behind the trade and try to get just
+lot behind the trade and try to get just
+ 
+lot behind the trade and try to get just
+a little bit of a move or now this is a
+a little bit of a move or now this is a
+ 
+a little bit of a move or now this is a
+demo account okay but I did trade live
+demo account okay but I did trade live
+ 
+demo account okay but I did trade live
+today too but just for the purposes of
+today too but just for the purposes of
+ 
+today too but just for the purposes of
+teaching the content
+ 
+ 
+ 
+right
+right
+ 
+right
+there that low is the lowest
+there that low is the lowest
+ 
+there that low is the lowest
+candle it rallies all the way up okay
+candle it rallies all the way up okay
+ 
+candle it rallies all the way up okay
+and then right
+and then right
+ 
+and then right
+here that was a
+here that was a
+ 
+here that was a
+close there's a better way to do this if
+close there's a better way to do this if
+ 
+close there's a better way to do this if
+you know what you're looking for you can
+you know what you're looking for you can
+ 
+you know what you're looking for you can
+be very very precise about it you can be
+be very very precise about it you can be
+ 
+be very very precise about it you can be
+dialed
+dialed
+ 
+dialed
+in
+in
+ 
+in
+like nobody's business like it is
+like nobody's business like it is
+ 
+like nobody's business like it is
+unbelievable in terms of the predictable
+unbelievable in terms of the predictable
+ 
+unbelievable in terms of the predictable
+nature of these markets especially these
+nature of these markets especially these
+ 
+nature of these markets especially these
+markets because they're they're traded
+markets because they're they're traded
+ 
+markets because they're they're traded
+by a lot of Institutions and a lot of
+by a lot of Institutions and a lot of
+ 
+by a lot of Institutions and a lot of
+professional Traders the manipulation
+professional Traders the manipulation
+ 
+professional Traders the manipulation
+that takes place in these markets is
+that takes place in these markets is
+ 
+that takes place in these markets is
+still there but it's not
+still there but it's not
+ 
+still there but it's not
+as well vulgar or ruthless as it is
+as well vulgar or ruthless as it is
+ 
+as well vulgar or ruthless as it is
+sometimes in Forex the inbank markets
+sometimes in Forex the inbank markets
+ 
+sometimes in Forex the inbank markets
+man they can really really you know do
+man they can really really you know do
+ 
+man they can really really you know do
+you dirty quick and more fre
+you dirty quick and more fre
+ 
+you dirty quick and more fre
+frequently the Futures Market they tend
+frequently the Futures Market they tend
+ 
+frequently the Futures Market they tend
+to be a little bit more cleaner a little
+to be a little bit more cleaner a little
+ 
+to be a little bit more cleaner a little
+bit more predictable much more nicer in
+bit more predictable much more nicer in
+ 
+bit more predictable much more nicer in
+their delivery now there are times when
+their delivery now there are times when
+ 
+their delivery now there are times when
+reports come out or something you know
+reports come out or something you know
+ 
+reports come out or something you know
+unannounced comes into the world scene
+unannounced comes into the world scene
+ 
+unannounced comes into the world scene
+and causes
+and causes
+ 
+and causes
+volatility when that occurs then you'll
+volatility when that occurs then you'll
+ 
+volatility when that occurs then you'll
+get that noisy look to price action just
+get that noisy look to price action just
+ 
+get that noisy look to price action just
+stand on the sidelines wait for things
+stand on the sidelines wait for things
+ 
+stand on the sidelines wait for things
+to smooth out it may not be that same
+to smooth out it may not be that same
+ 
+to smooth out it may not be that same
+trading day it may require you a day or
+trading day it may require you a day or
+ 
+trading day it may require you a day or
+or maybe even a week let the markets go
+or maybe even a week let the markets go
+ 
+or maybe even a week let the markets go
+back into sync and then they'll start
+back into sync and then they'll start
+ 
+back into sync and then they'll start
+delivering very nice again but the the
+delivering very nice again but the the
+ 
+delivering very nice again but the the
+main thing I want you to take away is
+main thing I want you to take away is
+ 
+main thing I want you to take away is
+that you know showing entries like this
+that you know showing entries like this
+ 
+that you know showing entries like this
+and ex and
+and ex and
+ 
+and ex and
+stuff it's
+stuff it's
+ 
+stuff it's
+not it's not all that much of a big deal
+ 
+ 
+ 
+okay but it becomes a sticking point
+okay but it becomes a sticking point
+ 
+okay but it becomes a sticking point
+okay a stumbling block
+okay a stumbling block
+ 
+okay a stumbling block
+for people that want to try to learn how
+for people that want to try to learn how
+ 
+for people that want to try to learn how
+to do this because if you lay it in
+to do this because if you lay it in
+ 
+to do this because if you lay it in
+front of them they have to have lots of
+front of them they have to have lots of
+ 
+front of them they have to have lots of
+contracts to do something to be
+contracts to do something to be
+ 
+contracts to do something to be
+profitable in such a small little move
+profitable in such a small little move
+ 
+profitable in such a small little move
+to me it
+to me it
+ 
+to me it
+communicates that that person that's
+communicates that that person that's
+ 
+communicates that that person that's
+trying to trade like that whether it's
+trying to trade like that whether it's
+ 
+trying to trade like that whether it's
+the person that created the system or
+the person that created the system or
+ 
+the person that created the system or
+someone that's trying to learn the
+someone that's trying to learn the
+ 
+someone that's trying to learn the
+system they really have no idea how
+system they really have no idea how
+ 
+system they really have no idea how
+price works and how it books because if
+price works and how it books because if
+ 
+price works and how it books because if
+they did they wouldn't be trying to take
+they did they wouldn't be trying to take
+ 
+they did they wouldn't be trying to take
+these little tiny little micro out of
+these little tiny little micro out of
+ 
+these little tiny little micro out of
+the marketplace they would be trading
+the marketplace they would be trading
+ 
+the marketplace they would be trading
+like I'm showing you here
+ 
+ 
+ 
+so if you were to think to yourself hey
+so if you were to think to yourself hey
+ 
+so if you were to think to yourself hey
+I want to know what it's like to be in a
+I want to know what it's like to be in a
+ 
+I want to know what it's like to be in a
+move where I can be
+move where I can be
+ 
+move where I can be
+comfortable knowing that the daily range
+comfortable knowing that the daily range
+ 
+comfortable knowing that the daily range
+is going to unfold and I'm just going to
+is going to unfold and I'm just going to
+ 
+is going to unfold and I'm just going to
+submit to
+submit to
+ 
+submit to
+it well these markets offer that Forex
+it well these markets offer that Forex
+ 
+it well these markets offer that Forex
+offers it too but right now in the last
+offers it too but right now in the last
+ 
+offers it too but right now in the last
+couple months really Forex has been
+couple months really Forex has been
+ 
+couple months really Forex has been
+rather funky okay and because of that we
+rather funky okay and because of that we
+ 
+rather funky okay and because of that we
+have transitioned to index
+have transitioned to index
+ 
+have transitioned to index
+Futures there are times of the year
+Futures there are times of the year
+ 
+Futures there are times of the year
+where I teach index Futures Trading
+where I teach index Futures Trading
+ 
+where I teach index Futures Trading
+because they're predominantly more
+because they're predominantly more
+ 
+because they're predominantly more
+liquid and or if there's no real topic
+liquid and or if there's no real topic
+ 
+liquid and or if there's no real topic
+for me to teach to my paid mentorship
+for me to teach to my paid mentorship
+ 
+for me to teach to my paid mentorship
+group I'll say I got nothing for you for
+group I'll say I got nothing for you for
+ 
+group I'll say I got nothing for you for
+Forex and then I'll point to Something
+Forex and then I'll point to Something
+ 
+Forex and then I'll point to Something
+in Futures it may be a commodity market
+in Futures it may be a commodity market
+ 
+in Futures it may be a commodity market
+like last year I told everybody buy the
+like last year I told everybody buy the
+ 
+like last year I told everybody buy the
+gray Market say were're going to have a
+gray Market say were're going to have a
+ 
+gray Market say were're going to have a
+huge bull market boom they went up it's
+huge bull market boom they went up it's
+ 
+huge bull market boom they went up it's
+a matter of knowing how to navigate the
+a matter of knowing how to navigate the
+ 
+a matter of knowing how to navigate the
+price action okay but these markets here
+price action okay but these markets here
+ 
+price action okay but these markets here
+except for the sun summer months and
+except for the sun summer months and
+ 
+except for the sun summer months and
+that being like July and August those
+that being like July and August those
+ 
+that being like July and August those
+months can be a little uh hit or miss
+months can be a little uh hit or miss
+ 
+months can be a little uh hit or miss
+but the rest of the year they tend to be
+but the rest of the year they tend to be
+ 
+but the rest of the year they tend to be
+really nice markets so if you're looking
+really nice markets so if you're looking
+ 
+really nice markets so if you're looking
+to have your trading business framed on
+to have your trading business framed on
+ 
+to have your trading business framed on
+a asset class that is really nice it's
+a asset class that is really nice it's
+ 
+a asset class that is really nice it's
+professionally delivered where it's not
+professionally delivered where it's not
+ 
+professionally delivered where it's not
+like a bucket shop you know penny stock
+like a bucket shop you know penny stock
+ 
+like a bucket shop you know penny stock
+type Market it's these markets are
+type Market it's these markets are
+ 
+type Market it's these markets are
+really nice they're very systematic in
+really nice they're very systematic in
+ 
+really nice they're very systematic in
+the way they do do things and they
+the way they do do things and they
+ 
+the way they do do things and they
+repeat but if you don't know what you're
+repeat but if you don't know what you're
+ 
+repeat but if you don't know what you're
+looking for or understanding Behind
+looking for or understanding Behind
+ 
+looking for or understanding Behind
+These mechanics that I'm outlining here
+These mechanics that I'm outlining here
+ 
+These mechanics that I'm outlining here
+at the very basic
+at the very basic
+ 
+at the very basic
+level then you can obviously hurt
+level then you can obviously hurt
+ 
+level then you can obviously hurt
+yourself still
+yourself still
+ 
+yourself still
+so right away I'm showing you that there
+so right away I'm showing you that there
+ 
+so right away I'm showing you that there
+are
+are
+ 
+are
+times in the day that you want to be
+times in the day that you want to be
+ 
+times in the day that you want to be
+looking for setups you're not trying to
+looking for setups you're not trying to
+ 
+looking for setups you're not trying to
+do 25 trades you're not trying to do 30
+do 25 trades you're not trying to do 30
+ 
+do 25 trades you're not trying to do 30
+trades you're not in there trying to
+trades you're not in there trying to
+ 
+trades you're not in there trying to
+Micro Scalp you're looking for the real
+Micro Scalp you're looking for the real
+ 
+Micro Scalp you're looking for the real
+moves in the morning and the real moves
+moves in the morning and the real moves
+ 
+moves in the morning and the real moves
+in the afternoon and preferably if you
+in the afternoon and preferably if you
+ 
+in the afternoon and preferably if you
+get 1 in the morning you don't trade in
+get 1 in the morning you don't trade in
+ 
+get 1 in the morning you don't trade in
+the afternoon go to a demo and practice
+the afternoon go to a demo and practice
+ 
+the afternoon go to a demo and practice
+there don't give the money back to the
+there don't give the money back to the
+ 
+there don't give the money back to the
+marketplace especially while you're you
+marketplace especially while you're you
+ 
+marketplace especially while you're you
+know you're new don't do that and I'm
+know you're new don't do that and I'm
+ 
+know you're new don't do that and I'm
+actually telling you not to trade with
+actually telling you not to trade with
+ 
+actually telling you not to trade with
+live funds but I know a lot of you like
+live funds but I know a lot of you like
+ 
+live funds but I know a lot of you like
+to see things that are traded with a
+to see things that are traded with a
+ 
+to see things that are traded with a
+live account like it's a real um account
+live account like it's a real um account
+ 
+live account like it's a real um account
+that shows entries and and things of
+that shows entries and and things of
+ 
+that shows entries and and things of
+that nature and that's the things I'm
+that nature and that's the things I'm
+ 
+that nature and that's the things I'm
+doing this year okay I'm not going to do
+doing this year okay I'm not going to do
+ 
+doing this year okay I'm not going to do
+it in 2023 I'm not going to do it
+it in 2023 I'm not going to do it
+ 
+it in 2023 I'm not going to do it
+forever okay I did it so that way my
+forever okay I did it so that way my
+ 
+forever okay I did it so that way my
+students can feel at ease about it
+students can feel at ease about it
+ 
+students can feel at ease about it
+because even in my in my paid mentorship
+because even in my in my paid mentorship
+ 
+because even in my in my paid mentorship
+group I don't trade live funds there
+group I don't trade live funds there
+ 
+group I don't trade live funds there
+because for my protection I'm doing what
+because for my protection I'm doing what
+ 
+because for my protection I'm doing what
+I'm showing you right here in a demo but
+I'm showing you right here in a demo but
+ 
+I'm showing you right here in a demo but
+I've been showing Live account trades
+I've been showing Live account trades
+ 
+I've been showing Live account trades
+this to approved it it works so
+this to approved it it works so
+ 
+this to approved it it works so
+hopefully you found this insightful and
+hopefully you found this insightful and
+ 
+hopefully you found this insightful and
+until I'll talk to you on Thursday be
+until I'll talk to you on Thursday be
+ 
+until I'll talk to you on Thursday be
+safe
+

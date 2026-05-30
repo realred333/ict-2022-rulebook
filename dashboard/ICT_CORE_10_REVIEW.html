@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ICT Core 10 — Review Dashboard</title>
+<style>
+:root{--bg:#0f1117;--sf:#1a1d27;--sf2:#22263a;--bd:#2e3348;--tx:#e2e8f0;--tm:#8892a4;--ac:#6366f1;--ah:#818cf8;--gn:#22c55e;--yw:#f59e0b;--rd:#ef4444;--cy:#06b6d4;}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--tx);line-height:1.6;min-height:100vh;}
+.wrap{max-width:1400px;margin:0 auto;padding:0 24px;}
+section{padding:32px 0;}
+section+section{border-top:1px solid var(--bd);}
+/* Header */
+.hdr{background:linear-gradient(135deg,#1a1d27,#12151f);border-bottom:1px solid var(--bd);padding:36px 0;}
+.hdr h1{font-size:1.9rem;margin-bottom:6px;}
+.hdr .sub{color:var(--tm);font-size:0.9rem;}
+.hdr-meta{display:flex;gap:20px;flex-wrap:wrap;margin-top:12px;}
+.hdr-meta span{font-size:0.82rem;color:var(--tm);}
+.hdr-meta strong{color:var(--ah);}
+/* Badges */
+.badge{display:inline-flex;align-items:center;gap:4px;padding:2px 8px;border-radius:4px;font-size:0.7rem;font-weight:700;letter-spacing:.03em;border:1px solid;white-space:nowrap;}
+.badge::before{content:'';width:6px;height:6px;border-radius:50%;flex-shrink:0;}
+.badge-objective{background:#166534;color:#bbf7d0;border-color:#16a34a;}.badge-objective::before{background:#bbf7d0;}
+.badge-research_default{background:#92400e;color:#fde68a;border-color:#d97706;}.badge-research_default::before{background:#fde68a;}
+.badge-manual_review{background:#7c3aed;color:#ddd6fe;border-color:#8b5cf6;}.badge-manual_review::before{background:#ddd6fe;}
+.badge-derived_metadata{background:#1e40af;color:#bfdbfe;border-color:#3b82f6;}.badge-derived_metadata::before{background:#bfdbfe;}
+.badge-transcript_conflict{background:#9f1239;color:#fecdd3;border-color:#e11d48;}.badge-transcript_conflict::before{background:#fecdd3;}
+.badge-hard_dep{background:#14532d;color:#86efac;border-color:#15803d;}.badge-hard_dep::before{background:#86efac;}
+.badge-optional{background:#374151;color:#d1d5db;border-color:#6b7280;}.badge-optional::before{background:#d1d5db;}
+/* Summary */
+.sum-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:14px;}
+.sum-card{background:var(--sf);border:1px solid var(--bd);border-radius:10px;padding:18px;cursor:pointer;transition:border-color .2s,transform .2s;}
+.sum-card:hover{border-color:var(--ac);transform:translateY(-2px);}
+.sum-card h4{font-size:.88rem;margin-bottom:6px;}
+.sum-card .snum{font-size:1.6rem;font-weight:700;color:var(--ah);}
+.sum-card .slbl{font-size:.75rem;color:var(--tm);margin-top:3px;}
+.sum-card .sbr{display:flex;flex-wrap:wrap;gap:4px;margin-top:8px;}
+/* Dep flow */
+.dep-box{background:var(--sf);border:1px solid var(--bd);border-radius:10px;padding:20px;overflow-x:auto;}
+.flow-chain{display:flex;flex-direction:column;gap:18px;min-width:max-content;}
+.flow-row{display:flex;align-items:center;gap:0;}
+.flow-lbl{font-size:.7rem;color:var(--tm);text-transform:uppercase;letter-spacing:.06em;margin-bottom:5px;}
+.fnode{background:var(--sf2);border:1px solid var(--bd);border-radius:7px;padding:7px 13px;font-size:.78rem;white-space:nowrap;cursor:pointer;transition:border-color .2s;}
+.fnode:hover{border-color:var(--ac);}
+.fnode.dim{opacity:.5;cursor:default;}
+.farr{padding:0 6px;color:var(--tm);font-size:1.1rem;}
+.fnote{font-size:.7rem;color:var(--tm);margin-left:10px;}
+/* Filter */
+.fbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:18px;}
+.srch{flex:1;min-width:180px;background:var(--sf);border:1px solid var(--bd);border-radius:8px;padding:9px 14px;color:var(--tx);font-size:.88rem;outline:none;transition:border-color .2s;}
+.srch:focus{border-color:var(--ac);}
+.srch::placeholder{color:var(--tm);}
+.fbtn{background:var(--sf);border:1px solid var(--bd);border-radius:7px;padding:7px 13px;color:var(--tm);font-size:.78rem;cursor:pointer;transition:all .2s;}
+.fbtn:hover,.fbtn.on{border-color:var(--ac);color:var(--ah);background:var(--sf2);}
+.fcnt{font-size:.82rem;color:var(--tm);margin-left:auto;}
+/* Cards */
+.cgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:18px;}
+.ccard{background:var(--sf);border:1px solid var(--bd);border-radius:12px;padding:22px;cursor:pointer;transition:all .2s;display:flex;flex-direction:column;gap:10px;}
+.ccard:hover{border-color:var(--ac);box-shadow:0 4px 20px rgba(99,102,241,.12);}
+.ccard.hide{display:none;}
+.ch{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;}
+.ctitle{font-size:1rem;font-weight:600;}
+.cnum{font-size:.72rem;color:var(--tm);background:var(--sf2);border:1px solid var(--bd);border-radius:4px;padding:2px 7px;white-space:nowrap;}
+.cgrp{font-size:.76rem;color:var(--tm);}
+.cdef{font-size:.83rem;color:var(--tm);line-height:1.5;}
+.cbr{display:flex;flex-wrap:wrap;gap:5px;}
+.cdeps{border-top:1px solid var(--bd);padding-top:10px;}
+.cdeps h5{font-size:.72rem;color:var(--tm);text-transform:uppercase;letter-spacing:.06em;margin-bottom:5px;}
+.dtag{font-size:.76rem;padding:2px 9px;border-radius:4px;border:1px solid var(--bd);background:var(--sf2);color:var(--tm);display:inline-block;margin:2px;}
+.cftr{display:flex;align-items:center;justify-content:space-between;}
+.cep{font-size:.73rem;color:var(--tm);}
+.cdbtn{font-size:.76rem;color:var(--ah);}
+.nores{text-align:center;padding:48px;color:var(--tm);}
+/* Modal */
+.overlay{position:fixed;inset:0;background:rgba(0,0,0,.72);z-index:100;display:none;align-items:flex-start;justify-content:flex-end;}
+.overlay.open{display:flex;}
+.mpanel{background:var(--sf);border-left:1px solid var(--bd);width:680px;max-width:100%;height:100vh;overflow-y:auto;display:flex;flex-direction:column;animation:slin .2s ease;}
+@keyframes slin{from{transform:translateX(100%)}to{transform:translateX(0)}}
+.mhdr{padding:22px;border-bottom:1px solid var(--bd);display:flex;align-items:flex-start;justify-content:space-between;gap:14px;position:sticky;top:0;background:var(--sf);z-index:1;}
+.mtitle{font-size:1.2rem;font-weight:700;}
+.mclose{background:none;border:1px solid var(--bd);border-radius:6px;color:var(--tm);cursor:pointer;padding:5px 9px;font-size:.95rem;transition:all .2s;}
+.mclose:hover{border-color:var(--rd);color:var(--rd);}
+/* Tabs */
+.tbar{display:flex;border-bottom:1px solid var(--bd);padding:0 22px;overflow-x:auto;}
+.tbtn{background:none;border:none;border-bottom:2px solid transparent;color:var(--tm);cursor:pointer;padding:11px 14px;font-size:.82rem;white-space:nowrap;transition:all .2s;}
+.tbtn:hover{color:var(--tx);}
+.tbtn.on{color:var(--ah);border-bottom-color:var(--ac);}
+.tcnt{padding:22px;flex:1;}
+.tpane{display:none;}
+.tpane.on{display:block;}
+/* Tab content */
+.igrid{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+.iitem h5{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--tm);margin-bottom:3px;}
+.iitem p{font-size:.88rem;}
+.rblk{background:var(--sf2);border:1px solid var(--bd);border-radius:8px;padding:14px;margin-bottom:14px;}
+.rblk h5{font-size:.76rem;color:var(--tm);margin-bottom:7px;text-transform:uppercase;letter-spacing:.05em;}
+.rblk code,.rblk pre{font-family:'Cascadia Code','Fira Code',Consolas,monospace;font-size:.8rem;color:var(--ah);white-space:pre-wrap;word-break:break-all;}
+.slist{list-style:none;}
+.sitem{display:flex;gap:10px;padding:9px 0;border-bottom:1px solid var(--bd);}
+.sitem:last-child{border-bottom:none;}
+.sname{font-size:.78rem;font-weight:600;color:var(--ah);min-width:130px;font-family:monospace;}
+.sdesc{font-size:.83rem;color:var(--tm);}
+.rrw{display:flex;gap:10px;align-items:flex-start;padding:9px 0;border-bottom:1px solid var(--bd);}
+.srw{display:flex;gap:10px;align-items:flex-start;padding:9px 0;border-bottom:1px solid var(--bd);}
+.sep{font-size:.76rem;font-family:monospace;color:var(--cy);white-space:nowrap;}
+.sln{font-size:.72rem;color:var(--tm);white-space:nowrap;}
+.snote{font-size:.8rem;}
+.tags{display:flex;flex-wrap:wrap;gap:5px;}
+.tag{font-size:.76rem;padding:3px 9px;border-radius:4px;border:1px solid var(--bd);background:var(--sf2);}
+/* Comparison Table */
+.twrap{overflow-x:auto;}
+table{width:100%;border-collapse:collapse;font-size:.8rem;}
+th{background:var(--sf2);padding:9px 11px;text-align:left;white-space:nowrap;font-weight:600;font-size:.75rem;text-transform:uppercase;letter-spacing:.05em;color:var(--tm);border-bottom:2px solid var(--bd);}
+td{padding:9px 11px;border-bottom:1px solid var(--bd);vertical-align:top;}
+tr:hover td{background:var(--sf2);}
+.tcc{text-align:center;}
+.cy{color:var(--gn);}
+.cn{color:var(--tm);opacity:.35;}
+/* Risk Board */
+.rbgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:14px;}
+.rcat{background:var(--sf);border:1px solid var(--bd);border-radius:10px;padding:18px;}
+.rcat h4{font-size:.8rem;color:var(--tm);text-transform:uppercase;letter-spacing:.06em;margin-bottom:10px;}
+.rent{display:flex;gap:9px;margin-bottom:9px;}
+.rtag{font-size:.68rem;font-weight:700;padding:2px 6px;border-radius:3px;white-space:nowrap;flex-shrink:0;align-self:flex-start;margin-top:2px;}
+.rtag.error{background:rgba(239,68,68,.18);color:var(--rd);border:1px solid var(--rd);}
+.rtag.warn{background:rgba(245,158,11,.18);color:var(--yw);border:1px solid var(--yw);}
+.rtag.info{background:rgba(6,182,212,.18);color:var(--cy);border:1px solid var(--cy);}
+.rdsc{font-size:.8rem;color:var(--tm);}
+.rdsc strong{color:var(--tx);}
+/* Source table */
+.stbl{width:100%;border-collapse:collapse;font-size:.8rem;}
+.stbl th{background:var(--sf2);padding:9px 13px;text-align:left;color:var(--tm);font-size:.75rem;text-transform:uppercase;letter-spacing:.05em;border-bottom:2px solid var(--bd);}
+.stbl td{padding:9px 13px;border-bottom:1px solid var(--bd);vertical-align:top;}
+.stbl tr:hover td{background:var(--sf2);}
+.eptag{font-family:monospace;font-size:.76rem;color:var(--cy);font-weight:600;}
+.lntag{font-size:.72rem;color:var(--tm);}
+/* Checklist */
+.clctrls{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:18px;}
+.clbtn{background:var(--sf);border:1px solid var(--bd);border-radius:8px;color:var(--tm);cursor:pointer;padding:8px 15px;font-size:.83rem;transition:all .2s;}
+.clbtn:hover{border-color:var(--ac);color:var(--ah);}
+.clprog{margin-bottom:18px;}
+.pbar{background:var(--sf2);border-radius:100px;height:7px;overflow:hidden;margin-top:5px;}
+.pfill{background:linear-gradient(90deg,var(--ac),var(--ah));height:100%;border-radius:100px;transition:width .3s;}
+.plbl{font-size:.83rem;color:var(--tm);}
+.clgrp{margin-bottom:22px;}
+.clgrp h4{font-size:.82rem;color:var(--tm);text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px;}
+.citem{display:flex;align-items:flex-start;gap:11px;padding:9px 12px;border-radius:8px;cursor:pointer;transition:background .2s;margin-bottom:3px;}
+.citem:hover{background:var(--sf2);}
+.citem.ck{opacity:.6;}
+.citem.ck .ctxt{text-decoration:line-through;}
+.cbox{width:17px;height:17px;border:2px solid var(--bd);border-radius:4px;flex-shrink:0;display:flex;align-items:center;justify-content:center;margin-top:2px;transition:all .2s;}
+.citem.ck .cbox{background:var(--ac);border-color:var(--ac);}
+.cbox::after{content:'✓';font-size:.65rem;color:#fff;display:none;}
+.citem.ck .cbox::after{display:block;}
+.ctxt{font-size:.86rem;}
+.ccon{font-size:.72rem;color:var(--tm);margin-top:1px;}
+/* Sec title */
+.stitle{font-size:1.15rem;font-weight:700;margin-bottom:6px;}
+.ssub{font-size:.83rem;color:var(--tm);margin-bottom:20px;}
+/* Print */
+@media print{.overlay,.fbar,.dep-box,.clctrls{display:none!important;}body{background:#fff;color:#000;}.ccard{break-inside:avoid;border:1px solid #ccc;}}
+@media(max-width:768px){.cgrid{grid-template-columns:1fr;}.igrid{grid-template-columns:1fr;}.mpanel{width:100%;}.sum-grid{grid-template-columns:repeat(2,1fr);}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;}}
+</style>
+</head>
+<body>
+
+<header class="hdr">
+<div class="wrap">
+<h1>ICT Core 10 — Review Dashboard</h1>
+<p class="sub">ICT 2022 Mentorship · 핵심 개념 10개 검증 완료 · 오프라인 단일 파일</p>
+<div class="hdr-meta">
+<span>코퍼스: <strong>정리본 40개</strong> (Ep01~41, Ep28 누락)</span>
+<span>단계: <strong>transcripts → concepts → rulebook</strong></span>
+<span>pine · scanner 미구현</span>
+<span>생성: <strong>2026-05-31</strong></span>
+</div>
+</div>
+</header>
+
+<div class="wrap">
+
+<section id="sec-summary">
+<div class="stitle">개념 요약</div>
+<p class="ssub">카드를 클릭하면 상세 패널이 열립니다.</p>
+<div class="sum-grid" id="sumGrid"></div>
+</section>
+
+<section id="sec-dep">
+<div class="stitle">의존 관계 흐름</div>
+<p class="ssub">화살표는 항상 발생을 뜻하지 않는다. 후행 조건 평가에 선행 데이터가 필요함을 뜻한다.</p>
+<div class="dep-box"><div class="flow-chain" id="flowChain"></div></div>
+</section>
+
+<section id="sec-cards">
+<div class="stitle">개념 카드</div>
+<div class="fbar">
+<input class="srch" id="srchInput" placeholder="개념명, 그룹, 키워드 검색...">
+<button class="fbtn on" data-f="all">전체</button>
+<button class="fbtn" data-f="price_structure">가격 구조</button>
+<button class="fbtn" data-f="liquidity">유동성</button>
+<button class="fbtn" data-f="price_delivery">가격 전달</button>
+<button class="fbtn" data-f="pd_array">PD Array</button>
+<span class="fcnt" id="fcnt"></span>
+</div>
+<div class="cgrid" id="cgrid"></div>
+<div class="nores" id="nores" style="display:none">검색 결과가 없습니다.</div>
+</section>
+
+<section id="sec-table">
+<div class="stitle">개념 비교표</div>
+<p class="ssub">10개 개념의 주요 속성 한 눈에 비교</p>
+<div class="twrap"><table id="ctbl"></table></div>
+</section>
+
+<section id="sec-risk">
+<div class="stitle">구현 리스크 보드</div>
+<p class="ssub">코드 구현 시 잘못 해석되기 쉬운 지점과 데이터 무결성 규칙</p>
+<div class="rbgrid" id="rbgrid"></div>
+</section>
+
+<section id="sec-src">
+<div class="stitle">자막 근거 색인</div>
+<p class="ssub">개념별 대표 Episode와 줄 번호. 자막 중복 라인 포함 — 절대 빈도로 해석하지 않음.</p>
+<div class="twrap"><table class="stbl" id="srctbl"></table></div>
+</section>
+
+<section id="sec-cl">
+<div class="stitle">학습 체크리스트</div>
+<p class="ssub">진행 상태는 브라우저 localStorage에 저장됩니다.</p>
+<div class="clctrls">
+<button class="clbtn" onclick="clClear()">초기화</button>
+<button class="clbtn" onclick="clCopy()">Markdown 복사</button>
+<button class="clbtn" onclick="window.print()">인쇄</button>
+</div>
+<div class="clprog">
+<div class="plbl">완료: <span id="ckDone">0</span> / <span id="ckTotal">0</span></div>
+<div class="pbar"><div class="pfill" id="pfill" style="width:0%"></div></div>
+</div>
+<div id="clCont"></div>
+</section>
+
+</div>
+
+<div class="overlay" id="overlay" onclick="overlayClick(event)">
+<div class="mpanel" id="mpanel">
+<div class="mhdr">
+<div>
+<div class="mtitle" id="mtitle"></div>
+<div style="display:flex;flex-wrap:wrap;gap:5px;margin-top:7px;" id="mbadges"></div>
+</div>
+<button class="mclose" onclick="closeModal()">✕</button>
+</div>
+<div class="tbar" id="tbar"></div>
+<div class="tcnt" id="tcnt"></div>
+</div>
+</div>
+
+<script>
+// ─── DATA ────────────────────────────────────────────────────
+const BL={objective:'objective',research_default:'research default',manual_review:'manual review',derived_metadata:'derived metadata',transcript_conflict:'transcript conflict',hard_dep:'hard dependency',optional:'optional confluence'};
+
+const CONCEPTS=[
+{id:'swing_points',num:1,name:'Swing Points',grp:'price_structure',grpL:'가격 구조',
+def:'고점과 저점을 동일한 알고리즘으로 표시하는 구조의 최소 단위. 3캔들 strict inequality 기반.',
+deps:['3 closed OHLC (center + left + right)'],
+eps:['Ep5 1347-1383','Ep10 1823-1838','Ep12 1631-1650','Ep40 555-570'],
+badges:['objective'],
+states:['candidate','confirmed','invalidated','expired'],
+defn:{short_term_high:'center.high > left.high AND center.high > right.high',short_term_low:'center.low < left.low AND center.low < right.low',confirmed_at:'오른쪽 확인 봉 close 시각 (pivot_at ≠ confirmed_at)'},
+pseudo:`is_sth = high[1] > high[2] and high[1] > high[0]
+is_stl = low[1]  < low[2]  and low[1]  < low[0]
+-- confirmed_at = bar[0].close_time
+-- pivot_at     = bar[1].close_time`,
+inv:['right.high >= center.high → STH 불성립','right.low <= center.low → STL 불성립'],
+risks:[{lv:'error',t:'pivot_at과 confirmed_at을 동일 시각으로 처리하면 look-ahead bias 발생'},{lv:'warn',t:'등호(≥) 포함 시 strict inequality 위반 — 동등 고점은 swing 불성립'}],
+srcs:[{ep:'Ep5',ln:'1347-1383',n:'swing high/low 3캔들 구조와 BSL/SSL 연결'},{ep:'Ep10',ln:'1823-1838',n:'swing low 3캔들 구조 (좌우 higher low)'},{ep:'Ep12',ln:'1631-1650',n:'intermediate-term high 계층 보조 규칙'},{ep:'Ep40',ln:'555-570',n:'swing high 3캔들 구조와 fractal 구분'}],
+conf:[],
+notes:['ICT 층위: short-term / intermediate-term / long-term','Pine에서 bar[1]이 center bar (bar[0] close 후 판정)','계층별 규칙 일부는 manual_review 필요']},
+
+{id:'liquidity',num:2,name:'Liquidity',grp:'liquidity',grpL:'유동성',
+def:'Swing high/low, relative equal highs/lows, old highs/lows를 stop_pool_reference로 등록. active/taken 상태 머신.',
+deps:['confirmed swing points','OHLC bar data'],
+eps:['Ep3 75-80','Ep23'],
+badges:['objective','research_default'],
+states:['active','taken'],
+defn:{equal_tolerance:'max(tick_size, 0.10 * ATR14) — research default',pool_types:'swing_high_level, swing_low_level, REH, REL, old_high, old_low'},
+pseudo:`-- equal high detection (research default)
+abs(high_a - high_b) <= max(tick_size, 0.10 * ATR14)
+-- taken event
+BSL: bar.high > trigger -> state = 'taken'
+SSL: bar.low  < trigger -> state = 'taken'`,
+inv:['IRL/ERL 구분은 확정 Dealing Range 없이 계산 불가 (manual_review)'],
+risks:[{lv:'warn',t:'equal-level tolerance 0.10 * ATR14는 research default — 고정 수치 아님'},{lv:'info',t:'IRL/ERL 분류는 Dealing Range 의존 — raw pool 생성 조건 아님'}],
+srcs:[{ep:'Ep3',ln:'75-80',n:'MSS와 buy-side/sell-side liquidity 연결'},{ep:'Ep23',ln:'—',n:'liquidity sweep vs run 구분'}],
+conf:['Dealing Range (IRL/ERL 분류 context)'],
+notes:['stop_pool_reference: id, type, trigger_price, state 저장','IRL/ERL은 raw pool 조건이 아닌 분류 메타데이터']},
+
+{id:'bsl_ssl',num:3,name:'BSL / SSL',grp:'liquidity',grpL:'유동성',
+def:'Liquidity pool 위치 분류. 상단 풀 = BSL (trigger=price_high). 하단 풀 = SSL (trigger=price_low). 방향 신호 아님.',
+deps:['confirmed active liquidity pool','pool position relative to market'],
+eps:['Ep3 75-80','Ep5 1347-1383'],
+badges:['objective'],
+states:['active','taken'],
+defn:{BSL:'upper pool → trigger = price_high (short stops above)',SSL:'lower pool → trigger = price_low (long stops below)',note:'BSL/SSL은 위치 레이블, 방향 신호 아님'},
+pseudo:`-- Classification contract
+if pool.position == 'upper':
+    pool.label   = 'BSL'
+    pool.trigger = bar.high
+if pool.position == 'lower':
+    pool.label   = 'SSL'
+    pool.trigger = bar.low
+-- target_eligibility computed separately`,
+inv:['BSL → 자동 short 신호로 해석 (오류)','SSL → 자동 long 신호로 해석 (오류)'],
+risks:[{lv:'error',t:'BSL taken → short, SSL taken → long으로 자동 해석하면 방향 오류'},{lv:'info',t:'target_eligibility는 Daily Bias, Institutional Order Flow와 별도 계산'}],
+srcs:[{ep:'Ep3',ln:'75-80',n:'buy-side/sell-side liquidity 기본 정의'},{ep:'Ep5',ln:'1347-1383',n:'swing과 BSL/SSL 연결'}],
+conf:['Dealing Range (ERL/IRL context)'],
+notes:['BSL/SSL은 위치 레이블. 방향 추론은 Daily Bias + IOF와 결합']},
+
+{id:'liquidity_sweep',num:4,name:'Liquidity Sweep',grp:'liquidity',grpL:'유동성',
+def:'BSL/SSL 터치 후 close reclaim 확인. sweep_reclaim_bars=3은 research default. sweep vs run 구분 필수.',
+deps:['active BSL or SSL pool (taken event)','OHLC close after trigger bar'],
+eps:['Ep3 4248-4254','Ep23'],
+badges:['objective','research_default'],
+states:['candidate','confirmed_sweep','run_or_breakout_candidate','expired'],
+defn:{BSL_sweep:'high > trigger → candidate; close < trigger within window → confirmed',SSL_sweep:'low < trigger → candidate; close > trigger within window → confirmed',window:'sweep_reclaim_bars = 3 (research default)'},
+pseudo:`-- BSL sweep
+if bar.high > bsl.trigger:
+    open candidate
+    for next N bars:  # N = sweep_reclaim_bars (default 3)
+        if bar.close < bsl.trigger:
+            state = 'confirmed_sweep'; break
+    else: state = 'run_or_breakout_candidate'
+-- SSL sweep: 방향 대칭`,
+inv:['reclaim window 내 close 없음 → expired','run_or_breakout_candidate ≠ sweep'],
+risks:[{lv:'warn',t:'sweep_reclaim_bars=3은 research default. 고정 ICT 수치 아님'},{lv:'info',t:'Ep23: sweep(reclaim 있음) vs run(reclaim 없음, breakout 가능성) 구분 필요'}],
+srcs:[{ep:'Ep3',ln:'4248-4254',n:'stop hunt 이후 MSS 관찰'},{ep:'Ep23',ln:'—',n:'sweep vs run/breakout 구분'}],
+conf:['MSS confluence metadata','Displacement context'],
+notes:['reclaim은 반드시 closed bar 기준 (미확정 bar = look-ahead bias)']},
+
+{id:'displacement',num:5,name:'Displacement',grp:'price_delivery',grpL:'가격 전달',
+def:'단일 봉 body 크기와 비율로 방향성 이동 탐지. body >= 1.50 × median(prev 20), body_ratio >= 0.60은 research default.',
+deps:['20 closed bars for median calculation','OHLC of current bar'],
+eps:['Ep5 3532-3540','Ep6 2723-2755'],
+badges:['objective','research_default'],
+states:['none','displacement_candidate','confirmed'],
+defn:{body:'abs(close - open)',body_ratio:'body / (high - low)',threshold_body:'>= 1.50 * median(prev 20 bodies) — research default',threshold_ratio:'>= 0.60 — research default'},
+pseudo:`body      = abs(bar.close - bar.open)
+body_ratio = body / (bar.high - bar.low)
+med20      = median([abs(b.close-b.open) for b in prev_20])
+is_disp    = (body >= 1.50 * med20) and (body_ratio >= 0.60)
+direction  = 'bullish' if bar.close > bar.open else 'bearish'`,
+inv:['bar.high == bar.low (zero-range bar)','body < 1.50 * median_20'],
+risks:[{lv:'warn',t:'1.50 배수와 0.60 ratio는 research default. 자막에 고정 수치 없음'},{lv:'info',t:'impulse leg (연속 봉 합산) = 고급 구현. 최소 구현은 단일 봉 프록시'}],
+srcs:[{ep:'Ep5',ln:'3532-3540',n:'sudden displacement 이후 FVG와 retracement'},{ep:'Ep6',ln:'2723-2755',n:'강화 bullish profile에서 energetic displacement 확인'}],
+conf:['MSS confluence metadata','FVG context','Liquidity Sweep context'],
+notes:['단일 봉 proxy = 최소 구현. impulse leg 집계는 advanced 구현으로 분리','structure-confirming tag: 이전 swing 돌파와 결합 시 추가 메타데이터']},
+
+{id:'mss',num:6,name:'Market Structure Shift',grp:'price_delivery',grpL:'가격 전달',
+def:'BSL/SSL taken 이후 반대편 swing 돌파. Ep3 minimum = traversal only. Ep6 강화 = close + displacement (별도 profile).',
+deps:['confirmed BSL or SSL taken event','confirmed opposite short-term swing'],
+eps:['Ep3 1587-1615','Ep3 2091-2123','Ep6 2723-2755','Ep12 3528-3536'],
+badges:['objective'],
+states:['candidate','confirmed','invalidated'],
+defn:{bullish_MSS:'SSL taken → high > confirmed STH level (strict traversal)',bearish_MSS:'BSL taken → low < confirmed STL level (strict traversal)',Ep3_minimum:'traversal only — level 위/아래 종가 마감 불필요',Ep6_profile:'close above STH + energetic displacement — 별도 strategy profile'},
+pseudo:`-- Bullish MSS (Ep3 minimum)
+if ssl.state == 'taken':
+    if bar.high > ref_sth.high:         # traversal
+        state               = 'confirmed'
+        close_confirmed     = bar.close > ref_sth.high   # enhancement tag
+        displacement_tag    = is_displacement(bar)        # enhancement tag
+-- Ep6 profile: separate strategy, do not mix`,
+inv:['ref swing not yet confirmed','SSL/BSL not yet taken'],
+risks:[{lv:'error',t:'Ep3 최소 MSS에 close_confirmed를 hard requirement로 강제하면 과거 신호 누락'},{lv:'warn',t:'close_confirmed, displacement_confirmed = enhancement tag (hard dep 아님)'},{lv:'info',t:'Ep6 강화 profile은 별도 strategy profile로 분리 — 혼용 금지'}],
+srcs:[{ep:'Ep3',ln:'1587-1615',n:'bullish swing high traversal, level 위 종가 불필요 (Ep3 minimum)'},{ep:'Ep3',ln:'2091-2123',n:'buy stops taken 뒤 STL 아래 거래, bearish shift'},{ep:'Ep6',ln:'2723-2755',n:'강화 profile: STH 위 종가 + energetic displacement'},{ep:'Ep12',ln:'3528-3536',n:'STL break 이후 imbalance 되돌림'}],
+conf:['Displacement (강화 metadata)','Liquidity Sweep (선행 사건)'],
+notes:['MSS minimum event와 강화 profile을 반드시 분리 저장','ref_swing은 MSS 판정 시점에 already confirmed 상태여야 함']},
+
+{id:'fvg',num:7,name:'Fair Value Gap',grp:'price_delivery',grpL:'가격 전달',
+def:'3 closed OHLC만으로 생성. displacement/MSS/sweep은 raw FVG 생성 조건이 아닌 setup filter metadata.',
+deps:['3 consecutive closed OHLC (candle_1, candle_2, candle_3)'],
+eps:['Ep6 1319-1423','Ep6 1931-1967','Ep6 2596-2647','Ep41 1391-1419'],
+badges:['objective'],
+states:['active','touched','partially_rebalanced','fully_rebalanced','overrun','setup_invalidated'],
+defn:{bullish_FVG:'candle_1.high < candle_3.low',bearish_FVG:'candle_1.low > candle_3.high',confirmed_at:'candle_3 close time',zone_bullish:'[candle_1.high, candle_3.low]',zone_bearish:'[candle_3.high, candle_1.low]'},
+pseudo:`-- Bullish FVG
+if candle_1.high < candle_3.low:
+    fvg = { direction:'bullish',
+            zone_low:  candle_1.high,
+            zone_high: candle_3.low,
+            confirmed_at: candle_3.close_time }
+-- Bearish FVG
+if candle_1.low > candle_3.high:
+    fvg = { direction:'bearish',
+            zone_low:  candle_3.high,
+            zone_high: candle_1.low,
+            confirmed_at: candle_3.close_time }`,
+inv:['candle_1.high >= candle_3.low → gap 없음 (bullish)','candle_3 미확정 시 look-ahead bias'],
+risks:[{lv:'error',t:'displacement/MSS를 raw FVG 생성의 hard requirement로 강제하면 FVG 과소 탐지'},{lv:'warn',t:'candle_3 close 전에 FVG 확정하면 look-ahead bias'},{lv:'info',t:'Ep41 1391-1419: displacement 없는 FVG = setup_invalidated (raw zone은 존재)'}],
+srcs:[{ep:'Ep6',ln:'1319-1423',n:'bearish FVG 3캔들 formation과 wick 비중첩 구간'},{ep:'Ep6',ln:'1931-1967',n:'bearish FVG 방향별 zone 경계'},{ep:'Ep6',ln:'2596-2647',n:'bullish FVG, institutional order flow, 3캔들 formation'},{ep:'Ep41',ln:'1391-1419',n:'displacement 없는 FVG setup 참여 배제 (setup filter)'}],
+conf:['Displacement (setup filter)','MSS (setup filter)','Liquidity Sweep (setup filter)'],
+notes:['raw FVG zone 이력과 setup eligibility를 반드시 분리','setup_invalidated: zone 유지, 진입 배제']},
+
+{id:'order_block',num:8,name:'Order Block',grp:'pd_array',grpL:'PD Array',
+def:'방향성 연속 봉 series + delivery_open strict traversal. 단일 봉 = length-1 series. "마지막 반대색 봉 하나" 축약은 명시적 오류.',
+deps:['directional close series','delivery_open = series.first.open','opposite direction strict traversal of delivery_open'],
+eps:['Ep3 1731-1779','Ep3 2871-3003','Ep12 4103-4199','Ep17 1751-1787'],
+badges:['objective'],
+states:['candidate','confirmed','active','touched','mitigated','overrun','invalidated'],
+defn:{bullish_OB:'down-close series → delivery_open=series.first.open → confirmed: high > delivery_open',bearish_OB:'up-close series → delivery_open=series.first.open → confirmed: low < delivery_open',single_candle:'length-1 series (별도 규칙 아님)',zone_structure:'opening_level + body_zone + wick_zone 분리 저장'},
+pseudo:`-- Bullish OB
+series = consecutive down-close candles
+delivery_open = series[0].open  # first candle open
+confirmed when: bar.high > delivery_open  # strict
+zone = { opening_level: delivery_open,
+         body_low:  series[-1].close,
+         body_high: series[0].open,
+         wick_low:  min(series.lows) }
+-- Bearish OB: 방향 대칭`,
+inv:['high <= delivery_open → traversal 없음','series 미확정 시 look-ahead bias'],
+risks:[{lv:'error',t:'"마지막 반대색 봉 하나" 고정은 명시적 오류 (Ep12 4103-4199 직접 반박)'},{lv:'error',t:'FVG/MSS를 raw OB 생성 조건으로 강제하면 OB 과소 탐지'},{lv:'info',t:'Ep17: 긴 wick보다 body retracement 선호 — refinement policy (hard dep 아님)'}],
+srcs:[{ep:'Ep3',ln:'1731-1779',n:'복수 down-close candle → continuous OB, series 시작 open 연장'},{ep:'Ep3',ln:'2871-3003',n:'series 시작 open 반대 방향 관통과 state of delivery 변화'},{ep:'Ep12',ln:'4103-4199',n:'마지막 반대색 봉 하나 축약 금지, consecutive series 강조'},{ep:'Ep17',ln:'1751-1787',n:'wick보다 body retracement 선호 사례 (refinement)'}],
+conf:['FVG (setup confluence)','MSS (setup confluence)','Liquidity Sweep (setup confluence)'],
+notes:['opening_level, body_zone, wick_zone 세 구조를 별도로 저장','touched/mitigated: 어느 구역까지 price가 도달했는지 기록']},
+
+{id:'breaker_block',num:9,name:'Breaker Block',grp:'pd_array',grpL:'PD Array',
+def:'BSL/SSL taken + 반대편 swing traversal + source candle zone. 하락 source = lowest down-close (자막 직접). 상승 source = symmetry_inference.',
+deps:['confirmed BSL or SSL taken event','confirmed opposite short-term swing strict traversal','source candle zone'],
+eps:['Ep39 2395-2499','Ep10 4067-4187','Ep5 3531-3567','Ep25 6083-6111'],
+badges:['objective','manual_review'],
+states:['candidate','confirmed','active','mitigated','invalidated'],
+defn:{bearish_breaker:'BSL taken → STL traversal → lowest down-close before up-move = source',bullish_breaker:'SSL taken → STH traversal → highest up-close candle [symmetry_inference=true]',source_ob_id:'nullable provenance link — NOT hard dependency',simple_model:'Ep5, Ep25: breaker not required in simple model'},
+pseudo:`-- Bearish Breaker (Ep39, direct transcript)
+1. BSL.state == 'taken'
+2. low < confirmed_stl.low         # strict traversal
+3. source = lowest down-close candle
+       in window before BSL-linked up-move
+4. breaker.zone = source candle zone
+   source_ob_id = nullable          # NOT hard dep
+
+-- Bullish Breaker [symmetry_inference = true]
+1. SSL.state == 'taken'
+2. high > confirmed_sth.high        # strict traversal
+3. source = highest up-close (inferred, symmetry)`,
+inv:['BSL/SSL not yet taken','opposite swing not confirmed','source window undefined'],
+risks:[{lv:'warn',t:'bullish breaker source = symmetry_inference. 자막에 직접 근거 부족'},{lv:'warn',t:'source_ob_id는 nullable provenance. hard dep으로 강제하면 오류'},{lv:'info',t:'Ep5, Ep25: 단순 모델에서 breaker는 필수 신호 아님'}],
+srcs:[{ep:'Ep39',ln:'2395-2499',n:'BSL 제거, STL 아래 거래, bearish narrative, lowest down-close source'},{ep:'Ep10',ln:'4067-4187',n:'bearish breaker와 source candle lower half refinement'},{ep:'Ep5',ln:'3531-3567',n:'단순 모델에서 breaker 필수 아님'},{ep:'Ep25',ln:'6083-6111',n:'단순 모델에서 breaker 필수 아님 (재확인)'}],
+conf:['OB overrun history (optional provenance)','FVG (setup)','MSS (setup)'],
+notes:['bearish: 자막 직접 근거. bullish: symmetry_inference=true로 표시 필수','단순 모델 사용 시 breaker 배제 가능함을 항상 명시']},
+
+{id:'ote',num:10,name:'OTE',grp:'pd_array',grpL:'PD Array',
+def:'선택 range의 0.62~0.79 retracement zone. 0.705 = derived midpoint (자막 직접 threshold 아님). Ep41 "62 to 70" = transcript_conflict.',
+deps:['valid dealing range with endpoint provenance','range direction','anchor policy'],
+eps:['Ep19 5931-5967','Ep22 5271-5299','Ep38 5191-5203','Ep41 2179-2191 (conflict)'],
+badges:['objective','derived_metadata','transcript_conflict'],
+states:['active','touched','interacted','expired'],
+defn:{bullish_zone:'[anchor_high - 0.79*span, anchor_high - 0.62*span]',bearish_zone:'[anchor_low + 0.62*span, anchor_low + 0.79*span]',derived_0705:'(0.62 + 0.79) / 2 = 0.705 — derived_metadata (자막 직접 threshold 아님)',ep41_conflict:'"62 to 70" — transcript_conflict (영상 수동 확인 필요)',ep22_anchor:'body-refined: lowest/highest open-close in swing — refinement policy'},
+pseudo:`-- Bullish OTE
+span      = anchor_high - anchor_low
+zone_low  = anchor_high - 0.79 * span
+zone_high = anchor_high - 0.62 * span
+midpoint  = (0.62 + 0.79) / 2  -- derived_metadata
+
+-- Bearish OTE (방향 대칭)
+zone_low  = anchor_low + 0.62 * span
+zone_high = anchor_low + 0.79 * span
+
+-- Ep22 body anchor (refinement policy)
+anchor_low  = min(swing_low candle open, close)
+anchor_high = max(swing_high candle open, close)`,
+inv:['anchor_high <= anchor_low','미확정 pivot을 anchor에 사용','bullish/bearish 계산 방향 뒤집기'],
+risks:[{lv:'error',t:'0.705를 자막 직접 threshold로 기록 금지. derived_metadata 표시 필수'},{lv:'error',t:'Ep41 "62 to 70"을 자동 교정 금지. transcript_conflict로 보존'},{lv:'warn',t:'Ep22 body anchor를 모든 상황의 기본값으로 강제하면 최소 구현 오염'}],
+srcs:[{ep:'Ep19',ln:'5931-5967',n:'OTE 62~79 구간과 bullish low-high 측정 사례'},{ep:'Ep22',ln:'5271-5299',n:'OTE level 62, 79와 swing 내부 body anchor'},{ep:'Ep22',ln:'5411-5514',n:'body anchor 상세 (open-close 기준 lowest/highest)'},{ep:'Ep38',ln:'5191-5203',n:'bullish OTE low-high leg 되돌림 매수 패턴'},{ep:'Ep41',ln:'2179-2191',n:'"62 to 70" 전사 — transcript_conflict, 영상 수동 확인 필요'}],
+conf:['FVG overlap (setup ranking)','OB overlap (setup ranking)','MSS (directional context)','BSL/SSL (target liquidity)'],
+notes:['raw zone 생성과 setup eligibility 반드시 분리','OTE touch 단독으로 entry 확정 금지','Ep1, Ep7: 단순 모델에서 OTE 필수 아님']}
+];
+
+const RISKS=[
+{title:'Look-Ahead Bias',items:[
+{lv:'error',c:'Swing Points',t:'<strong>pivot_at = confirmed_at</strong> 처리 시 1봉 미래 데이터 사용. confirmed_at은 right bar close 시각.'},
+{lv:'error',c:'FVG',t:'<strong>candle_3 close 전</strong> FVG 확정 시 look-ahead bias.'},
+{lv:'error',c:'Liquidity Sweep',t:'<strong>미확정 bar</strong>로 reclaim 판정 시 bias.'}]},
+{title:'Hard Dep 오분류',items:[
+{lv:'error',c:'FVG',t:'<strong>displacement/MSS</strong>를 raw FVG 생성 조건으로 강제 → 과소 탐지.'},
+{lv:'error',c:'Order Block',t:'<strong>FVG/MSS</strong>를 raw OB 생성 조건으로 강제 → 과소 탐지.'},
+{lv:'error',c:'Breaker Block',t:'<strong>source_ob_id</strong>를 hard dep으로 강제 → 과소 탐지.'},
+{lv:'error',c:'MSS',t:'<strong>close_confirmed</strong>를 Ep3 minimum에 강제 → 신호 누락.'}]},
+{title:'Research Default 오해',items:[
+{lv:'warn',c:'Displacement',t:'<strong>1.50× body, 0.60 ratio</strong>는 자막 고정 수치 아님. research default로 표시.'},
+{lv:'warn',c:'Liquidity',t:'<strong>0.10 × ATR14</strong> equal-level tolerance는 research default.'},
+{lv:'warn',c:'Liquidity Sweep',t:'<strong>sweep_reclaim_bars=3</strong>은 research default. 고정 ICT 수치 아님.'}]},
+{title:'Derived Metadata 오해',items:[
+{lv:'error',c:'OTE',t:'<strong>0.705</strong>를 자막 직접 threshold로 기록 금지. (0.62+0.79)/2 = derived_metadata.'},
+{lv:'error',c:'OTE',t:'Ep41 <strong>"62 to 70"</strong>을 자동 교정 금지. transcript_conflict로 보존.'}]},
+{title:'Inference / Symmetry',items:[
+{lv:'warn',c:'Breaker Block',t:'<strong>Bullish source candle</strong> = symmetry_inference=true. 자막 직접 근거 부족.'},
+{lv:'warn',c:'Order Block',t:'<strong>"마지막 반대색 봉 하나"</strong> 고정은 명시적 오류 (Ep12 4103-4199).'}]},
+{title:'Strategy Profile 혼용',items:[
+{lv:'warn',c:'MSS',t:'<strong>Ep3 minimum</strong>과 <strong>Ep6 강화 profile</strong>을 혼용하면 재현 불가.'},
+{lv:'info',c:'OTE',t:'Ep1, Ep7: 단순 모델에서 OTE 필수 아님. 모든 setup에 강제 금지.'},
+{lv:'info',c:'Breaker Block',t:'Ep5, Ep25: 단순 모델에서 Breaker 필수 아님.'}]}
+];
+
+const SRCS=[
+{c:'Swing Points',ep:'Ep5',ln:'1347-1383',n:'swing high/low 3캔들 구조와 BSL/SSL 연결'},
+{c:'Swing Points',ep:'Ep10',ln:'1823-1838',n:'swing low 3캔들 구조 (좌우 higher low)'},
+{c:'Swing Points',ep:'Ep12',ln:'1631-1650',n:'intermediate-term high 계층 보조 규칙'},
+{c:'Swing Points',ep:'Ep40',ln:'555-570',n:'swing high 3캔들 구조와 fractal 구분'},
+{c:'Liquidity / BSL / SSL',ep:'Ep3',ln:'75-80',n:'MSS와 buy-side/sell-side liquidity 연결'},
+{c:'Liquidity Sweep',ep:'Ep3',ln:'4248-4254',n:'stop hunt 이후 MSS 관찰'},
+{c:'Liquidity Sweep',ep:'Ep23',ln:'—',n:'sweep vs run/breakout 구분'},
+{c:'MSS',ep:'Ep3',ln:'1587-1615',n:'bullish traversal, level 위 종가 불필요 (Ep3 minimum)'},
+{c:'MSS',ep:'Ep3',ln:'2091-2123',n:'buy stops taken 뒤 STL 아래 거래, bearish shift'},
+{c:'MSS',ep:'Ep6',ln:'2723-2755',n:'강화 profile: STH 위 종가 + energetic displacement'},
+{c:'MSS',ep:'Ep12',ln:'3528-3536',n:'STL break 이후 imbalance 되돌림'},
+{c:'Displacement / FVG',ep:'Ep5',ln:'3532-3540',n:'sudden displacement 이후 FVG와 retracement'},
+{c:'FVG',ep:'Ep6',ln:'1319-1423',n:'bearish FVG 3캔들 formation과 wick 비중첩 구간'},
+{c:'FVG',ep:'Ep6',ln:'1931-1967',n:'bearish FVG 방향별 zone 경계'},
+{c:'FVG',ep:'Ep6',ln:'2596-2647',n:'bullish FVG, institutional order flow, 3캔들 formation'},
+{c:'FVG (filter)',ep:'Ep41',ln:'1391-1419',n:'displacement 없는 FVG setup 참여 배제 (setup filter)'},
+{c:'Order Block',ep:'Ep3',ln:'1731-1779',n:'복수 down-close candle → continuous OB, series 시작 open 연장'},
+{c:'Order Block',ep:'Ep3',ln:'2871-3003',n:'series 시작 open 반대 방향 관통과 state of delivery 변화'},
+{c:'Order Block',ep:'Ep12',ln:'4103-4199',n:'마지막 반대색 봉 하나 축약 금지, consecutive series 강조'},
+{c:'Order Block',ep:'Ep17',ln:'1751-1787',n:'wick보다 body retracement 선호 (refinement policy)'},
+{c:'Breaker Block',ep:'Ep39',ln:'2395-2499',n:'BSL 제거, STL 아래 거래, bearish narrative, lowest down-close source'},
+{c:'Breaker Block',ep:'Ep10',ln:'4067-4187',n:'bearish breaker와 source candle lower half refinement'},
+{c:'Breaker (simple)',ep:'Ep5',ln:'3531-3567',n:'단순 모델에서 breaker 필수 아님'},
+{c:'Breaker (simple)',ep:'Ep25',ln:'6083-6111',n:'단순 모델에서 breaker 필수 아님 (재확인)'},
+{c:'OTE',ep:'Ep19',ln:'5931-5967',n:'OTE 62~79 구간과 bullish low-high 측정 사례'},
+{c:'OTE',ep:'Ep22',ln:'5271-5299',n:'OTE level 62, 79와 swing 내부 body anchor'},
+{c:'OTE',ep:'Ep22',ln:'5411-5514',n:'body anchor 상세 (open-close 기준 lowest/highest)'},
+{c:'OTE',ep:'Ep38',ln:'5191-5203',n:'bullish OTE low-high leg 되돌림 매수 패턴'},
+{c:'OTE (conflict)',ep:'Ep41',ln:'2179-2191',n:'"62 to 70" 전사 — transcript_conflict, 영상 수동 확인 필요'}
+];
+
+const CL_GROUPS=[
+{g:'Swing Points',items:['3캔들 strict inequality (등호 제외) 이해','pivot_at ≠ confirmed_at (look-ahead bias 방지)','Pine: bar[1]이 center bar (bar[0] close 후 판정)','short-term / intermediate-term / long-term 계층 구분']},
+{g:'Liquidity & BSL/SSL',items:['stop_pool_reference registry 개념 이해','BSL = 상단 풀, SSL = 하단 풀 (방향 신호 아님)','equal-level tolerance = research default 인지','IRL/ERL 분류는 Dealing Range 의존 (raw pool 조건 아님)']},
+{g:'Liquidity Sweep',items:['sweep = trigger 돌파 + reclaim (close 기준)','run/breakout = trigger 돌파 + reclaim 없음','sweep_reclaim_bars=3은 research default','reclaim은 반드시 closed bar 기준 확인']},
+{g:'Displacement',items:['body >= 1.50 * median(prev 20)는 research default','body_ratio >= 0.60는 research default','최소 구현 = 단일 봉 프록시','structure-confirming tag는 enhancement metadata']},
+{g:'Market Structure Shift',items:['Ep3 minimum = traversal only (close 불필요)','close_confirmed는 enhancement tag (hard dep 아님)','displacement_confirmed는 enhancement tag','Ep6 profile은 별도 strategy profile로 분리']},
+{g:'Fair Value Gap',items:['hard dep = 3 closed OHLC만 (displacement/MSS 불필요)','bullish: candle_1.high < candle_3.low','bearish: candle_1.low > candle_3.high','candle_3 close 후에만 확정 (look-ahead 방지)','raw zone 이력과 setup eligibility 분리']},
+{g:'Order Block',items:['delivery_open = series.first.open (series 시작 봉의 open)','단일 봉 = length-1 series (별도 규칙 아님)','마지막 반대색 봉 하나 고정은 오류 (Ep12)','FVG/MSS는 raw OB 조건 아님 (confluence metadata)','opening_level / body_zone / wick_zone 분리 저장']},
+{g:'Breaker Block',items:['bearish source = lowest down-close (자막 직접 근거)','bullish source = highest up-close [symmetry_inference=true]','source_ob_id = nullable provenance (hard dep 아님)','단순 모델에서 breaker 필수 아님 (Ep5, Ep25)']},
+{g:'OTE',items:['0.705 = (0.62+0.79)/2 = derived_metadata (자막 직접 threshold 아님)','Ep41 "62 to 70" = transcript_conflict (자동 교정 금지)','Ep22 body anchor = refinement policy (기본값 아님)','raw zone 생성과 setup eligibility 분리','OTE touch 단독으로 entry 확정 금지']}
+];
+
+// ─── HELPERS ─────────────────────────────────────────────────
+function badge(t){return `<span class="badge badge-${t}">${BL[t]||t}</span>`;}
+function h(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+// ─── SUMMARY ─────────────────────────────────────────────────
+function renderSummary(){
+  document.getElementById('sumGrid').innerHTML=CONCEPTS.map(c=>`
+    <div class="sum-card" onclick="openModal('${c.id}')">
+      <h4>${c.name}</h4>
+      <div class="snum">${String(c.num).padStart(2,'0')}</div>
+      <div class="slbl">${c.grpL}</div>
+      <div class="sbr">${c.badges.map(badge).join('')}</div>
+    </div>`).join('');
+}
+
+// ─── DEP FLOW ────────────────────────────────────────────────
+function renderDepFlow(){
+  const chains=[
+    {lbl:'주 흐름',nodes:['Swing Points','Liquidity','BSL/SSL','Liquidity Sweep','Displacement','MSS','FVG','OB'],ids:['swing_points','liquidity','bsl_ssl','liquidity_sweep','displacement','mss','fvg','order_block']},
+    {lbl:'Breaker',nodes:['BSL/SSL taken','Breaker Block'],ids:['bsl_ssl','breaker_block'],note:'OB overrun = optional provenance'},
+    {lbl:'OTE',nodes:['Dealing Range*','Premium/Disc.*','OTE'],ids:[null,null,'ote'],note:'* = 우선순위 11+ 개념'},
+  ];
+  document.getElementById('flowChain').innerHTML=chains.map(ch=>`
+    <div>
+      <div class="flow-lbl">${ch.lbl}</div>
+      <div class="flow-row">
+        ${ch.nodes.map((n,i)=>`
+          <div class="fnode${ch.ids[i]?'':' dim'}" ${ch.ids[i]?`onclick="openModal('${ch.ids[i]}')"`:''} >${n}</div>
+          ${i<ch.nodes.length-1?'<span class="farr">→</span>':''}
+        `).join('')}
+        ${ch.note?`<span class="fnote">${ch.note}</span>`:''}
+      </div>
+    </div>`).join('');
+}
+
+// ─── CARDS ───────────────────────────────────────────────────
+function renderCards(){
+  document.getElementById('cgrid').innerHTML=CONCEPTS.map(c=>`
+    <div class="ccard" data-id="${c.id}" data-grp="${c.grp}" data-nm="${c.name.toLowerCase()}" onclick="openModal('${c.id}')">
+      <div class="ch"><div class="ctitle">${c.name}</div><div class="cnum">${String(c.num).padStart(2,'0')} / 10</div></div>
+      <div class="cgrp">${c.grpL}</div>
+      <div class="cdef">${c.def}</div>
+      <div class="cbr">${c.badges.map(badge).join('')}</div>
+      <div class="cdeps"><h5>Hard Dependencies</h5>${c.deps.map(d=>`<span class="dtag">${d}</span>`).join('')}</div>
+      <div class="cftr">
+        <div class="cep">${c.eps.slice(0,2).join(' · ')}</div>
+        <div class="cdbtn">상세 보기 →</div>
+      </div>
+    </div>`).join('');
+  applyFilters();
+}
+
+// ─── FILTER ──────────────────────────────────────────────────
+let curF='all',curS='';
+function applyFilters(){
+  const cards=document.querySelectorAll('.ccard');
+  let vis=0;
+  cards.forEach(c=>{
+    const gm=curF==='all'||c.dataset.grp===curF;
+    const sm=!curS||c.textContent.toLowerCase().includes(curS);
+    c.classList.toggle('hide',!(gm&&sm));
+    if(gm&&sm)vis++;
+  });
+  document.getElementById('fcnt').textContent=`${vis} / ${cards.length}개`;
+  document.getElementById('nores').style.display=vis===0?'block':'none';
+}
+document.querySelectorAll('.fbtn').forEach(b=>b.addEventListener('click',()=>{
+  document.querySelectorAll('.fbtn').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');curF=b.dataset.f;applyFilters();
+}));
+document.getElementById('srchInput').addEventListener('input',e=>{curS=e.target.value.toLowerCase();applyFilters();});
+
+// ─── COMPARISON TABLE ─────────────────────────────────────────
+function renderTable(){
+  const cols=[
+    {k:'name',l:'개념'},{k:'grp',l:'그룹'},{k:'deps',l:'Hard Deps',c:1},
+    {k:'ob',l:'Objective',c:1},{k:'rd',l:'Research Def',c:1},
+    {k:'dm',l:'Derived',c:1},{k:'tc',l:'Conflict',c:1},{k:'mr',l:'Manual Rev',c:1},
+    {k:'st',l:'States',c:1},{k:'sr',l:'Sources',c:1}
+  ];
+  const Y='<span class="cy">✓</span>';
+  const N='<span class="cn">—</span>';
+  const hdr=`<thead><tr>${cols.map(c=>`<th${c.c?' style="text-align:center"':''}>${c.l}</th>`).join('')}</tr></thead>`;
+  const body=CONCEPTS.map(c=>{
+    const cells={
+      name:`<td style="cursor:pointer;color:var(--ah);font-weight:600;white-space:nowrap;" onclick="openModal('${c.id}')">${c.name}</td>`,
+      grp:`<td style="font-size:.78rem;color:var(--tm);">${c.grpL}</td>`,
+      deps:`<td class="tcc">${c.deps.length}</td>`,
+      ob:`<td class="tcc">${c.badges.includes('objective')?Y:N}</td>`,
+      rd:`<td class="tcc">${c.badges.includes('research_default')?Y:N}</td>`,
+      dm:`<td class="tcc">${c.badges.includes('derived_metadata')?Y:N}</td>`,
+      tc:`<td class="tcc">${c.badges.includes('transcript_conflict')?Y:N}</td>`,
+      mr:`<td class="tcc">${c.badges.includes('manual_review')?Y:N}</td>`,
+      st:`<td class="tcc">${c.states.length}</td>`,
+      sr:`<td class="tcc">${c.srcs.length}</td>`
+    };
+    return `<tr>${cols.map(col=>cells[col.k]).join('')}</tr>`;
+  }).join('');
+  document.getElementById('ctbl').innerHTML=hdr+`<tbody>${body}</tbody>`;
+}
+
+// ─── RISK BOARD ──────────────────────────────────────────────
+function renderRisk(){
+  document.getElementById('rbgrid').innerHTML=RISKS.map(cat=>`
+    <div class="rcat">
+      <h4>${cat.title}</h4>
+      ${cat.items.map(i=>`
+        <div class="rent">
+          <span class="rtag ${i.lv}">${i.lv.toUpperCase()}</span>
+          <div class="rdsc"><strong>${i.c}</strong>: ${i.t}</div>
+        </div>`).join('')}
+    </div>`).join('');
+}
+
+// ─── SOURCE TABLE ─────────────────────────────────────────────
+function renderSrc(){
+  document.getElementById('srctbl').innerHTML=`
+    <thead><tr><th>개념</th><th>Episode</th><th>줄 번호</th><th>내용</th></tr></thead>
+    <tbody>${SRCS.map(s=>`
+      <tr>
+        <td style="white-space:nowrap;font-size:.8rem;">${s.c}</td>
+        <td><span class="eptag">${s.ep}</span></td>
+        <td><span class="lntag">${s.ln}</span></td>
+        <td style="font-size:.8rem;">${s.n}</td>
+      </tr>`).join('')}
+    </tbody>`;
+}
+
+// ─── CHECKLIST ───────────────────────────────────────────────
+function renderCL(){
+  const saved=JSON.parse(localStorage.getItem('ict_cl')||'{}');
+  let total=0;
+  document.getElementById('clCont').innerHTML=CL_GROUPS.map((g,gi)=>{
+    const items=g.items.map((item,ii)=>{
+      const key=`${gi}-${ii}`;const ck=saved[key]||false;total++;
+      return `<div class="citem${ck?' ck':''}" onclick="toggleCL(this,'${key}')">
+        <div class="cbox"></div>
+        <div><div class="ctxt">${item}</div><div class="ccon">${g.g}</div></div>
+      </div>`;
+    }).join('');
+    return `<div class="clgrp"><h4>${g.g}</h4>${items}</div>`;
+  }).join('');
+  document.getElementById('ckTotal').textContent=total;
+  updProg();
+}
+function toggleCL(el,key){
+  el.classList.toggle('ck');
+  const saved=JSON.parse(localStorage.getItem('ict_cl')||'{}');
+  saved[key]=el.classList.contains('ck');
+  localStorage.setItem('ict_cl',JSON.stringify(saved));
+  updProg();
+}
+function updProg(){
+  const all=document.querySelectorAll('.citem');
+  const done=document.querySelectorAll('.citem.ck');
+  const pct=all.length?done.length/all.length*100:0;
+  document.getElementById('ckDone').textContent=done.length;
+  document.getElementById('ckTotal').textContent=all.length;
+  document.getElementById('pfill').style.width=pct+'%';
+}
+function clClear(){
+  if(!confirm('체크리스트를 초기화하시겠습니까?'))return;
+  localStorage.removeItem('ict_cl');
+  document.querySelectorAll('.citem').forEach(e=>e.classList.remove('ck'));
+  updProg();
+}
+function clCopy(){
+  const md=CL_GROUPS.map(g=>`## ${g.g}\n${g.items.map(i=>`- [ ] ${i}`).join('\n')}`).join('\n\n');
+  const txt=`# ICT Core 10 — Learning Checklist\n\n${md}`;
+  navigator.clipboard.writeText(txt).then(()=>{
+    const b=document.querySelector('[onclick="clCopy()"]');
+    const o=b.textContent;b.textContent='복사 완료!';
+    setTimeout(()=>{b.textContent=o;},2000);
+  }).catch(()=>alert('클립보드 접근 실패.'));
+}
+
+// ─── MODAL ───────────────────────────────────────────────────
+let curId=null,curTab=0;
+const TABS=['개요','규칙 / 코드','상태 머신','리스크','자막 근거','Confluence'];
+
+const STATE_DESC={
+  candidate:'일부 조건 충족, 확인 조건 미충족',
+  confirmed:'필수 조건 모두 충족',
+  confirmed_sweep:'trigger 돌파 + reclaim close 확인',
+  run_or_breakout_candidate:'trigger 돌파 후 reclaim 없음 (breakout 후보)',
+  invalidated:'필수 또는 유지 조건 위반',
+  expired:'제한 시간/봉 수 내 확인 실패',
+  manual_review:'자동 판정으로 결론 불가',
+  active:'확정 후 미완화 상태',
+  touched:'가격이 zone에 도달',
+  partially_rebalanced:'zone 일부 채워짐',
+  fully_rebalanced:'zone 완전히 채워짐',
+  mitigated:'zone 완화 완료',
+  overrun:'zone 완전 관통',
+  setup_invalidated:'zone 유지, setup 진입 배제',
+  none:'해당 없음',
+  displacement_candidate:'변위 조건 일부 충족',
+  interacted:'zone과 상호작용 발생'
+};
+
+function openModal(id){
+  const c=CONCEPTS.find(x=>x.id===id);if(!c)return;
+  curId=id;curTab=0;
+  document.getElementById('mtitle').textContent=c.name;
+  document.getElementById('mbadges').innerHTML=c.badges.map(badge).join('');
+  document.getElementById('tbar').innerHTML=TABS.map((t,i)=>`<button class="tbtn${i===0?' on':''}" onclick="switchTab(${i})">${t}</button>`).join('');
+  renderTab(c,0);
+  document.getElementById('overlay').classList.add('open');
+}
+
+function renderTab(c,ti){
+  let html='';
+  if(ti===0){
+    html=`
+      <div class="rblk"><h5>개념 정의</h5><p style="font-size:.86rem;">${c.def}</p></div>
+      <div class="rblk"><h5>Hard Dependencies</h5><div class="tags">${c.deps.map(d=>`<span class="tag">${d}</span>`).join('')}</div></div>
+      <div class="igrid" style="margin-top:14px;">
+        <div class="iitem"><h5>그룹</h5><p>${c.grpL}</p></div>
+        <div class="iitem"><h5>우선순위</h5><p>${c.num} / 10</p></div>
+        <div class="iitem"><h5>States</h5><p style="font-size:.78rem;font-family:monospace;">${c.states.join(', ')}</p></div>
+        <div class="iitem"><h5>Episodes</h5><p style="font-size:.78rem;">${c.eps.join(', ')}</p></div>
+      </div>
+      ${c.notes&&c.notes.length?`<div class="rblk" style="margin-top:14px;"><h5>구현 노트</h5><ul style="list-style:disc;padding-left:16px;font-size:.83rem;color:var(--tm);">${c.notes.map(n=>`<li style="margin-bottom:5px;">${n}</li>`).join('')}</ul></div>`:''}`;
+  }else if(ti===1){
+    const defs=Object.entries(c.defn||{}).map(([k,v])=>`<div style="margin-bottom:7px;"><span style="font-size:.72rem;color:var(--tm);font-family:monospace;">${k}:</span><div style="font-size:.83rem;margin-top:2px;">${v}</div></div>`).join('');
+    html=`
+      <div class="rblk"><h5>정의</h5>${defs}</div>
+      <div class="rblk"><h5>의사 코드</h5><pre>${c.pseudo||'—'}</pre></div>
+      ${c.inv&&c.inv.length?`<div class="rblk"><h5>무효 조건</h5><ul style="list-style:disc;padding-left:16px;font-size:.83rem;color:var(--tm);">${c.inv.map(i=>`<li style="margin-bottom:4px;">${i}</li>`).join('')}</ul></div>`:''}`;
+  }else if(ti===2){
+    html=`<ul class="slist">${c.states.map(s=>`<li class="sitem"><div class="sname">${s}</div><div class="sdesc">${STATE_DESC[s]||s}</div></li>`).join('')}</ul>`;
+  }else if(ti===3){
+    html=c.risks&&c.risks.length?c.risks.map(r=>`<div class="rrw"><span class="rtag ${r.lv}">${r.lv.toUpperCase()}</span><div style="font-size:.82rem;">${r.t}</div></div>`).join(''):'<p style="color:var(--tm);font-size:.83rem;">등록된 리스크 없음</p>';
+  }else if(ti===4){
+    html=c.srcs&&c.srcs.length?c.srcs.map(s=>`<div class="srw"><div><div class="sep">${s.ep}</div><div class="sln">L${s.ln}</div></div><div class="snote">${s.n}</div></div>`).join(''):'<p style="color:var(--tm);font-size:.83rem;">자막 근거 없음</p>';
+  }else if(ti===5){
+    const br=[];
+    if(c.badges.includes('objective'))br.push('<li>OHLC 데이터만으로 판별 가능한 규칙 포함</li>');
+    if(c.badges.includes('research_default'))br.push('<li>자막에 고정 수치 없어 research default 임계값 사용</li>');
+    if(c.badges.includes('manual_review'))br.push('<li>chart context 사람 검토 필요한 판단 포함</li>');
+    if(c.badges.includes('derived_metadata'))br.push('<li>0.705 = (0.62+0.79)/2 파생값. 자막 직접 threshold 아님</li>');
+    if(c.badges.includes('transcript_conflict'))br.push('<li>Ep41 "62 to 70" 전사 충돌. 영상 수동 확인 필요</li>');
+    html=`
+      <div class="rblk"><h5>Optional Confluence / Setup Filter</h5>
+        ${c.conf&&c.conf.length?`<div class="tags">${c.conf.map(x=>`<span class="tag">${x}</span>`).join('')}</div>`:'<p style="font-size:.83rem;color:var(--tm);">없음</p>'}
+      </div>
+      <div class="rblk" style="margin-top:14px;"><h5>Badge 분류 이유</h5>
+        <ul style="list-style:disc;padding-left:16px;font-size:.83rem;color:var(--tm);">${br.join('')||'<li>기본 분류</li>'}</ul>
+      </div>`;
+  }
+  document.getElementById('tcnt').innerHTML=`<div class="tpane on">${html}</div>`;
+}
+
+function switchTab(i){
+  curTab=i;
+  document.querySelectorAll('.tbtn').forEach((b,j)=>b.classList.toggle('on',i===j));
+  const c=CONCEPTS.find(x=>x.id===curId);
+  if(c)renderTab(c,i);
+}
+function overlayClick(e){if(e.target===document.getElementById('overlay'))closeModal();}
+function closeModal(){document.getElementById('overlay').classList.remove('open');}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
+
+// ─── INIT ────────────────────────────────────────────────────
+renderSummary();
+renderDepFlow();
+renderCards();
+renderTable();
+renderRisk();
+renderSrc();
+renderCL();
+</script>
+</body>
+</html>

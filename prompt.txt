@@ -1,0 +1,258 @@
+현재 저장소는 ICT(The Inner Circle Trader) 2022 Mentorship 연구 저장소이다.
+
+transcripts 폴더에는 ICT 멘토링 원본 자막이 저장되어 있다.
+
+ICT_LEARNING_MAP.md 에는 학습 순서와 개념 의존성이 정리되어 있다.
+
+────────────────────
+
+목표
+
+이 프로젝트의 목표는
+
+유튜브 자막 요약이 아니다.
+
+최종적으로
+
+transcripts
+→ concepts
+→ rulebook
+→ pine
+→ scanner
+
+구조를 구축하는 것이다.
+
+────────────────────
+
+작업
+
+ICT_LEARNING_MAP.md 를 기준으로
+
+모든 개념 문서를 생성하라.
+
+생성 대상
+
+concepts/
+
+* swing_points.md
+* liquidity.md
+* bsl_ssl.md
+* liquidity_sweep.md
+* dealing_range.md
+* premium_discount_equilibrium.md
+* displacement.md
+* fair_value_gap.md
+* market_structure_shift.md
+* order_block.md
+* breaker_block.md
+* ote.md
+* opening_price.md
+* killzone.md
+* daily_bias.md
+* judas_swing.md
+* power_of_three.md
+* institutional_order_flow.md
+* smt_divergence.md
+* economic_calendar_filter.md
+
+────────────────────
+
+각 문서는 반드시
+
+관련 transcript 전체를 검색하여
+
+에피소드 전반에 걸쳐 반복적으로 등장하는 내용만 추출한다.
+
+특정 에피소드 하나에만 등장하는 설명은
+
+보조 설명으로 분리한다.
+
+────────────────────
+
+각 concepts 문서 형식
+
+# 개념 정의
+
+* 일반적인 정의
+* ICT 정의
+* 차트에서 의미
+* 시장 심리
+
+# ICT 전체 체계에서의 위치
+
+* 선행 개념
+* 후행 개념
+* 왜 중요한가
+
+# 실제 차트에서 발견하는 방법
+
+* 찾는 순서
+* 유효 조건
+* 무효 조건
+* 대표 예시
+
+# 실전 활용
+
+* 진입
+* 손절
+* 목표
+* 시간대
+
+# 흔한 오해
+
+* 초보자가 잘못 해석하는 부분
+* ICT가 실제로 의미하는 것
+
+# 다른 개념과의 연결
+
+* 관련 개념
+* 의존 관계
+
+# 코드 구현 시 문제점
+
+* 사람이 보는 기준
+* 코드로 구현 가능한 부분
+* 코드로 구현 어려운 부분
+
+# 핵심 문장
+
+* 반드시 기억해야 하는 문장 10개
+
+# 이 개념의 본질
+
+한 문장 요약
+
+────────────────────
+
+그 다음
+
+rulebook 폴더 생성
+
+────────────────────
+
+각 개념별로
+
+rulebook/[개념명]_rulebook.md
+
+생성
+
+────────────────────
+
+rulebook 형식
+
+# 목적
+
+# 객관적 정의
+
+# 필수 조건
+
+# 무효 조건
+
+# 예외 조건
+
+# 상태 변화(State Machine)
+
+candidate
+
+confirmed
+
+invalidated
+
+expired
+
+manual_review
+
+각 상태의 진입 조건 정의
+
+# 코드 구현 규칙
+
+입력 데이터
+
+필요 변수
+
+조건식
+
+의사코드
+
+# 최소 구현 버전
+
+OHLC 데이터만 사용
+
+# 고급 구현 버전
+
+HTF
+
+세션
+
+유동성
+
+SMT
+
+경제지표
+
+필터 포함
+
+# False Signal 제거 방법
+
+# Pine Script 구현 가이드
+
+# Python Scanner 구현 가이드
+
+# 백테스트 시 주의사항
+
+# 최종 Rulebook 정의
+
+────────────────────
+
+중요
+
+설명보다 규칙을 우선한다.
+
+규칙보다 코드화를 우선한다.
+
+모호한 표현 사용 금지.
+
+예:
+
+강한 캔들
+좋은 OB
+의미 있는 유동성
+
+사용 금지.
+
+반드시 수치화 또는 객관화 가능한 표현으로 변환한다.
+
+────────────────────
+
+문서를 한 번에 모두 생성하지 말고
+
+개념 중요도 순서대로 진행한다.
+
+우선순위
+
+1. swing_points
+2. liquidity
+3. bsl_ssl
+4. liquidity_sweep
+5. displacement
+6. market_structure_shift
+7. fair_value_gap
+8. order_block
+9. breaker_block
+10. ote
+
+나머지는 이후 생성.
+
+각 문서 생성 후
+
+ICT_LEARNING_MAP.md 와 충돌하는 내용이 있는지 검증한다.
+
+목표는
+
+"읽기 좋은 요약"
+
+이 아니라
+
+"코드로 구현 가능한 ICT 운영체제"
+
+를 구축하는 것이다.

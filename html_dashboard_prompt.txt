@@ -1,0 +1,413 @@
+현재 저장소는 ICT(The Inner Circle Trader) 2022 Mentorship 자막을 기반으로
+개념과 Rulebook을 코드 구현 가능한 형태로 정리하는 연구 저장소이다.
+
+이 작업의 목적은 새 규칙을 발명하거나 문서를 다시 요약하는 것이 아니다.
+
+이미 심층 검증이 완료된 핵심 10개 항목을
+브라우저에서 직관적으로 검토할 수 있는
+단일 HTML 대시보드로 변환하라.
+
+────────────────────
+
+## 1. 작업 범위
+
+아래 10개 항목만 정식 검토 대상으로 포함한다.
+
+1. Swing Points
+2. Liquidity
+3. BSL / SSL
+4. Liquidity Sweep
+5. Displacement
+6. Market Structure Shift
+7. Fair Value Gap
+8. Order Block
+9. Breaker Block
+10. OTE
+
+대상 파일:
+
+```text
+concepts/swing_points.md
+concepts/liquidity.md
+concepts/bsl_ssl.md
+concepts/liquidity_sweep.md
+concepts/displacement.md
+concepts/market_structure_shift.md
+concepts/fair_value_gap.md
+concepts/order_block.md
+concepts/breaker_block.md
+concepts/ote.md
+
+rulebook/swing_points_rulebook.md
+rulebook/liquidity_rulebook.md
+rulebook/bsl_ssl_rulebook.md
+rulebook/liquidity_sweep_rulebook.md
+rulebook/displacement_rulebook.md
+rulebook/market_structure_shift_rulebook.md
+rulebook/fair_value_gap_rulebook.md
+rulebook/order_block_rulebook.md
+rulebook/breaker_block_rulebook.md
+rulebook/ote_rulebook.md
+```
+
+OTE 이해에 필요한 다음 파일은 지원 문맥으로만 읽을 수 있다.
+
+```text
+concepts/dealing_range.md
+concepts/premium_discount_equilibrium.md
+rulebook/dealing_range_rulebook.md
+rulebook/premium_discount_equilibrium_rulebook.md
+```
+
+지원 문맥은 완료된 10개 항목과 같은 상태로 표시하지 않는다.
+
+────────────────────
+
+## 2. 반드시 먼저 읽을 파일
+
+HTML을 만들기 전에 아래 파일을 읽고 내용 충돌 여부를 확인한다.
+
+```text
+README.md
+ICT_LEARNING_MAP.md
+TRANSCRIPT_SOURCE_INDEX.md
+```
+
+우선순위, 의존 관계, 대표 transcript 근거, 현재 완료 상태는
+위 파일을 기준으로 유지한다.
+
+transcripts 전체를 다시 분석하는 작업은 이번 범위가 아니다.
+단, 문서 간 표현이 충돌하거나 근거 위치를 확인해야 할 때만
+`TRANSCRIPT_SOURCE_INDEX.md`에 기록된 transcript 구간을 대조한다.
+
+────────────────────
+
+## 3. 결과물
+
+저장소 루트에 다음 파일 하나를 생성한다.
+
+```text
+ICT_CORE_10_REVIEW.html
+```
+
+외부 CSS 파일, 외부 JavaScript 파일, npm package, CDN, Tailwind CDN,
+Google Fonts, 외부 이미지, 외부 API를 사용하지 않는다.
+
+CSS와 JavaScript는 HTML 파일 내부에 포함한다.
+인터넷 연결 없이 로컬 브라우저에서 완전히 동작해야 한다.
+
+Markdown 원본 파일은 수정하지 않는다.
+
+────────────────────
+
+## 4. 사실 보존 규칙
+
+HTML은 기존 문서의 검토 화면이다.
+문서에 없는 사실, 수치, threshold, 의존 관계를 추가하지 않는다.
+
+반드시 다음 구분을 시각적으로 유지한다.
+
+| 분류 | 의미 |
+| --- | --- |
+| `objective` | OHLC 또는 구조화 데이터로 계산 가능한 규칙 |
+| `research default` | transcript에 고정 수치가 없어 실험 초기값으로 둔 규칙 |
+| `manual_review` | 사람이 chart context를 검토해야 하는 판단 |
+| `derived metadata` | 원문 직접 threshold가 아니라 계산으로 파생된 값 |
+| `transcript_conflict` | transcript 대조 후에도 수동 확인이 필요한 충돌 |
+| `hard dependency` | raw event 또는 raw zone 생성에 반드시 필요한 선행 조건 |
+| `optional confluence` | setup eligibility 또는 ranking을 강화하는 보조 조건 |
+
+다음 항목은 특히 혼동하지 않는다.
+
+- raw event 또는 raw zone 생성 조건
+- setup eligibility 조건
+- ranking metadata
+- interaction 상태
+- provenance link
+
+예:
+
+- FVG raw zone의 hard dependency는 같은 symbol과 timeframe의 닫힌 OHLC 3개다.
+- displacement, MSS, liquidity event는 FVG raw zone 생성 조건이 아니라 confluence metadata다.
+- OB raw event는 directional close series와 delivery open 반대 방향 strict traversal을 사용한다.
+- Breaker Block의 OB overrun 이력은 nullable provenance link이며 hard dependency가 아니다.
+- OTE 기본 retracement 구간은 반복 transcript 근거가 있는 `0.62~0.79`다.
+- OTE의 `0.705`는 직접 인용 threshold가 아니라 derived midpoint다.
+- OTE Episode 41의 `62 to 70` 전사는 `transcript_conflict`로 표시한다.
+
+────────────────────
+
+## 5. 화면 구성
+
+### 5.1 상단 헤더
+
+다음을 표시한다.
+
+- 제목: `ICT Core 10 Review Dashboard`
+- 부제: `transcripts -> concepts -> rulebook -> pine -> scanner`
+- 완료 상태: `핵심 10개 concepts + rulebook 심층 검증 완료`
+- 생성 기준 파일: `README.md`, `ICT_LEARNING_MAP.md`, `TRANSCRIPT_SOURCE_INDEX.md`
+- 브라우저 로컬 저장 상태 안내
+
+### 5.2 요약 카드
+
+다음을 카드 형태로 표시한다.
+
+- 정식 검토 개념 수: `10`
+- concept 문서 수: `10`
+- rulebook 문서 수: `10`
+- transcript 정리본 수: `40`
+- 누락 Episode: `28`
+- 현재 단계: `transcripts -> concepts -> rulebook`
+
+### 5.3 의존 관계 흐름
+
+`ICT_LEARNING_MAP.md`를 기준으로 핵심 흐름을 시각화한다.
+
+최소한 다음 흐름을 보여 준다.
+
+```text
+Swing Points
+-> Liquidity
+-> BSL / SSL
+-> Liquidity Sweep
+-> Displacement
+-> MSS confluence metadata
+-> FVG
+-> OB confluence metadata
+
+BSL / SSL taken
+-> Breaker Block
+
+Order Block overrun history
+-> Breaker Block optional provenance link
+
+Dealing Range support context
+-> Premium / Discount / Equilibrium support context
+-> OTE
+```
+
+화살표가 항상 발생을 의미하지 않고
+후행 조건 평가에 필요한 데이터 흐름이라는 점을 화면에 명시한다.
+
+### 5.4 핵심 10개 항목 카드
+
+각 항목을 우선순위 순서로 카드 형태로 표시한다.
+
+각 카드에 다음 정보를 넣는다.
+
+- 우선순위 번호
+- 개념명
+- 한 문장 본질
+- 핵심 역할
+- hard dependency
+- optional confluence
+- raw 출력 또는 핵심 객체
+- 주요 상태
+- 구현 난이도 또는 주의점
+- 대표 transcript 근거
+- 대응 concept 파일 경로
+- 대응 rulebook 파일 경로
+
+카드를 클릭하면 상세 패널이 열리게 한다.
+
+### 5.5 상세 검토 패널
+
+각 항목의 상세 패널에 다음 탭 또는 accordion을 제공한다.
+
+1. `개념`
+2. `객관적 규칙`
+3. `상태 머신`
+4. `코드 구현`
+5. `리스크 / 수동 검토`
+6. `Transcript 근거`
+
+상세 패널에는 기존 concept와 rulebook의 핵심 내용을 구조화하여 넣는다.
+긴 문서를 그대로 복사하지 말고 검토 가능한 단위로 재구성한다.
+
+각 규칙 블록 하단에는 `Markdown으로 복사` 버튼을 제공한다.
+
+### 5.6 비교표
+
+10개 항목을 나란히 비교할 수 있는 표를 만든다.
+
+필수 열:
+
+| 열 | 내용 |
+| --- | --- |
+| Priority | 우선순위 |
+| Concept | 개념명 |
+| Type | event, zone, registry, metadata 등 |
+| Hard Dependency | raw 생성 필수 조건 |
+| Optional Confluence | setup 강화 조건 |
+| Objective Output | 코드 출력 객체 |
+| Main States | 주요 상태 |
+| Look-Ahead Risk | 확인 시각 주의점 |
+| Manual Review | 자동화하기 어려운 부분 |
+| Source | 대표 transcript 근거 |
+
+좁은 화면에서도 읽을 수 있도록 가로 스크롤을 허용한다.
+행 hover effect를 제공한다.
+
+### 5.7 리스크 및 충돌 보드
+
+별도 섹션에서 다음을 구분해 표시한다.
+
+- `Look-Ahead Bias`
+- `research default`
+- `manual_review`
+- `derived metadata`
+- `transcript_conflict`
+- `지원 문맥이지만 아직 심층 검증 완료 대상이 아닌 항목`
+
+OTE의 `0.705`, Episode 41 `62 to 70` 충돌,
+Breaker Block bullish symmetry inference를 반드시 포함한다.
+
+### 5.8 출처 추적 표
+
+`TRANSCRIPT_SOURCE_INDEX.md`에서 핵심 10개 항목과 관련된 대표 근거를 추출한다.
+
+필수 열:
+
+- Concept
+- Episode
+- Lines
+- 확인할 내용
+- 근거 유형: core, refinement, misunderstanding, conflict
+
+각 row에는 복사 버튼을 제공한다.
+
+### 5.9 검토 체크리스트
+
+체크박스로 관리 가능한 검토 체크리스트를 제공한다.
+
+최소 항목:
+
+- hard dependency와 optional confluence가 분리되어 있는가?
+- raw event 또는 raw zone과 setup eligibility가 분리되어 있는가?
+- look-ahead bias 방지 시점이 표시되어 있는가?
+- research default가 원문 고정값처럼 표현되지 않았는가?
+- manual_review 항목이 누락되지 않았는가?
+- transcript_conflict가 숨겨지지 않았는가?
+- concept와 rulebook 파일 경로가 연결되어 있는가?
+- 대표 transcript 근거가 표시되어 있는가?
+
+체크 상태는 `localStorage`에 저장한다.
+
+────────────────────
+
+## 6. 인터랙티브 기능
+
+순수 JavaScript만 사용하여 다음 기능을 구현한다.
+
+- 개념명과 키워드 검색
+- 분류 필터:
+  - 전체
+  - objective
+  - research default
+  - manual_review
+  - derived metadata
+  - transcript_conflict
+- 카드 클릭 시 상세 패널 열기
+- accordion 또는 tab 전환
+- 비교표 열기 / 닫기
+- 각 데이터 블록 `Markdown으로 복사`
+- 체크리스트 상태 `localStorage` 저장
+- 체크리스트 초기화 버튼
+- 전체 대시보드 인쇄 버튼
+- 위험 항목만 보기 토글
+
+드래그 앤 드롭 칸반 보드는 이번 범위에 넣지 않는다.
+현재 목적은 작업 상태 변경이 아니라 검토와 추적이다.
+
+────────────────────
+
+## 7. 디자인 요구사항
+
+- 외부 dependency 없이 깔끔한 현대적 UI를 구현한다.
+- 데스크톱과 모바일 브라우저 모두 읽을 수 있어야 한다.
+- 색상만으로 상태를 구분하지 말고 badge 텍스트를 함께 표시한다.
+- 긴 code block은 가로 스크롤을 허용한다.
+- 표는 sticky header를 사용한다.
+- 카드, badge, accordion, tab, tooltip, toast를 일관된 스타일로 만든다.
+- 과도한 애니메이션은 사용하지 않는다.
+- `prefers-reduced-motion`을 고려한다.
+- 키보드로 카드, 탭, 버튼을 탐색할 수 있어야 한다.
+- 적절한 `aria-label`, `aria-expanded`, focus style을 제공한다.
+
+────────────────────
+
+## 8. 데이터 작성 규칙
+
+HTML 안의 데이터는 JavaScript 배열 또는 객체로 구조화한다.
+
+예시:
+
+```javascript
+const concepts = [
+  {
+    priority: 1,
+    id: "swing_points",
+    name: "Swing Points",
+    type: "structure event",
+    essence: "...",
+    hardDependencies: ["..."],
+    optionalConfluence: ["..."],
+    states: ["candidate", "confirmed", "invalidated", "expired", "manual_review"],
+    objectiveRules: ["..."],
+    manualReview: ["..."],
+    risks: ["..."],
+    transcriptSources: ["..."],
+    conceptPath: "concepts/swing_points.md",
+    rulebookPath: "rulebook/swing_points_rulebook.md"
+  }
+];
+```
+
+HTML 문자열을 조립할 때 사용자 입력을 `innerHTML`에 직접 삽입하지 않는다.
+고정 데이터 렌더링에도 가능한 한 `textContent`, DOM API, escape 함수를 사용한다.
+
+로컬 파일이므로 서버 요청은 하지 않는다.
+
+────────────────────
+
+## 9. 검증
+
+HTML 생성 후 반드시 다음을 검증한다.
+
+1. `ICT_CORE_10_REVIEW.html` 파일 하나만 열어도 동작하는가?
+2. 외부 URL, CDN, 외부 script, 외부 stylesheet 의존성이 없는가?
+3. 정식 검토 대상이 정확히 10개인가?
+4. 10개 항목 모두 concept와 rulebook 경로를 포함하는가?
+5. README의 우선순위와 카드 순서가 일치하는가?
+6. ICT_LEARNING_MAP.md의 hard dependency와 충돌하지 않는가?
+7. Breaker Block의 OB link가 optional provenance로 표시되는가?
+8. OTE `0.705`가 derived metadata로 표시되는가?
+9. OTE Episode 41 `62 to 70`이 transcript conflict로 표시되는가?
+10. 로컬 Markdown 경로 링크가 존재하는 파일을 가리키는가?
+11. 검색, 필터, 상세 패널, 복사 버튼, 체크리스트 저장, 초기화, 인쇄가 동작하는가?
+12. 브라우저 개발자 콘솔에 JavaScript 오류가 없는가?
+
+검증 결과를 작업 완료 응답에 요약한다.
+
+────────────────────
+
+## 10. 완료 조건
+
+다음 조건을 모두 만족해야 완료다.
+
+- `ICT_CORE_10_REVIEW.html` 생성
+- 단일 파일, 오프라인 동작
+- 완료된 핵심 10개 항목만 정식 검토 대상으로 포함
+- concept와 rulebook 내용의 차이를 유지
+- hard dependency, optional confluence, 상태 머신, 구현 리스크를 시각적으로 구분
+- transcript 대표 근거 추적 가능
+- OTE와 Breaker Block의 주의 사항 보존
+- 인터랙티브 검토 기능 정상 동작
+- Markdown 원본 파일 미수정
+
+목표는 화려한 소개 페이지가 아니다.
+
+검토자가 ICT 핵심 10개 규칙의 의미, 의존 관계, 구현 조건,
+리스크, transcript 근거를 한 화면에서 빠르게 검증할 수 있는
+오프라인 리뷰 대시보드를 만드는 것이다.

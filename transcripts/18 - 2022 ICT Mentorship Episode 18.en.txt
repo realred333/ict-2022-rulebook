@@ -1,0 +1,6904 @@
+﻿
+ 
+All right, folks, welcome back. This is
+All right, folks, welcome back. This is
+ 
+All right, folks, welcome back. This is
+episode 18 of the continuing series of
+episode 18 of the continuing series of
+ 
+episode 18 of the continuing series of
+the ICT 2022 YouTube mentorship. All
+the ICT 2022 YouTube mentorship. All
+ 
+the ICT 2022 YouTube mentorship. All
+right, so we are looking at
+right, so we are looking at
+ 
+right, so we are looking at
+the euro dollar.
+the euro dollar.
+ 
+the euro dollar.
+And what you have here is how I have my
+And what you have here is how I have my
+ 
+And what you have here is how I have my
+trade layout. This is what I work with
+trade layout. This is what I work with
+ 
+trade layout. This is what I work with
+while
+while
+ 
+while
+utilizing my charts through TradingView.
+utilizing my charts through TradingView.
+ 
+utilizing my charts through TradingView.
+And don't be intimidated cuz you may not
+And don't be intimidated cuz you may not
+ 
+And don't be intimidated cuz you may not
+be able to do this with your
+be able to do this with your
+ 
+be able to do this with your
+TradingView. Uh there's a
+TradingView. Uh there's a
+ 
+TradingView. Uh there's a
+I think there's a membership level you
+I think there's a membership level you
+ 
+I think there's a membership level you
+have to have. And again, I'm not trying
+have to have. And again, I'm not trying
+ 
+have to have. And again, I'm not trying
+to promote. I don't get anything for you
+to promote. I don't get anything for you
+ 
+to promote. I don't get anything for you
+signing up with TradingView. I don't
+signing up with TradingView. I don't
+ 
+signing up with TradingView. I don't
+have any affiliate programs, nothing
+have any affiliate programs, nothing
+ 
+have any affiliate programs, nothing
+like that.
+like that.
+ 
+like that.
+I don't have any, you know, programs
+I don't have any, you know, programs
+ 
+I don't have any, you know, programs
+that I'm trying to pitch.
+that I'm trying to pitch.
+ 
+that I'm trying to pitch.
+Yeah, I just like the service, okay? I
+Yeah, I just like the service, okay? I
+ 
+Yeah, I just like the service, okay? I
+pay for it out of my pocket. You don't
+pay for it out of my pocket. You don't
+ 
+pay for it out of my pocket. You don't
+have to owe me any favors. So,
+have to owe me any favors. So,
+ 
+have to owe me any favors. So,
+but
+but
+ 
+but
+I have it set up like this when I'm
+I have it set up like this when I'm
+ 
+I have it set up like this when I'm
+looking at the marketplace.
+looking at the marketplace.
+ 
+looking at the marketplace.
+The upper left-hand corner, now you you
+The upper left-hand corner, now you you
+ 
+The upper left-hand corner, now you you
+can do this with individual charts and
+can do this with individual charts and
+ 
+can do this with individual charts and
+you'll see what I mean by having one
+you'll see what I mean by having one
+ 
+you'll see what I mean by having one
+laptop, one screen.
+laptop, one screen.
+ 
+laptop, one screen.
+If you do what I'm going to show you
+If you do what I'm going to show you
+ 
+If you do what I'm going to show you
+here today, you don't need all these
+here today, you don't need all these
+ 
+here today, you don't need all these
+screens. But,
+screens. But,
+ 
+screens. But,
+I've been asked to show this both in my
+I've been asked to show this both in my
+ 
+I've been asked to show this both in my
+private group and in the YouTube
+private group and in the YouTube
+ 
+private group and in the YouTube
+community,
+community,
+ 
+community,
+what do my charts look like when I'm
+what do my charts look like when I'm
+ 
+what do my charts look like when I'm
+going through the motions of
+going through the motions of
+ 
+going through the motions of
+looking for trade setups and how do I
+looking for trade setups and how do I
+ 
+looking for trade setups and how do I
+navigate from higher time frame down to
+navigate from higher time frame down to
+ 
+navigate from higher time frame down to
+the lower time frame and how do I work
+the lower time frame and how do I work
+ 
+the lower time frame and how do I work
+with daily bias and what do I do with my
+with daily bias and what do I do with my
+ 
+with daily bias and what do I do with my
+charts to streamline the analysis from
+charts to streamline the analysis from
+ 
+charts to streamline the analysis from
+high time frame to low time frame.
+high time frame to low time frame.
+ 
+high time frame to low time frame.
+I'm going to show you that in this
+I'm going to show you that in this
+ 
+I'm going to show you that in this
+lesson here.
+lesson here.
+ 
+lesson here.
+All right, so upper left-hand corner is
+All right, so upper left-hand corner is
+ 
+All right, so upper left-hand corner is
+always going to be the daily chart. As
+always going to be the daily chart. As
+ 
+always going to be the daily chart. As
+you can see here, daily. Now,
+you can see here, daily. Now,
+ 
+you can see here, daily. Now,
+if
+if
+ 
+if
+you're looking for bias,
+you're looking for bias,
+ 
+you're looking for bias,
+you're going to start your analysis
+you're going to start your analysis
+ 
+you're going to start your analysis
+here.
+here.
+ 
+here.
+Now, you can do it with the chart
+Now, you can do it with the chart
+ 
+Now, you can do it with the chart
+maximized like this, start working with
+maximized like this, start working with
+ 
+maximized like this, start working with
+it, doing all of the business that you
+it, doing all of the business that you
+ 
+it, doing all of the business that you
+would expect to have on your chart. And
+would expect to have on your chart. And
+ 
+would expect to have on your chart. And
+we'll do this here.
+ 
+ 
+ 
+Shout out to my mentorship group,
+Shout out to my mentorship group,
+ 
+Shout out to my mentorship group,
+private group. I mentioned this
+private group. I mentioned this
+ 
+private group. I mentioned this
+on Wednesday's midweek commentary.
+on Wednesday's midweek commentary.
+ 
+on Wednesday's midweek commentary.
+A little bit of hindsight.
+A little bit of hindsight.
+ 
+A little bit of hindsight.
+Done right. So, we have
+Done right. So, we have
+ 
+Done right. So, we have
+fair value gap there.
+fair value gap there.
+ 
+fair value gap there.
+And notice that it has this high,
+And notice that it has this high,
+ 
+And notice that it has this high,
+that low, and then higher high. Many of
+that low, and then higher high. Many of
+ 
+that low, and then higher high. Many of
+you would see that
+you would see that
+ 
+you would see that
+as my bearish breaker.
+as my bearish breaker.
+ 
+as my bearish breaker.
+Mhm, it's not, okay? So,
+Mhm, it's not, okay? So,
+ 
+Mhm, it's not, okay? So,
+look at this here.
+look at this here.
+ 
+look at this here.
+Which is lower?
+Which is lower?
+ 
+Which is lower?
+Is it
+Is it
+ 
+Is it
+this low here
+this low here
+ 
+this low here
+or the discount low of the fair value
+or the discount low of the fair value
+ 
+or the discount low of the fair value
+gap? In other words, this candle's high.
+gap? In other words, this candle's high.
+ 
+gap? In other words, this candle's high.
+Clearly, it's this candle's high.
+Clearly, it's this candle's high.
+ 
+Clearly, it's this candle's high.
+So, I'm going to tell you something I
+So, I'm going to tell you something I
+ 
+So, I'm going to tell you something I
+told my private group last night cuz I
+told my private group last night cuz I
+ 
+told my private group last night cuz I
+can tell it to you now. It's not
+can tell it to you now. It's not
+ 
+can tell it to you now. It's not
+advantageous to you.
+advantageous to you.
+ 
+advantageous to you.
+It was advantageous for them because
+It was advantageous for them because
+ 
+It was advantageous for them because
+they know about it yesterday. But, I'm
+they know about it yesterday. But, I'm
+ 
+they know about it yesterday. But, I'm
+showing you this because I have a lot of
+showing you this because I have a lot of
+ 
+showing you this because I have a lot of
+witnesses that I said this before it
+witnesses that I said this before it
+ 
+witnesses that I said this before it
+happened cuz I know some of you out
+happened cuz I know some of you out
+ 
+happened cuz I know some of you out
+here,
+here,
+ 
+here,
+unless you were there watching it, okay?
+unless you were there watching it, okay?
+ 
+unless you were there watching it, okay?
+You just simply won't believe it. And
+You just simply won't believe it. And
+ 
+You just simply won't believe it. And
+that's fine. I'm not here to convince
+that's fine. I'm not here to convince
+ 
+that's fine. I'm not here to convince
+every single one of you. You're either
+every single one of you. You're either
+ 
+every single one of you. You're either
+going to believe it or you're going to
+going to believe it or you're going to
+ 
+going to believe it or you're going to
+watch somebody else's channel. Simple as
+watch somebody else's channel. Simple as
+ 
+watch somebody else's channel. Simple as
+that. But,
+that. But,
+ 
+that. But,
+the fair value gap in here,
+the fair value gap in here,
+ 
+the fair value gap in here,
+I mentioned that we would likely draw up
+I mentioned that we would likely draw up
+ 
+I mentioned that we would likely draw up
+into that
+into that
+ 
+into that
+and then it looked for lower prices.
+and then it looked for lower prices.
+ 
+and then it looked for lower prices.
+Now,
+Now,
+ 
+Now,
+let's step by step walk through a
+let's step by step walk through a
+ 
+let's step by step walk through a
+scenario using what I'm teaching you in
+scenario using what I'm teaching you in
+ 
+scenario using what I'm teaching you in
+this mentorship on the YouTube channel,
+this mentorship on the YouTube channel,
+ 
+this mentorship on the YouTube channel,
+okay? I responded to a
+okay? I responded to a
+ 
+okay? I responded to a
+lady on the comment section of I think
+lady on the comment section of I think
+ 
+lady on the comment section of I think
+it was the most recent video, so forgive
+it was the most recent video, so forgive
+ 
+it was the most recent video, so forgive
+me if it isn't that video, but I know I
+me if it isn't that video, but I know I
+ 
+me if it isn't that video, but I know I
+mentioned
+mentioned
+ 
+mentioned
+um
+um
+ 
+um
+a response to her question was more or
+a response to her question was more or
+ 
+a response to her question was more or
+less, I'm going to paraphrase it.
+less, I'm going to paraphrase it.
+ 
+less, I'm going to paraphrase it.
+Can I touch on or teach
+Can I touch on or teach
+ 
+Can I touch on or teach
+a specific approach to trading
+a specific approach to trading
+ 
+a specific approach to trading
+or can I mention, rather, a specific
+or can I mention, rather, a specific
+ 
+or can I mention, rather, a specific
+style of trading that if I only had to
+style of trading that if I only had to
+ 
+style of trading that if I only had to
+pick one way of doing it, one style of
+pick one way of doing it, one style of
+ 
+pick one way of doing it, one style of
+trading
+trading
+ 
+trading
+that
+that
+ 
+that
+obviously hits all the time.
+obviously hits all the time.
+ 
+obviously hits all the time.
+Well, there is no method that hits every
+Well, there is no method that hits every
+ 
+Well, there is no method that hits every
+single time. Okay? Everything that I
+single time. Okay? Everything that I
+ 
+single time. Okay? Everything that I
+trade with and teach
+trade with and teach
+ 
+trade with and teach
+is like everything else, it's imperfect.
+is like everything else, it's imperfect.
+ 
+is like everything else, it's imperfect.
+That means there's going to be losing
+That means there's going to be losing
+ 
+That means there's going to be losing
+transactions, largely because of the
+transactions, largely because of the
+ 
+transactions, largely because of the
+operator, me or whoever else is using
+operator, me or whoever else is using
+ 
+operator, me or whoever else is using
+it. And it you have to take ownership of
+it. And it you have to take ownership of
+ 
+it. And it you have to take ownership of
+that. It takes a great deal of
+that. It takes a great deal of
+ 
+that. It takes a great deal of
+responsibility and
+responsibility and
+ 
+responsibility and
+I kind of lectured on that in my private
+I kind of lectured on that in my private
+ 
+I kind of lectured on that in my private
+group on Wednesday.
+group on Wednesday.
+ 
+group on Wednesday.
+It doesn't feel good to hear those types
+It doesn't feel good to hear those types
+ 
+It doesn't feel good to hear those types
+of woodshed lectures, but it's something
+of woodshed lectures, but it's something
+ 
+of woodshed lectures, but it's something
+I needed when I was younger.
+I needed when I was younger.
+ 
+I needed when I was younger.
+But, if I was going to use one
+But, if I was going to use one
+ 
+But, if I was going to use one
+particular approach to trading, like say
+particular approach to trading, like say
+ 
+particular approach to trading, like say
+I was starting completely over, didn't
+I was starting completely over, didn't
+ 
+I was starting completely over, didn't
+know anything, but I discovered, like
+know anything, but I discovered, like
+ 
+know anything, but I discovered, like
+say this YouTube channel.
+say this YouTube channel.
+ 
+say this YouTube channel.
+Knowing what I know
+Knowing what I know
+ 
+Knowing what I know
+about all the things that I can utilize
+about all the things that I can utilize
+ 
+about all the things that I can utilize
+in trading,
+in trading,
+ 
+in trading,
+the reason why I stripped it all down
+the reason why I stripped it all down
+ 
+the reason why I stripped it all down
+and created the model
+and created the model
+ 
+and created the model
+like it is,
+like it is,
+ 
+like it is,
+and you're going to see more of it being
+and you're going to see more of it being
+ 
+and you're going to see more of it being
+applied here today. So, it gives you
+applied here today. So, it gives you
+ 
+applied here today. So, it gives you
+like a a step-by-step approach. I know
+like a a step-by-step approach. I know
+ 
+like a a step-by-step approach. I know
+some of you were asking, "Can you just
+some of you were asking, "Can you just
+ 
+some of you were asking, "Can you just
+kind of like show me what it is I'm
+kind of like show me what it is I'm
+ 
+kind of like show me what it is I'm
+trying to do in the charts? Like what am
+trying to do in the charts? Like what am
+ 
+trying to do in the charts? Like what am
+I looking for? What's What's a way of
+I looking for? What's What's a way of
+ 
+I looking for? What's What's a way of
+backtesting? You know, how can I go
+backtesting? You know, how can I go
+ 
+backtesting? You know, how can I go
+through and look at old data?" I'm going
+through and look at old data?" I'm going
+ 
+through and look at old data?" I'm going
+to show you something here, but it was
+to show you something here, but it was
+ 
+to show you something here, but it was
+also given to my community
+also given to my community
+ 
+also given to my community
+yesterday, okay? And if I see a bunch of
+yesterday, okay? And if I see a bunch of
+ 
+yesterday, okay? And if I see a bunch of
+comments in the
+comments in the
+ 
+comments in the
+comment section saying that it wasn't
+comment section saying that it wasn't
+ 
+comment section saying that it wasn't
+really done, I'll just simply upload the
+really done, I'll just simply upload the
+ 
+really done, I'll just simply upload the
+video
+video
+ 
+video
+and prove everybody that says that
+and prove everybody that says that
+ 
+and prove everybody that says that
+wrong. So, I'm ready. Yeah, I'm ready
+wrong. So, I'm ready. Yeah, I'm ready
+ 
+wrong. So, I'm ready. Yeah, I'm ready
+for it. So,
+for it. So,
+ 
+for it. So,
+the long and short is, it's not a big
+the long and short is, it's not a big
+ 
+the long and short is, it's not a big
+deal. It's not a huge trade, but it's
+deal. It's not a huge trade, but it's
+ 
+deal. It's not a huge trade, but it's
+proving prognostication. It's proving
+proving prognostication. It's proving
+ 
+proving prognostication. It's proving
+that number one, I've already hinted
+that number one, I've already hinted
+ 
+that number one, I've already hinted
+that this thing was likely to go lower
+that this thing was likely to go lower
+ 
+that this thing was likely to go lower
+anyway, and we've seen it go lower.
+anyway, and we've seen it go lower.
+ 
+anyway, and we've seen it go lower.
+But, utilizing the model,
+But, utilizing the model,
+ 
+But, utilizing the model,
+this model here in the YouTube 2022
+this model here in the YouTube 2022
+ 
+this model here in the YouTube 2022
+mentorship,
+mentorship,
+ 
+mentorship,
+that to me is the easiest and I would
+that to me is the easiest and I would
+ 
+that to me is the easiest and I would
+just do this. I wouldn't worry about
+just do this. I wouldn't worry about
+ 
+just do this. I wouldn't worry about
+doing anything with like
+doing anything with like
+ 
+doing anything with like
+uh central bank dealer's range, okay? I
+uh central bank dealer's range, okay? I
+ 
+uh central bank dealer's range, okay? I
+wouldn't worry about doing anything with
+wouldn't worry about doing anything with
+ 
+wouldn't worry about doing anything with
+Asian range. I wouldn't even worry about
+Asian range. I wouldn't even worry about
+ 
+Asian range. I wouldn't even worry about
+doing anything with
+doing anything with
+ 
+doing anything with
+the
+ 
+ 
+ 
+well,
+well,
+ 
+well,
+there's a
+there's a
+ 
+there's a
+anything else. Unless I've mentioned it
+anything else. Unless I've mentioned it
+ 
+anything else. Unless I've mentioned it
+in this model,
+in this model,
+ 
+in this model,
+I wouldn't even do any investment of
+I wouldn't even do any investment of
+ 
+I wouldn't even do any investment of
+time at all because this literally is
+time at all because this literally is
+ 
+time at all because this literally is
+the simplest way to work with intraday
+the simplest way to work with intraday
+ 
+the simplest way to work with intraday
+and
+and
+ 
+and
+daily order flow.
+daily order flow.
+ 
+daily order flow.
+It's simple. It really is this simple.
+It's simple. It really is this simple.
+ 
+It's simple. It really is this simple.
+It doesn't feel sexy, though. I know
+It doesn't feel sexy, though. I know
+ 
+It doesn't feel sexy, though. I know
+some of you young guys are like, "Yeah,
+some of you young guys are like, "Yeah,
+ 
+some of you young guys are like, "Yeah,
+but wait till he starts bringing out all
+but wait till he starts bringing out all
+ 
+but wait till he starts bringing out all
+the really hard-hitting,
+the really hard-hitting,
+ 
+the really hard-hitting,
+you know, gadgets and such. You're going
+you know, gadgets and such. You're going
+ 
+you know, gadgets and such. You're going
+to be floored by that." No, you don't
+to be floored by that." No, you don't
+ 
+to be floored by that." No, you don't
+need it. I don't want my daughter
+need it. I don't want my daughter
+ 
+need it. I don't want my daughter
+inundated with all that stuff. Number
+inundated with all that stuff. Number
+ 
+inundated with all that stuff. Number
+one, she's really not interested in
+one, she's really not interested in
+ 
+one, she's really not interested in
+trading, so I'm trying to convince her
+trading, so I'm trying to convince her
+ 
+trading, so I'm trying to convince her
+that she can do this
+that she can do this
+ 
+that she can do this
+with something that is very simple. It's
+with something that is very simple. It's
+ 
+with something that is very simple. It's
+streamlined.
+streamlined.
+ 
+streamlined.
+So, what does that mean by streamlining
+So, what does that mean by streamlining
+ 
+So, what does that mean by streamlining
+it? And what is the step-by-step
+it? And what is the step-by-step
+ 
+it? And what is the step-by-step
+process? Because I already told you the
+process? Because I already told you the
+ 
+process? Because I already told you the
+bias I've had on this
+bias I've had on this
+ 
+bias I've had on this
+currency when I taught on Tuesday. I
+currency when I taught on Tuesday. I
+ 
+currency when I taught on Tuesday. I
+gave you a forex lesson. I showed you an
+gave you a forex lesson. I showed you an
+ 
+gave you a forex lesson. I showed you an
+example with the euro. I said it's
+example with the euro. I said it's
+ 
+example with the euro. I said it's
+likely to draw into this low here. Now,
+likely to draw into this low here. Now,
+ 
+likely to draw into this low here. Now,
+here's the wonderful thing.
+here's the wonderful thing.
+ 
+here's the wonderful thing.
+We don't even need it to go down to that
+We don't even need it to go down to that
+ 
+We don't even need it to go down to that
+low
+low
+ 
+low
+to find profitability.
+to find profitability.
+ 
+to find profitability.
+How's that? How is that possible?
+How's that? How is that possible?
+ 
+How's that? How is that possible?
+How are you able to responsibly handle
+How are you able to responsibly handle
+ 
+How are you able to responsibly handle
+daily bias,
+daily bias,
+ 
+daily bias,
+work with the higher time frame, and
+work with the higher time frame, and
+ 
+work with the higher time frame, and
+then frame out a setup using the logic
+then frame out a setup using the logic
+ 
+then frame out a setup using the logic
+that I'm showing you in this model.
+that I'm showing you in this model.
+ 
+that I'm showing you in this model.
+Let's do that now. Number one, the bias
+Let's do that now. Number one, the bias
+ 
+Let's do that now. Number one, the bias
+is bearish.
+is bearish.
+ 
+is bearish.
+So, if a bearish bias is being
+So, if a bearish bias is being
+ 
+So, if a bearish bias is being
+implemented, okay? In other words,
+implemented, okay? In other words,
+ 
+implemented, okay? In other words,
+you're using that in your analysis.
+you're using that in your analysis.
+ 
+you're using that in your analysis.
+You're going through the charts looking
+You're going through the charts looking
+ 
+You're going through the charts looking
+for setups that would warrant a short
+for setups that would warrant a short
+ 
+for setups that would warrant a short
+sale on this particular market or this
+sale on this particular market or this
+ 
+sale on this particular market or this
+pair in forex.
+pair in forex.
+ 
+pair in forex.
+What I'm showing you here,
+What I'm showing you here,
+ 
+What I'm showing you here,
+all of this
+all of this
+ 
+all of this
+up till now, if I make a transition to
+up till now, if I make a transition to
+ 
+up till now, if I make a transition to
+index futures trading, I'll mention
+index futures trading, I'll mention
+ 
+index futures trading, I'll mention
+certain caveats when it comes to that.
+certain caveats when it comes to that.
+ 
+certain caveats when it comes to that.
+But for now, everything I'm saying in
+But for now, everything I'm saying in
+ 
+But for now, everything I'm saying in
+this video until I say otherwise is
+this video until I say otherwise is
+ 
+this video until I say otherwise is
+pertinent to forex.
+pertinent to forex.
+ 
+pertinent to forex.
+Okay? So, it's specific to forex.
+Okay? So, it's specific to forex.
+ 
+Okay? So, it's specific to forex.
+All right, so
+All right, so
+ 
+All right, so
+bias is bearish
+bias is bearish
+ 
+bias is bearish
+and we're looking at a daily chart, so
+and we're looking at a daily chart, so
+ 
+and we're looking at a daily chart, so
+you start your analysis there. You have
+you start your analysis there. You have
+ 
+you start your analysis there. You have
+a fair value gap here.
+a fair value gap here.
+ 
+a fair value gap here.
+So,
+So,
+ 
+So,
+it can trade up into that and all you
+it can trade up into that and all you
+ 
+it can trade up into that and all you
+have to see is that candle traded to
+have to see is that candle traded to
+ 
+have to see is that candle traded to
+there. Now, you can be greedy and try to
+there. Now, you can be greedy and try to
+ 
+there. Now, you can be greedy and try to
+trade all the way up into the middle
+trade all the way up into the middle
+ 
+trade all the way up into the middle
+point or deep into it, maybe even
+point or deep into it, maybe even
+ 
+point or deep into it, maybe even
+complete closure.
+complete closure.
+ 
+complete closure.
+I don't need that. And we're going to
+I don't need that. And we're going to
+ 
+I don't need that. And we're going to
+bring in the element of time of day and
+bring in the element of time of day and
+ 
+bring in the element of time of day and
+how that helps you decide what you're
+how that helps you decide what you're
+ 
+how that helps you decide what you're
+looking for. And you don't really need
+looking for. And you don't really need
+ 
+looking for. And you don't really need
+to catch that high the day, either. So,
+to catch that high the day, either. So,
+ 
+to catch that high the day, either. So,
+I'm going to show you how to be
+I'm going to show you how to be
+ 
+I'm going to show you how to be
+forgiving with your entries.
+forgiving with your entries.
+ 
+forgiving with your entries.
+The
+The
+ 
+The
+important thing is knowing what you're
+important thing is knowing what you're
+ 
+important thing is knowing what you're
+looking for ahead of time so that way
+looking for ahead of time so that way
+ 
+looking for ahead of time so that way
+you're not changing gears back and forth
+you're not changing gears back and forth
+ 
+you're not changing gears back and forth
+intraday, chasing an impulsive price
+intraday, chasing an impulsive price
+ 
+intraday, chasing an impulsive price
+swing that may feel like, "Oh, I'm
+swing that may feel like, "Oh, I'm
+ 
+swing that may feel like, "Oh, I'm
+probably wrong. Let me chase this. Let
+probably wrong. Let me chase this. Let
+ 
+probably wrong. Let me chase this. Let
+me chase that."
+me chase that."
+ 
+me chase that."
+When I showed the 3 months live trading
+When I showed the 3 months live trading
+ 
+When I showed the 3 months live trading
+account statements,
+account statements,
+ 
+account statements,
+what some of you are not listening to
+what some of you are not listening to
+ 
+what some of you are not listening to
+when I say it in the video. Listen to
+when I say it in the video. Listen to
+ 
+when I say it in the video. Listen to
+the videos, okay? When I'm showing those
+the videos, okay? When I'm showing those
+ 
+the videos, okay? When I'm showing those
+statements,
+statements,
+ 
+statements,
+I'm disclosing the fact that I'm getting
+I'm disclosing the fact that I'm getting
+ 
+I'm disclosing the fact that I'm getting
+questions by my students. These folks
+questions by my students. These folks
+ 
+questions by my students. These folks
+have paid me,
+have paid me,
+ 
+have paid me,
+okay? They asked for me to show them
+okay? They asked for me to show them
+ 
+okay? They asked for me to show them
+things in a live account.
+things in a live account.
+ 
+things in a live account.
+You are not privy to all of those
+You are not privy to all of those
+ 
+You are not privy to all of those
+conversations because you're not in that
+conversations because you're not in that
+ 
+conversations because you're not in that
+community.
+community.
+ 
+community.
+So, when they're asking me questions
+So, when they're asking me questions
+ 
+So, when they're asking me questions
+like, "What do you do if you get this,
+like, "What do you do if you get this,
+ 
+like, "What do you do if you get this,
+this, and this, and this?
+this, and this, and this?
+ 
+this, and this, and this?
+Or how would you work with that in in a
+Or how would you work with that in in a
+ 
+Or how would you work with that in in a
+real market?" I'm literally putting
+real market?" I'm literally putting
+ 
+real market?" I'm literally putting
+myself in a live account, creating those
+myself in a live account, creating those
+ 
+myself in a live account, creating those
+very sim- similar situations that
+very sim- similar situations that
+ 
+very sim- similar situations that
+they're asking me about, and then moving
+they're asking me about, and then moving
+ 
+they're asking me about, and then moving
+out of those periods of either drawdown
+out of those periods of either drawdown
+ 
+out of those periods of either drawdown
+or
+or
+ 
+or
+how to overcome
+how to overcome
+ 
+how to overcome
+the an- the anxious, "I don't want to
+the an- the anxious, "I don't want to
+ 
+the an- the anxious, "I don't want to
+take a trade. I'm scared. What happens
+take a trade. I'm scared. What happens
+ 
+take a trade. I'm scared. What happens
+if you take losing trades? How do you
+if you take losing trades? How do you
+ 
+if you take losing trades? How do you
+overcome that?"
+overcome that?"
+ 
+overcome that?"
+A lot of those executions you're seeing
+A lot of those executions you're seeing
+ 
+A lot of those executions you're seeing
+is just simply me pushing a button to
+is just simply me pushing a button to
+ 
+is just simply me pushing a button to
+show that, yes, you can do those types
+show that, yes, you can do those types
+ 
+show that, yes, you can do those types
+of things to overcome initial fear.
+of things to overcome initial fear.
+ 
+of things to overcome initial fear.
+It's going to cost you commission. It's
+It's going to cost you commission. It's
+ 
+It's going to cost you commission. It's
+going to look like you have no idea what
+going to look like you have no idea what
+ 
+going to look like you have no idea what
+you're doing. And there's people out
+you're doing. And there's people out
+ 
+you're doing. And there's people out
+there looking at these statements. I've
+there looking at these statements. I've
+ 
+there looking at these statements. I've
+encouraged all of you to do it, but it
+encouraged all of you to do it, but it
+ 
+encouraged all of you to do it, but it
+isn't going to mean anything to you
+isn't going to mean anything to you
+ 
+isn't going to mean anything to you
+unless you understand what I'm
+unless you understand what I'm
+ 
+unless you understand what I'm
+really illustrating here.
+really illustrating here.
+ 
+really illustrating here.
+You're not the student that was spoken
+You're not the student that was spoken
+ 
+You're not the student that was spoken
+to in private with that live account
+to in private with that live account
+ 
+to in private with that live account
+showing that actual event unfolding.
+showing that actual event unfolding.
+ 
+showing that actual event unfolding.
+So,
+So,
+ 
+So,
+just know that there's a lot of things
+just know that there's a lot of things
+ 
+just know that there's a lot of things
+that are going on
+that are going on
+ 
+that are going on
+that are not necessarily your business,
+that are not necessarily your business,
+ 
+that are not necessarily your business,
+okay? The community here wanted to see a
+okay? The community here wanted to see a
+ 
+okay? The community here wanted to see a
+live account.
+live account.
+ 
+live account.
+You seen a live account.
+You seen a live account.
+ 
+You seen a live account.
+But working within a live account,
+But working within a live account,
+ 
+But working within a live account,
+unless you do things like I'm going to
+unless you do things like I'm going to
+ 
+unless you do things like I'm going to
+show you here,
+show you here,
+ 
+show you here,
+you're going to have this changing of
+you're going to have this changing of
+ 
+you're going to have this changing of
+direction intraday. Over and back and
+direction intraday. Over and back and
+ 
+direction intraday. Over and back and
+forth, back and forth. You're going to
+forth, back and forth. You're going to
+ 
+forth, back and forth. You're going to
+go up, you're going to go down, you're
+go up, you're going to go down, you're
+ 
+go up, you're going to go down, you're
+going to go back and forth, and then
+going to go back and forth, and then
+ 
+going to go back and forth, and then
+it's going to draw your account down, or
+it's going to draw your account down, or
+ 
+it's going to draw your account down, or
+worse, if you don't control yourself,
+worse, if you don't control yourself,
+ 
+worse, if you don't control yourself,
+you'll blow the account.
+you'll blow the account.
+ 
+you'll blow the account.
+So,
+So,
+ 
+So,
+you have to commit to one direction.
+you have to commit to one direction.
+ 
+you have to commit to one direction.
+That's your bias.
+That's your bias.
+ 
+That's your bias.
+Here's the thing.
+Here's the thing.
+ 
+Here's the thing.
+Your bias
+Your bias
+ 
+Your bias
+isn't going to be perfect. And here's a
+isn't going to be perfect. And here's a
+ 
+isn't going to be perfect. And here's a
+newsflash for you. You as well. I'm not
+newsflash for you. You as well. I'm not
+ 
+newsflash for you. You as well. I'm not
+always perfect with my bias, either. A
+always perfect with my bias, either. A
+ 
+always perfect with my bias, either. A
+bias is just an an idea that you want to
+bias is just an an idea that you want to
+ 
+bias is just an an idea that you want to
+work within and employ your short sale
+work within and employ your short sale
+ 
+work within and employ your short sale
+when you're bearish, or employ your long
+when you're bearish, or employ your long
+ 
+when you're bearish, or employ your long
+trade ideas when you're bullish.
+trade ideas when you're bullish.
+ 
+trade ideas when you're bullish.
+And you're filtering out the other side
+And you're filtering out the other side
+ 
+And you're filtering out the other side
+of the marketplace. Unless you're proven
+of the marketplace. Unless you're proven
+ 
+of the marketplace. Unless you're proven
+clearly that you're absolutely wrong,
+clearly that you're absolutely wrong,
+ 
+clearly that you're absolutely wrong,
+you just simply wait for the setups to
+you just simply wait for the setups to
+ 
+you just simply wait for the setups to
+form with that bias in mind.
+form with that bias in mind.
+ 
+form with that bias in mind.
+Now, I know a lot of you are new, and
+Now, I know a lot of you are new, and
+ 
+Now, I know a lot of you are new, and
+you want to see things taught to you
+you want to see things taught to you
+ 
+you want to see things taught to you
+that simply remove any chance of you
+that simply remove any chance of you
+ 
+that simply remove any chance of you
+losing.
+losing.
+ 
+losing.
+There is no secret for that here.
+There is no secret for that here.
+ 
+There is no secret for that here.
+Nobody's going to teach that to you
+Nobody's going to teach that to you
+ 
+Nobody's going to teach that to you
+because it doesn't exist. And frankly,
+because it doesn't exist. And frankly,
+ 
+because it doesn't exist. And frankly,
+if someone had that, I'll be real honest
+if someone had that, I'll be real honest
+ 
+if someone had that, I'll be real honest
+with you, folks.
+with you, folks.
+ 
+with you, folks.
+If I had a way that I would never lose,
+If I had a way that I would never lose,
+ 
+If I had a way that I would never lose,
+I would have never came out publicly and
+I would have never came out publicly and
+ 
+I would have never came out publicly and
+became a teacher.
+became a teacher.
+ 
+became a teacher.
+I would be the richest person you never
+I would be the richest person you never
+ 
+I would be the richest person you never
+met.
+met.
+ 
+met.
+That's the God's honest truth. That's
+That's the God's honest truth. That's
+ 
+That's the God's honest truth. That's
+exactly what would happen. And if
+exactly what would happen. And if
+ 
+exactly what would happen. And if
+there's somebody out there that has some
+there's somebody out there that has some
+ 
+there's somebody out there that has some
+kind of a means of never losing,
+kind of a means of never losing,
+ 
+kind of a means of never losing,
+they're doing that very thing. You're
+they're doing that very thing. You're
+ 
+they're doing that very thing. You're
+They're never going to talk about it.
+They're never going to talk about it.
+ 
+They're never going to talk about it.
+They're never going to teach it. So,
+They're never going to teach it. So,
+ 
+They're never going to teach it. So,
+you don't need to be perfect. And I've
+you don't need to be perfect. And I've
+ 
+you don't need to be perfect. And I've
+proven imperfection still doubles the
+proven imperfection still doubles the
+ 
+proven imperfection still doubles the
+account.
+account.
+ 
+account.
+It's simple.
+It's simple.
+ 
+It's simple.
+And you can have a lot of losing trades.
+And you can have a lot of losing trades.
+ 
+And you can have a lot of losing trades.
+And this is what one of the things that
+And this is what one of the things that
+ 
+And this is what one of the things that
+one of my students asked. He said, "What
+one of my students asked. He said, "What
+ 
+one of my students asked. He said, "What
+if your win rate is really, really low?
+if your win rate is really, really low?
+ 
+if your win rate is really, really low?
+Can you still double an account?" Yes,
+Can you still double an account?" Yes,
+ 
+Can you still double an account?" Yes,
+because I was thumbing my nose at this
+because I was thumbing my nose at this
+ 
+because I was thumbing my nose at this
+idea that a risk to reward model is
+idea that a risk to reward model is
+ 
+idea that a risk to reward model is
+essential for you to be net profitable.
+essential for you to be net profitable.
+ 
+essential for you to be net profitable.
+That's not true.
+That's not true.
+ 
+That's not true.
+I've proven that with a live account. I
+I've proven that with a live account. I
+ 
+I've proven that with a live account. I
+have lots of things I'm going to show
+have lots of things I'm going to show
+ 
+have lots of things I'm going to show
+you with this TD Ameritrade account
+you with this TD Ameritrade account
+ 
+you with this TD Ameritrade account
+before the end of the year.
+before the end of the year.
+ 
+before the end of the year.
+But just know that there there's future
+But just know that there there's future
+ 
+But just know that there there's future
+lessons that I'm going to literally go
+lessons that I'm going to literally go
+ 
+lessons that I'm going to literally go
+through and show you not everything,
+through and show you not everything,
+ 
+through and show you not everything,
+obviously, because you're not I'm not
+obviously, because you're not I'm not
+ 
+obviously, because you're not I'm not
+obligated to show you everything that
+obligated to show you everything that
+ 
+obligated to show you everything that
+the other community is entitled to.
+the other community is entitled to.
+ 
+the other community is entitled to.
+But I don't need to show you everything
+But I don't need to show you everything
+ 
+But I don't need to show you everything
+to see that account growing.
+to see that account growing.
+ 
+to see that account growing.
+Now,
+Now,
+ 
+Now,
+the question is is what do you do
+the question is is what do you do
+ 
+the question is is what do you do
+if you're in a live account? Let's Let's
+if you're in a live account? Let's Let's
+ 
+if you're in a live account? Let's Let's
+paint a picture for you, okay?
+paint a picture for you, okay?
+ 
+paint a picture for you, okay?
+Say you're one of those individuals out
+Say you're one of those individuals out
+ 
+Say you're one of those individuals out
+there that have got caught up in the
+there that have got caught up in the
+ 
+there that have got caught up in the
+fever of all these funded account
+fever of all these funded account
+ 
+fever of all these funded account
+programs, okay? I'm not going to name
+programs, okay? I'm not going to name
+ 
+programs, okay? I'm not going to name
+any in particular because I don't have
+any in particular because I don't have
+ 
+any in particular because I don't have
+an affiliation with one. I don't want an
+an affiliation with one. I don't want an
+ 
+an affiliation with one. I don't want an
+affiliation with any of them. And I
+affiliation with any of them. And I
+ 
+affiliation with any of them. And I
+don't have any personal experience with
+don't have any personal experience with
+ 
+don't have any personal experience with
+my
+my
+ 
+my
+own trading with any of them, okay? So,
+own trading with any of them, okay? So,
+ 
+own trading with any of them, okay? So,
+that way we know I'm not repping anyone.
+that way we know I'm not repping anyone.
+ 
+that way we know I'm not repping anyone.
+There's no inside, you know, kickback
+There's no inside, you know, kickback
+ 
+There's no inside, you know, kickback
+for me, none of that stuff.
+for me, none of that stuff.
+ 
+for me, none of that stuff.
+But there's a number of them out there,
+But there's a number of them out there,
+ 
+But there's a number of them out there,
+and my opinion of them is I have
+and my opinion of them is I have
+ 
+and my opinion of them is I have
+students that have gone through them,
+students that have gone through them,
+ 
+students that have gone through them,
+and they are funded.
+and they are funded.
+ 
+and they are funded.
+Do
+Do
+ 
+Do
+I believe everyone should do that? I
+I believe everyone should do that? I
+ 
+I believe everyone should do that? I
+don't personally believe everyone
+don't personally believe everyone
+ 
+don't personally believe everyone
+should.
+should.
+ 
+should.
+Uh but it is an avenue that you have to
+Uh but it is an avenue that you have to
+ 
+Uh but it is an avenue that you have to
+consider on your on your own. See if you
+consider on your on your own. See if you
+ 
+consider on your on your own. See if you
+want to do that or not.
+want to do that or not.
+ 
+want to do that or not.
+But let's assume that you've gone
+But let's assume that you've gone
+ 
+But let's assume that you've gone
+through the process, and now you have
+through the process, and now you have
+ 
+through the process, and now you have
+passed whatever that,
+passed whatever that,
+ 
+passed whatever that,
+you know,
+you know,
+ 
+you know,
+I guess the challenge or whatever they
+I guess the challenge or whatever they
+ 
+I guess the challenge or whatever they
+call it, to get funded. And you found
+call it, to get funded. And you found
+ 
+call it, to get funded. And you found
+yourself with a, let's say, $100,000
+yourself with a, let's say, $100,000
+ 
+yourself with a, let's say, $100,000
+account. In other words, you have the
+account. In other words, you have the
+ 
+account. In other words, you have the
+ability to trade with what would be
+ability to trade with what would be
+ 
+ability to trade with what would be
+considered $100,000.
+ 
+ 
+ 
+What process,
+What process,
+ 
+What process,
+if it were me doing that, okay? Let's
+if it were me doing that, okay? Let's
+ 
+if it were me doing that, okay? Let's
+I'm going to speak in that
+I'm going to speak in that
+ 
+I'm going to speak in that
+perspective. I'm not saying you should
+perspective. I'm not saying you should
+ 
+perspective. I'm not saying you should
+do this. Notice that what I'm saying
+do this. Notice that what I'm saying
+ 
+do this. Notice that what I'm saying
+here? If it were me, and I was starting
+here? If it were me, and I was starting
+ 
+here? If it were me, and I was starting
+out all over again,
+ 
+ 
+ 
+I would use this model,
+I would use this model,
+ 
+I would use this model,
+and I would go through the process of
+and I would go through the process of
+ 
+and I would go through the process of
+what I'm going to show you right now,
+what I'm going to show you right now,
+ 
+what I'm going to show you right now,
+okay? So, be- bearish
+okay? So, be- bearish
+ 
+okay? So, be- bearish
+uh daily bias, and I'm going through the
+uh daily bias, and I'm going through the
+ 
+uh daily bias, and I'm going through the
+daily chart, and I'm looking at recent
+daily chart, and I'm looking at recent
+ 
+daily chart, and I'm looking at recent
+price action. So, we had
+price action. So, we had
+ 
+price action. So, we had
+this big drop down here,
+this big drop down here,
+ 
+this big drop down here,
+drawing towards this low,
+drawing towards this low,
+ 
+drawing towards this low,
+and then the next day we had this candle
+and then the next day we had this candle
+ 
+and then the next day we had this candle
+trade up here. So, that creates the fair
+trade up here. So, that creates the fair
+ 
+trade up here. So, that creates the fair
+value gap.
+value gap.
+ 
+value gap.
+So, ideally,
+So, ideally,
+ 
+So, ideally,
+you know, what we've seen here is we had
+you know, what we've seen here is we had
+ 
+you know, what we've seen here is we had
+1 2 3 4
+1 2 3 4
+ 
+1 2 3 4
+five down days.
+five down days.
+ 
+five down days.
+Now, there's likely to have a
+Now, there's likely to have a
+ 
+Now, there's likely to have a
+retracement
+retracement
+ 
+retracement
+because we've seen it come way down in
+because we've seen it come way down in
+ 
+because we've seen it come way down in
+terms of the range between this low
+terms of the range between this low
+ 
+terms of the range between this low
+and this high. So, what does that make
+and this high. So, what does that make
+ 
+and this high. So, what does that make
+that area down here?
+that area down here?
+ 
+that area down here?
+Premium or discount?
+Premium or discount?
+ 
+Premium or discount?
+Discount. So,
+Discount. So,
+ 
+Discount. So,
+soon as this fair value gap forms, we
+soon as this fair value gap forms, we
+ 
+soon as this fair value gap forms, we
+know that it's likely to see it
+know that it's likely to see it
+ 
+know that it's likely to see it
+rally up into this area here.
+rally up into this area here.
+ 
+rally up into this area here.
+In other words, a short-term little
+In other words, a short-term little
+ 
+In other words, a short-term little
+bounce.
+bounce.
+ 
+bounce.
+That occurring
+That occurring
+ 
+That occurring
+and trading back to this candle's high
+and trading back to this candle's high
+ 
+and trading back to this candle's high
+is enough
+is enough
+ 
+is enough
+to set the stage for a new round of
+to set the stage for a new round of
+ 
+to set the stage for a new round of
+selling.
+selling.
+ 
+selling.
+So, you highlight your area on your
+So, you highlight your area on your
+ 
+So, you highlight your area on your
+daily chart,
+daily chart,
+ 
+daily chart,
+and then look at what we have in terms
+and then look at what we have in terms
+ 
+and then look at what we have in terms
+of targets.
+of targets.
+ 
+of targets.
+This is an ideal scenario, that low.
+This is an ideal scenario, that low.
+ 
+This is an ideal scenario, that low.
+But it's not likely to do that in one
+But it's not likely to do that in one
+ 
+But it's not likely to do that in one
+day. Can it do it? Absolutely.
+day. Can it do it? Absolutely.
+ 
+day. Can it do it? Absolutely.
+But look at what is available in terms
+But look at what is available in terms
+ 
+But look at what is available in terms
+of targeting.
+of targeting.
+ 
+of targeting.
+This day here,
+This day here,
+ 
+This day here,
+it created the fair value gap. So, that
+it created the fair value gap. So, that
+ 
+it created the fair value gap. So, that
+means we can go in
+ 
+ 
+ 
+and note that low right there.
+and note that low right there.
+ 
+and note that low right there.
+And we'll change it to blue
+And we'll change it to blue
+ 
+And we'll change it to blue
+here.
+here.
+ 
+here.
+Okay? And we're going to put a little
+Okay? And we're going to put a little
+ 
+Okay? And we're going to put a little
+line segment here on this daily candle,
+line segment here on this daily candle,
+ 
+line segment here on this daily candle,
+and we'll mark that one red.
+and we'll mark that one red.
+ 
+and we'll mark that one red.
+Okay? So, we have
+Okay? So, we have
+ 
+Okay? So, we have
+more or less a
+more or less a
+ 
+more or less a
+premium level that's being highlighted.
+premium level that's being highlighted.
+ 
+premium level that's being highlighted.
+And you can see it touches it, but it
+And you can see it touches it, but it
+ 
+And you can see it touches it, but it
+actually goes above it just a little
+actually goes above it just a little
+ 
+actually goes above it just a little
+bit. And that's all we'll need to
+bit. And that's all we'll need to
+ 
+bit. And that's all we'll need to
+justify a framework, okay? Now,
+justify a framework, okay? Now,
+ 
+justify a framework, okay? Now,
+let me recap real quick.
+let me recap real quick.
+ 
+let me recap real quick.
+Bearish bias.
+Bearish bias.
+ 
+Bearish bias.
+We're likely to draw down to this low
+We're likely to draw down to this low
+ 
+We're likely to draw down to this low
+here. Why? Because we had 1 2 3 times,
+here. Why? Because we had 1 2 3 times,
+ 
+here. Why? Because we had 1 2 3 times,
+like I mentioned on the video on
+like I mentioned on the video on
+ 
+like I mentioned on the video on
+Tuesday, or episode 17, if I'm not
+Tuesday, or episode 17, if I'm not
+ 
+Tuesday, or episode 17, if I'm not
+mistaken,
+mistaken,
+ 
+mistaken,
+in this mentorship.
+in this mentorship.
+ 
+in this mentorship.
+So, it's likely to draw lower
+So, it's likely to draw lower
+ 
+So, it's likely to draw lower
+and dig into this low. That's our draw
+and dig into this low. That's our draw
+ 
+and dig into this low. That's our draw
+on liquidity on the daily chart. But is
+on liquidity on the daily chart. But is
+ 
+on liquidity on the daily chart. But is
+that your trade target?
+that your trade target?
+ 
+that your trade target?
+No.
+No.
+ 
+No.
+Not for intraday trading.
+Not for intraday trading.
+ 
+Not for intraday trading.
+So, you frame your daily highs and lows,
+So, you frame your daily highs and lows,
+ 
+So, you frame your daily highs and lows,
+previous daily high, previous daily low.
+previous daily high, previous daily low.
+ 
+previous daily high, previous daily low.
+So, we have this day here,
+So, we have this day here,
+ 
+So, we have this day here,
+you know, yesterday's trading,
+you know, yesterday's trading,
+ 
+you know, yesterday's trading,
+or what would be considered Wednesday's
+or what would be considered Wednesday's
+ 
+or what would be considered Wednesday's
+trading.
+trading.
+ 
+trading.
+And then Thursday's trading, we opened
+And then Thursday's trading, we opened
+ 
+And then Thursday's trading, we opened
+here, we rallied up,
+here, we rallied up,
+ 
+here, we rallied up,
+popped just above that short-term high,
+popped just above that short-term high,
+ 
+popped just above that short-term high,
+and now because we've seen that,
+and now because we've seen that,
+ 
+and now because we've seen that,
+we can target that daily low
+we can target that daily low
+ 
+we can target that daily low
+right here.
+right here.
+ 
+right here.
+Okay? So, this is the trading day on
+Okay? So, this is the trading day on
+ 
+Okay? So, this is the trading day on
+Thursday. We open, rally up, create a
+Thursday. We open, rally up, create a
+ 
+Thursday. We open, rally up, create a
+Judas swing, run back into this fair
+Judas swing, run back into this fair
+ 
+Judas swing, run back into this fair
+value gap,
+value gap,
+ 
+value gap,
+and then expected to sell off, and then
+and then expected to sell off, and then
+ 
+and then expected to sell off, and then
+we can aim for that daily low. Why?
+we can aim for that daily low. Why?
+ 
+we can aim for that daily low. Why?
+Because anybody that went long in here,
+Because anybody that went long in here,
+ 
+Because anybody that went long in here,
+who would want to do that? There's
+who would want to do that? There's
+ 
+who would want to do that? There's
+always buyers and sellers.
+always buyers and sellers.
+ 
+always buyers and sellers.
+Okay? So, we're going to use previous
+Okay? So, we're going to use previous
+ 
+Okay? So, we're going to use previous
+day's highs and lows like institutional
+day's highs and lows like institutional
+ 
+day's highs and lows like institutional
+mindset traders do. There's lots of
+mindset traders do. There's lots of
+ 
+mindset traders do. There's lots of
+liquidity around daily highs and lows.
+liquidity around daily highs and lows.
+ 
+liquidity around daily highs and lows.
+And high-frequency trading algorithms
+And high-frequency trading algorithms
+ 
+And high-frequency trading algorithms
+attack previous day's highs and lows. If
+attack previous day's highs and lows. If
+ 
+attack previous day's highs and lows. If
+you were back in the BabyPips days when
+you were back in the BabyPips days when
+ 
+you were back in the BabyPips days when
+I came on the scene, 2009, 2010,
+I came on the scene, 2009, 2010,
+ 
+I came on the scene, 2009, 2010,
+that was the first lesson I started
+that was the first lesson I started
+ 
+that was the first lesson I started
+talking about is highlight the previous
+talking about is highlight the previous
+ 
+talking about is highlight the previous
+day's highs and lows. And do that for
+day's highs and lows. And do that for
+ 
+day's highs and lows. And do that for
+the last 3 days.
+the last 3 days.
+ 
+the last 3 days.
+If you do that, you'll see a plethora of
+If you do that, you'll see a plethora of
+ 
+If you do that, you'll see a plethora of
+setups that you can do. And that gives
+setups that you can do. And that gives
+ 
+setups that you can do. And that gives
+you liquidity pools that you can attack.
+you liquidity pools that you can attack.
+ 
+you liquidity pools that you can attack.
+You There There's always a fresh supply
+You There There's always a fresh supply
+ 
+You There There's always a fresh supply
+of new setups. If you're looking at the
+of new setups. If you're looking at the
+ 
+of new setups. If you're looking at the
+last 3 days highs and lows, it's always
+last 3 days highs and lows, it's always
+ 
+last 3 days highs and lows, it's always
+the case. It's always going to be there.
+the case. It's always going to be there.
+ 
+the case. It's always going to be there.
+You're never going to run out of trades,
+You're never going to run out of trades,
+ 
+You're never going to run out of trades,
+ever. Okay?
+ever. Okay?
+ 
+ever. Okay?
+So, we have our framework here. We have
+So, we have our framework here. We have
+ 
+So, we have our framework here. We have
+the Actually, let me change this to
+the Actually, let me change this to
+ 
+the Actually, let me change this to
+blue.
+ 
+ 
+ 
+To that green, okay? So, we have premium
+To that green, okay? So, we have premium
+ 
+To that green, okay? So, we have premium
+and discount.
+and discount.
+ 
+and discount.
+So, these two levels are represented on
+So, these two levels are represented on
+ 
+So, these two levels are represented on
+the high and low of Wednesday's trading,
+the high and low of Wednesday's trading,
+ 
+the high and low of Wednesday's trading,
+which would be yesterday's trading. In
+which would be yesterday's trading. In
+ 
+which would be yesterday's trading. In
+other words, your chart would have
+other words, your chart would have
+ 
+other words, your chart would have
+looked like this.
+looked like this.
+ 
+looked like this.
+Wednesday going into Thursday before
+Wednesday going into Thursday before
+ 
+Wednesday going into Thursday before
+Thursday started trading, you'd have
+Thursday started trading, you'd have
+ 
+Thursday started trading, you'd have
+this. So, you would mark mark your chart
+this. So, you would mark mark your chart
+ 
+this. So, you would mark mark your chart
+out like this. So, if we go up here
+out like this. So, if we go up here
+ 
+out like this. So, if we go up here
+and we enter this fair value gap, that's
+and we enter this fair value gap, that's
+ 
+and we enter this fair value gap, that's
+your opportunity to go in looking for
+your opportunity to go in looking for
+ 
+your opportunity to go in looking for
+shorts.
+shorts.
+ 
+shorts.
+Then, if it starts to go down, you're
+Then, if it starts to go down, you're
+ 
+Then, if it starts to go down, you're
+getting this low.
+getting this low.
+ 
+getting this low.
+With the expectation, why is it likely
+With the expectation, why is it likely
+ 
+With the expectation, why is it likely
+to do that? Because it may want to go
+to do that? Because it may want to go
+ 
+to do that? Because it may want to go
+down to this low, but this gives you a
+down to this low, but this gives you a
+ 
+down to this low, but this gives you a
+nice range of profitability.
+nice range of profitability.
+ 
+nice range of profitability.
+Potential profitability.
+Potential profitability.
+ 
+Potential profitability.
+So, a range of we'll just call that uh
+So, a range of we'll just call that uh
+ 
+So, a range of we'll just call that uh
+935
+935
+ 
+935
+to a low of what is it?
+to a low of what is it?
+ 
+to a low of what is it?
+What's the low here?
+ 
+ 
+ 
+74, so
+74, so
+ 
+74, so
+25
+ 
+ 
+ 
+Six, we'll call it 60.
+Six, we'll call it 60.
+ 
+Six, we'll call it 60.
+60 handles.
+60 handles.
+ 
+60 handles.
+Okay? Not bad. That's a pretty
+Okay? Not bad. That's a pretty
+ 
+Okay? Not bad. That's a pretty
+respectable range. Can you get 25 pips
+respectable range. Can you get 25 pips
+ 
+respectable range. Can you get 25 pips
+out of that?
+out of that?
+ 
+out of that?
+Can you get 30 pips out of that? How
+Can you get 30 pips out of that? How
+ 
+Can you get 30 pips out of that? How
+about 40 pips? Well, we're going to find
+about 40 pips? Well, we're going to find
+ 
+about 40 pips? Well, we're going to find
+out. But, this is the range of
+out. But, this is the range of
+ 
+out. But, this is the range of
+opportunity that exists looking at
+opportunity that exists looking at
+ 
+opportunity that exists looking at
+Wednesday's trading. And then, Thursday
+Wednesday's trading. And then, Thursday
+ 
+Wednesday's trading. And then, Thursday
+we open, we rally up, we bump that high
+we open, we rally up, we bump that high
+ 
+we open, we rally up, we bump that high
+like we would expect trading back into
+like we would expect trading back into
+ 
+like we would expect trading back into
+that fair value gap, and then we watch
+that fair value gap, and then we watch
+ 
+that fair value gap, and then we watch
+price.
+price.
+ 
+price.
+Does it give us a setup? What setup?
+Does it give us a setup? What setup?
+ 
+Does it give us a setup? What setup?
+What I've taught you in this mentorship.
+What I've taught you in this mentorship.
+ 
+What I've taught you in this mentorship.
+So, we're going to drop down into
+So, we're going to drop down into
+ 
+So, we're going to drop down into
+the lower time frame. If you have this
+the lower time frame. If you have this
+ 
+the lower time frame. If you have this
+layout like this, so whatever you do on
+layout like this, so whatever you do on
+ 
+layout like this, so whatever you do on
+one chart, it would appear in all the
+one chart, it would appear in all the
+ 
+one chart, it would appear in all the
+other time frames, which is really nice.
+other time frames, which is really nice.
+ 
+other time frames, which is really nice.
+This is one of the things that I'd like
+This is one of the things that I'd like
+ 
+This is one of the things that I'd like
+to use in TradingView, not that
+to use in TradingView, not that
+ 
+to use in TradingView, not that
+TradingView is the only platform cuz
+TradingView is the only platform cuz
+ 
+TradingView is the only platform cuz
+obviously you can do this with
+obviously you can do this with
+ 
+obviously you can do this with
+everything out there today, but it's
+everything out there today, but it's
+ 
+everything out there today, but it's
+just really nice to be able to do this
+just really nice to be able to do this
+ 
+just really nice to be able to do this
+with all my students. They can do the
+with all my students. They can do the
+ 
+with all my students. They can do the
+same thing.
+same thing.
+ 
+same thing.
+But, if you're working with one
+But, if you're working with one
+ 
+But, if you're working with one
+screen like a laptop, and I'll answer
+screen like a laptop, and I'll answer
+ 
+screen like a laptop, and I'll answer
+this while I'm talking about it. Should
+this while I'm talking about it. Should
+ 
+this while I'm talking about it. Should
+you be trading on your phone? No.
+you be trading on your phone? No.
+ 
+you be trading on your phone? No.
+No, you shouldn't. Can you manage a
+No, you shouldn't. Can you manage a
+ 
+No, you shouldn't. Can you manage a
+trade
+trade
+ 
+trade
+on your phone? Yes.
+on your phone? Yes.
+ 
+on your phone? Yes.
+But, entering a brand new position on
+But, entering a brand new position on
+ 
+But, entering a brand new position on
+your phone, no.
+your phone, no.
+ 
+your phone, no.
+You don't see enough data. It's just too
+You don't see enough data. It's just too
+ 
+You don't see enough data. It's just too
+compressed, and you need to be able to
+compressed, and you need to be able to
+ 
+compressed, and you need to be able to
+see the lay of the land. Okay? You need
+see the lay of the land. Okay? You need
+ 
+see the lay of the land. Okay? You need
+to be able to open your chart up and
+to be able to open your chart up and
+ 
+to be able to open your chart up and
+really take in the information. If you
+really take in the information. If you
+ 
+really take in the information. If you
+don't do that, folks, you're really just
+don't do that, folks, you're really just
+ 
+don't do that, folks, you're really just
+at a small little
+at a small little
+ 
+at a small little
+small little perspective, really.
+small little perspective, really.
+ 
+small little perspective, really.
+If
+If
+ 
+If
+you want to have advantages, you you do
+you want to have advantages, you you do
+ 
+you want to have advantages, you you do
+it with a computer screen. Okay?
+it with a computer screen. Okay?
+ 
+it with a computer screen. Okay?
+Um if you want to be handicapped,
+Um if you want to be handicapped,
+ 
+Um if you want to be handicapped,
+then obviously try to trade on your
+then obviously try to trade on your
+ 
+then obviously try to trade on your
+phone. Okay?
+phone. Okay?
+ 
+phone. Okay?
+I have not met anyone that has been
+I have not met anyone that has been
+ 
+I have not met anyone that has been
+consistently profitable and trading
+consistently profitable and trading
+ 
+consistently profitable and trading
+millions of dollars and they trade on
+millions of dollars and they trade on
+ 
+millions of dollars and they trade on
+their phone. It just doesn't work like
+their phone. It just doesn't work like
+ 
+their phone. It just doesn't work like
+that, folks.
+that, folks.
+ 
+that, folks.
+You got to be responsible. You got to
+You got to be responsible. You got to
+ 
+You got to be responsible. You got to
+have some real estate, and yes, it
+have some real estate, and yes, it
+ 
+have some real estate, and yes, it
+requires a little bit of investment, but
+requires a little bit of investment, but
+ 
+requires a little bit of investment, but
+hey, you don't need all kinds of things.
+hey, you don't need all kinds of things.
+ 
+hey, you don't need all kinds of things.
+You don't need all the screens like I
+You don't need all the screens like I
+ 
+You don't need all the screens like I
+have and other people have out there.
+have and other people have out there.
+ 
+have and other people have out there.
+I'm showing you how you can do this with
+I'm showing you how you can do this with
+ 
+I'm showing you how you can do this with
+one screen, one monitor. So, what would
+one screen, one monitor. So, what would
+ 
+one screen, one monitor. So, what would
+that look like? Obviously, you can see
+that look like? Obviously, you can see
+ 
+that look like? Obviously, you can see
+everything I did on the daily chart is
+everything I did on the daily chart is
+ 
+everything I did on the daily chart is
+transposed
+transposed
+ 
+transposed
+onto the hourly chart down here in the
+onto the hourly chart down here in the
+ 
+onto the hourly chart down here in the
+lower left-hand corner.
+lower left-hand corner.
+ 
+lower left-hand corner.
+And
+And
+ 
+And
+it's transposed over here to the
+it's transposed over here to the
+ 
+it's transposed over here to the
+15-minute time frame. So, the time
+15-minute time frame. So, the time
+ 
+15-minute time frame. So, the time
+frames are upper left is daily,
+frames are upper left is daily,
+ 
+frames are upper left is daily,
+lower left is hourly, and 15-minute time
+lower left is hourly, and 15-minute time
+ 
+lower left is hourly, and 15-minute time
+frame is on the right. The 15-minute
+frame is on the right. The 15-minute
+ 
+frame is on the right. The 15-minute
+time frame is my bellwether chart.
+time frame is my bellwether chart.
+ 
+time frame is my bellwether chart.
+That's the one that I go to quickly.
+That's the one that I go to quickly.
+ 
+That's the one that I go to quickly.
+I want to keep referencing that
+I want to keep referencing that
+ 
+I want to keep referencing that
+15-minute time frame throughout the day
+15-minute time frame throughout the day
+ 
+15-minute time frame throughout the day
+because the information I get from it,
+because the information I get from it,
+ 
+because the information I get from it,
+which I'm going to show you,
+which I'm going to show you,
+ 
+which I'm going to show you,
+is influential to me in terms of
+is influential to me in terms of
+ 
+is influential to me in terms of
+managing my position or hunting or
+managing my position or hunting or
+ 
+managing my position or hunting or
+stalking new trade setup, and also it
+stalking new trade setup, and also it
+ 
+stalking new trade setup, and also it
+helps me trust my intraday bias.
+helps me trust my intraday bias.
+ 
+helps me trust my intraday bias.
+And I'll I'll explain that when we get
+And I'll I'll explain that when we get
+ 
+And I'll I'll explain that when we get
+into that specific time frame. But, let
+into that specific time frame. But, let
+ 
+into that specific time frame. But, let
+me go back for a second to the daily cuz
+me go back for a second to the daily cuz
+ 
+me go back for a second to the daily cuz
+I want to bring something up.
+I want to bring something up.
+ 
+I want to bring something up.
+If you're
+If you're
+ 
+If you're
+using one screen,
+using one screen,
+ 
+using one screen,
+okay? You would obviously do this
+okay? You would obviously do this
+ 
+okay? You would obviously do this
+annotation here, and then in this
+annotation here, and then in this
+ 
+annotation here, and then in this
+screen, you would just simply change it
+screen, you would just simply change it
+ 
+screen, you would just simply change it
+to the hourly chart.
+to the hourly chart.
+ 
+to the hourly chart.
+And then, everything you did here
+And then, everything you did here
+ 
+And then, everything you did here
+would be transposed over to the
+would be transposed over to the
+ 
+would be transposed over to the
+TradingView chart.
+TradingView chart.
+ 
+TradingView chart.
+That would be on the hourly chart,
+That would be on the hourly chart,
+ 
+That would be on the hourly chart,
+rather.
+rather.
+ 
+rather.
+And then,
+And then,
+ 
+And then,
+once you've done whatever breakdown and
+once you've done whatever breakdown and
+ 
+once you've done whatever breakdown and
+markups that you would have for your
+markups that you would have for your
+ 
+markups that you would have for your
+hourly chart,
+hourly chart,
+ 
+hourly chart,
+then you would drop down to the
+then you would drop down to the
+ 
+then you would drop down to the
+15-minute time frame, and all of the
+15-minute time frame, and all of the
+ 
+15-minute time frame, and all of the
+annotations from the daily and the
+annotations from the daily and the
+ 
+annotations from the daily and the
+hourly would appear on your 15-minute
+hourly would appear on your 15-minute
+ 
+hourly would appear on your 15-minute
+chart, as you'll see. Okay?
+chart, as you'll see. Okay?
+ 
+chart, as you'll see. Okay?
+So, let's go back to
+ 
+ 
+ 
+the layout,
+the layout,
+ 
+the layout,
+and I'm going to maximize the hourly
+and I'm going to maximize the hourly
+ 
+and I'm going to maximize the hourly
+chart.
+ 
+ 
+ 
+All right. So, I like to do these types
+All right. So, I like to do these types
+ 
+All right. So, I like to do these types
+of things, bring it to the actual level
+of things, bring it to the actual level
+ 
+of things, bring it to the actual level
+I'm anchoring to
+I'm anchoring to
+ 
+I'm anchoring to
+because I have obsessive compulsive
+because I have obsessive compulsive
+ 
+because I have obsessive compulsive
+disorder, so it is what it is.
+disorder, so it is what it is.
+ 
+disorder, so it is what it is.
+It's a struggle, folks. So, in here,
+It's a struggle, folks. So, in here,
+ 
+It's a struggle, folks. So, in here,
+it's this imbalance on the daily chart,
+it's this imbalance on the daily chart,
+ 
+it's this imbalance on the daily chart,
+but now we can see it also exists
+but now we can see it also exists
+ 
+but now we can see it also exists
+in the hourly as well. So, we have what?
+in the hourly as well. So, we have what?
+ 
+in the hourly as well. So, we have what?
+This high
+This high
+ 
+This high
+and this high. What are they?
+and this high. What are they?
+ 
+and this high. What are they?
+They're relatively equal highs.
+They're relatively equal highs.
+ 
+They're relatively equal highs.
+Anchored to that point right there.
+Anchored to that point right there.
+ 
+Anchored to that point right there.
+So, usually in my annotations, I'm going
+So, usually in my annotations, I'm going
+ 
+So, usually in my annotations, I'm going
+into the chart.
+ 
+ 
+ 
+And this is for the purposes of showing
+And this is for the purposes of showing
+ 
+And this is for the purposes of showing
+you how to backtest and how you annotate
+you how to backtest and how you annotate
+ 
+you how to backtest and how you annotate
+your chart.
+ 
+ 
+ 
+You toggle it
+You toggle it
+ 
+You toggle it
+to show on the top left,
+to show on the top left,
+ 
+to show on the top left,
+and
+and
+ 
+and
+you can use whatever color you want.
+ 
+ 
+ 
+And there you go.
+And there you go.
+ 
+And there you go.
+So,
+So,
+ 
+So,
+we have the annotations
+we have the annotations
+ 
+we have the annotations
+that would be on your chart for logging
+that would be on your chart for logging
+ 
+that would be on your chart for logging
+purposes, for your study journal.
+purposes, for your study journal.
+ 
+purposes, for your study journal.
+And then, you would just screenshot
+And then, you would just screenshot
+ 
+And then, you would just screenshot
+this.
+this.
+ 
+this.
+Okay? You might want to zoom in a little
+Okay? You might want to zoom in a little
+ 
+Okay? You might want to zoom in a little
+bit.
+bit.
+ 
+bit.
+You know, make the uh
+ 
+ 
+ 
+chart a little bit more aesthetically
+chart a little bit more aesthetically
+ 
+chart a little bit more aesthetically
+pleasing.
+pleasing.
+ 
+pleasing.
+Having something like that.
+Having something like that.
+ 
+Having something like that.
+More, you know, more information zoomed
+More, you know, more information zoomed
+ 
+More, you know, more information zoomed
+in into a specific area.
+in into a specific area.
+ 
+in into a specific area.
+And then, simply go in and start working
+And then, simply go in and start working
+ 
+And then, simply go in and start working
+with
+with
+ 
+with
+the 15-minute time frame because this is
+the 15-minute time frame because this is
+ 
+the 15-minute time frame because this is
+all I would do
+all I would do
+ 
+all I would do
+with the hourly chart.
+with the hourly chart.
+ 
+with the hourly chart.
+Because the frame of reference is that
+Because the frame of reference is that
+ 
+Because the frame of reference is that
+daily fair value gap.
+daily fair value gap.
+ 
+daily fair value gap.
+We have liquidity pool on the hourly
+We have liquidity pool on the hourly
+ 
+We have liquidity pool on the hourly
+chart. We've already mapped out the
+chart. We've already mapped out the
+ 
+chart. We've already mapped out the
+6th of April's low.
+6th of April's low.
+ 
+6th of April's low.
+Notice there's no lower low. This low
+Notice there's no lower low. This low
+ 
+Notice there's no lower low. This low
+didn't go down to it, and we start a new
+didn't go down to it, and we start a new
+ 
+didn't go down to it, and we start a new
+day on the 7th here at midnight New York
+day on the 7th here at midnight New York
+ 
+day on the 7th here at midnight New York
+local time.
+local time.
+ 
+local time.
+What do I mean by New York midnight?
+What do I mean by New York midnight?
+ 
+What do I mean by New York midnight?
+I'm going to answer that.
+I'm going to answer that.
+ 
+I'm going to answer that.
+Let's go over to
+Let's go over to
+ 
+Let's go over to
+the 15-minute time frame here,
+the 15-minute time frame here,
+ 
+the 15-minute time frame here,
+and you can see we already have that
+and you can see we already have that
+ 
+and you can see we already have that
+little annotation
+little annotation
+ 
+little annotation
+updated on the 15-minute time frame.
+updated on the 15-minute time frame.
+ 
+updated on the 15-minute time frame.
+So, now here's the 15-minute time frame,
+So, now here's the 15-minute time frame,
+ 
+So, now here's the 15-minute time frame,
+and I apologize for all of you that
+and I apologize for all of you that
+ 
+and I apologize for all of you that
+wouldn't otherwise know how to do this,
+wouldn't otherwise know how to do this,
+ 
+wouldn't otherwise know how to do this,
+but obviously it's a mentorship, right?
+but obviously it's a mentorship, right?
+ 
+but obviously it's a mentorship, right?
+There's a lot of people in the comment
+There's a lot of people in the comment
+ 
+There's a lot of people in the comment
+section that are asking for these types
+section that are asking for these types
+ 
+section that are asking for these types
+of lessons, and once I go through this
+of lessons, and once I go through this
+ 
+of lessons, and once I go through this
+this episode, we won't ever have to
+this episode, we won't ever have to
+ 
+this episode, we won't ever have to
+revisit it again. Okay? So, bear with
+revisit it again. Okay? So, bear with
+ 
+revisit it again. Okay? So, bear with
+me, okay?
+me, okay?
+ 
+me, okay?
+All right. So, now we have on the
+All right. So, now we have on the
+ 
+All right. So, now we have on the
+15-minute time frame,
+15-minute time frame,
+ 
+15-minute time frame,
+we're going to annotate the daily
+we're going to annotate the daily
+ 
+we're going to annotate the daily
+dividers. This all is a
+dividers. This all is a
+ 
+dividers. This all is a
+little vertical line.
+little vertical line.
+ 
+little vertical line.
+Okay? And this little bar here is just
+Okay? And this little bar here is just
+ 
+Okay? And this little bar here is just
+my favorites bar,
+my favorites bar,
+ 
+my favorites bar,
+and you can Google that for setting that
+and you can Google that for setting that
+ 
+and you can Google that for setting that
+up. These are the things I use most in
+up. These are the things I use most in
+ 
+up. These are the things I use most in
+TradingView. So, when I expand the chart
+TradingView. So, when I expand the chart
+ 
+TradingView. So, when I expand the chart
+to maximize the full screen,
+to maximize the full screen,
+ 
+to maximize the full screen,
+I highlight the little star button in
+I highlight the little star button in
+ 
+I highlight the little star button in
+the lower left-hand corner, just below
+the lower left-hand corner, just below
+ 
+the lower left-hand corner, just below
+the little link button. If you click
+the little link button. If you click
+ 
+the little link button. If you click
+that link button, any chart you have
+that link button, any chart you have
+ 
+that link button, any chart you have
+open that's the same symbol,
+open that's the same symbol,
+ 
+open that's the same symbol,
+any all the annotations will be flip
+any all the annotations will be flip
+ 
+any all the annotations will be flip
+plotted and placed on all the time
+plotted and placed on all the time
+ 
+plotted and placed on all the time
+frames of that instrument or that pair
+frames of that instrument or that pair
+ 
+frames of that instrument or that pair
+or that market. So, in other words, if
+or that market. So, in other words, if
+ 
+or that market. So, in other words, if
+like I was showing you with my trading
+like I was showing you with my trading
+ 
+like I was showing you with my trading
+layout, upper left-hand corner daily,
+layout, upper left-hand corner daily,
+ 
+layout, upper left-hand corner daily,
+hourly lower left-hand, and 15-minute
+hourly lower left-hand, and 15-minute
+ 
+hourly lower left-hand, and 15-minute
+time frame on the right, it's the
+time frame on the right, it's the
+ 
+time frame on the right, it's the
+biggest chart. Hitting that little link
+biggest chart. Hitting that little link
+ 
+biggest chart. Hitting that little link
+button icon will
+button icon will
+ 
+button icon will
+again, link all your charts together.
+again, link all your charts together.
+ 
+again, link all your charts together.
+So, whatever you're showing annotations
+So, whatever you're showing annotations
+ 
+So, whatever you're showing annotations
+on on one time frame will appear on all
+on on one time frame will appear on all
+ 
+on on one time frame will appear on all
+of them. That's how this is happening,
+of them. That's how this is happening,
+ 
+of them. That's how this is happening,
+okay? You can Google that, too, and
+okay? You can Google that, too, and
+ 
+okay? You can Google that, too, and
+there's a lot of
+there's a lot of
+ 
+there's a lot of
+uh tips you can get off of
+uh tips you can get off of
+ 
+uh tips you can get off of
+YouTube for uh TradingView. Most of my
+YouTube for uh TradingView. Most of my
+ 
+YouTube for uh TradingView. Most of my
+tips I actually got from my students,
+tips I actually got from my students,
+ 
+tips I actually got from my students,
+which I appreciate because they're more
+which I appreciate because they're more
+ 
+which I appreciate because they're more
+fluent with this.
+fluent with this.
+ 
+fluent with this.
+Um I came from MT4 and TradeStation, so
+Um I came from MT4 and TradeStation, so
+ 
+Um I came from MT4 and TradeStation, so
+I I'm a work in progress with uh
+I I'm a work in progress with uh
+ 
+I I'm a work in progress with uh
+TradingView.
+TradingView.
+ 
+TradingView.
+So,
+So,
+ 
+So,
+so you're going to drop a vertical line
+so you're going to drop a vertical line
+ 
+so you're going to drop a vertical line
+here to delineate a new day at midnight.
+here to delineate a new day at midnight.
+ 
+here to delineate a new day at midnight.
+What is the opening price at New York
+What is the opening price at New York
+ 
+What is the opening price at New York
+midnight?
+midnight?
+ 
+midnight?
+That's this candle,
+That's this candle,
+ 
+That's this candle,
+and you highlight that, and this price
+and you highlight that, and this price
+ 
+and you highlight that, and this price
+right here,
+right here,
+ 
+right here,
+that right there,
+that right there,
+ 
+that right there,
+if you're looking at the time frame on
+if you're looking at the time frame on
+ 
+if you're looking at the time frame on
+the hourly,
+the hourly,
+ 
+the hourly,
+that would be the opening price.
+that would be the opening price.
+ 
+that would be the opening price.
+I'm interested in that on a 15-minute
+I'm interested in that on a 15-minute
+ 
+I'm interested in that on a 15-minute
+time frame,
+time frame,
+ 
+time frame,
+or if I'm going to be scalping,
+or if I'm going to be scalping,
+ 
+or if I'm going to be scalping,
+I'm going to use the 5-minute chart.
+I'm going to use the 5-minute chart.
+ 
+I'm going to use the 5-minute chart.
+Okay? And then, I'll put two reference
+Okay? And then, I'll put two reference
+ 
+Okay? And then, I'll put two reference
+points on the 5-minute chart.
+points on the 5-minute chart.
+ 
+points on the 5-minute chart.
+But, for the sake of this discussion,
+But, for the sake of this discussion,
+ 
+But, for the sake of this discussion,
+just know that that's the actual price
+just know that that's the actual price
+ 
+just know that that's the actual price
+I'm looking at,
+I'm looking at,
+ 
+I'm looking at,
+and I'm drawing that out in time. How
+and I'm drawing that out in time. How
+ 
+and I'm drawing that out in time. How
+far am I drawing it out? 11:00 in the
+far am I drawing it out? 11:00 in the
+ 
+far am I drawing it out? 11:00 in the
+morning,
+morning,
+ 
+morning,
+New York local time.
+New York local time.
+ 
+New York local time.
+How do I know
+How do I know
+ 
+How do I know
+my chart's going to look like ICT's,
+my chart's going to look like ICT's,
+ 
+my chart's going to look like ICT's,
+right? That's what you're asking?
+right? That's what you're asking?
+ 
+right? That's what you're asking?
+You toggle it to New York. I don't care
+You toggle it to New York. I don't care
+ 
+You toggle it to New York. I don't care
+where you live.
+where you live.
+ 
+where you live.
+I don't care where you're at in all the
+I don't care where you're at in all the
+ 
+I don't care where you're at in all the
+different time zones, your TradingView
+different time zones, your TradingView
+ 
+different time zones, your TradingView
+chart needs to be set to this.
+chart needs to be set to this.
+ 
+chart needs to be set to this.
+If you do that,
+If you do that,
+ 
+If you do that,
+your chart will match all the things I'm
+your chart will match all the things I'm
+ 
+your chart will match all the things I'm
+teaching, and the things I'm teaching
+teaching, and the things I'm teaching
+ 
+teaching, and the things I'm teaching
+you to look for will be easier to find.
+you to look for will be easier to find.
+ 
+you to look for will be easier to find.
+Okay? Everything will be streamlined in
+Okay? Everything will be streamlined in
+ 
+Okay? Everything will be streamlined in
+terms of time of day.
+terms of time of day.
+ 
+terms of time of day.
+All right, so now we have the buy side
+All right, so now we have the buy side
+ 
+All right, so now we have the buy side
+liquidity pool, the daily delineation of
+liquidity pool, the daily delineation of
+ 
+liquidity pool, the daily delineation of
+midnight New York time,
+midnight New York time,
+ 
+midnight New York time,
+and we're going to take a little
+ 
+ 
+ 
+line segment here,
+line segment here,
+ 
+line segment here,
+and we're going to plot it right on
+and we're going to plot it right on
+ 
+and we're going to plot it right on
+here. Now, I'm just going to just rough
+here. Now, I'm just going to just rough
+ 
+here. Now, I'm just going to just rough
+it because it's basically a little tiny
+it because it's basically a little tiny
+ 
+it because it's basically a little tiny
+indecisive candle. I don't care the
+indecisive candle. I don't care the
+ 
+indecisive candle. I don't care the
+difference between the actual open and
+difference between the actual open and
+ 
+difference between the actual open and
+close. It's very minute.
+close. It's very minute.
+ 
+close. It's very minute.
+But I'm going to draw on here, and if
+But I'm going to draw on here, and if
+ 
+But I'm going to draw on here, and if
+you drag your
+you drag your
+ 
+you drag your
+your trend line over to the right, you
+your trend line over to the right, you
+ 
+your trend line over to the right, you
+hold down the shift button,
+hold down the shift button,
+ 
+hold down the shift button,
+it'll keep your trend line straight.
+it'll keep your trend line straight.
+ 
+it'll keep your trend line straight.
+Okay, and just drop it there.
+Okay, and just drop it there.
+ 
+Okay, and just drop it there.
+And I'll just make this
+And I'll just make this
+ 
+And I'll just make this
+a gray color here.
+a gray color here.
+ 
+a gray color here.
+Now, you can annotate that, but over
+Now, you can annotate that, but over
+ 
+Now, you can annotate that, but over
+time doing it, you'll just know that
+time doing it, you'll just know that
+ 
+time doing it, you'll just know that
+that's what you're anchoring and
+that's what you're anchoring and
+ 
+that's what you're anchoring and
+showing. This is the opening price at
+showing. This is the opening price at
+ 
+showing. This is the opening price at
+midnight. Okay?
+midnight. Okay?
+ 
+midnight. Okay?
+Now,
+Now,
+ 
+Now,
+we have the relatively equal highs here.
+we have the relatively equal highs here.
+ 
+we have the relatively equal highs here.
+We rallied above them. Once it hits
+We rallied above them. Once it hits
+ 
+We rallied above them. Once it hits
+this, do we get displacement?
+this, do we get displacement?
+ 
+this, do we get displacement?
+Now, we get down to the nitty-gritty.
+Now, we get down to the nitty-gritty.
+ 
+Now, we get down to the nitty-gritty.
+Okay?
+Okay?
+ 
+Okay?
+We have a swing low here.
+We have a swing low here.
+ 
+We have a swing low here.
+It breaks down below that. And then,
+It breaks down below that. And then,
+ 
+It breaks down below that. And then,
+once it does that, does it create an
+once it does that, does it create an
+ 
+once it does that, does it create an
+imbalance?
+imbalance?
+ 
+imbalance?
+Is there a fair value gap?
+ 
+ 
+ 
+Hint, hint. Nudge, nudge.
+Hint, hint. Nudge, nudge.
+ 
+Hint, hint. Nudge, nudge.
+You see that? All right, so we're going
+You see that? All right, so we're going
+ 
+You see that? All right, so we're going
+to annotate that. So, inside of this
+to annotate that. So, inside of this
+ 
+to annotate that. So, inside of this
+range,
+range,
+ 
+range,
+here,
+here,
+ 
+here,
+we have
+we have
+ 
+we have
+a fair value gap. And I'm going to
+a fair value gap. And I'm going to
+ 
+a fair value gap. And I'm going to
+highlight this. We'll just use this
+highlight this. We'll just use this
+ 
+highlight this. We'll just use this
+color here. Now, these are probably not
+color here. Now, these are probably not
+ 
+color here. Now, these are probably not
+the best colors. You're probably cussing
+the best colors. You're probably cussing
+ 
+the best colors. You're probably cussing
+me right now saying, "Why are you using
+me right now saying, "Why are you using
+ 
+me right now saying, "Why are you using
+these ugly colors, ICT?" That's me and
+these ugly colors, ICT?" That's me and
+ 
+these ugly colors, ICT?" That's me and
+just to annoy you so that way you can
+just to annoy you so that way you can
+ 
+just to annoy you so that way you can
+get more attentive
+get more attentive
+ 
+get more attentive
+and pay attention cuz this is a long
+and pay attention cuz this is a long
+ 
+and pay attention cuz this is a long
+video already. So,
+video already. So,
+ 
+video already. So,
+we're looking at the market wanting to
+we're looking at the market wanting to
+ 
+we're looking at the market wanting to
+go higher first to go lower. And here's
+go higher first to go lower. And here's
+ 
+go higher first to go lower. And here's
+that midnight delineation starting a new
+that midnight delineation starting a new
+ 
+that midnight delineation starting a new
+day. We rally up, and then we break
+day. We rally up, and then we break
+ 
+day. We rally up, and then we break
+down.
+down.
+ 
+down.
+So, what's the model teach? Trading
+So, what's the model teach? Trading
+ 
+So, what's the model teach? Trading
+when?
+when?
+ 
+when?
+The New York session.
+The New York session.
+ 
+The New York session.
+Okay? So, we're trading the New York
+Okay? So, we're trading the New York
+ 
+Okay? So, we're trading the New York
+session.
+session.
+ 
+session.
+In Forex, it's 7:00 in the morning
+In Forex, it's 7:00 in the morning
+ 
+In Forex, it's 7:00 in the morning
+to 10:00 in the morning.
+to 10:00 in the morning.
+ 
+to 10:00 in the morning.
+Right there. Okay? So, 10:00 in the
+Right there. Okay? So, 10:00 in the
+ 
+Right there. Okay? So, 10:00 in the
+morning
+morning
+ 
+morning
+and 7:00.
+and 7:00.
+ 
+and 7:00.
+So, we're looking for a setup that would
+So, we're looking for a setup that would
+ 
+So, we're looking for a setup that would
+be formed
+be formed
+ 
+be formed
+within that time frame.
+within that time frame.
+ 
+within that time frame.
+Now, you can create kill zone windows
+Now, you can create kill zone windows
+ 
+Now, you can create kill zone windows
+annotations on your chart.
+ 
+ 
+ 
+There's lots of ways I've done this over
+There's lots of ways I've done this over
+ 
+There's lots of ways I've done this over
+the years. You can do it whatever way
+the years. You can do it whatever way
+ 
+the years. You can do it whatever way
+you want to do it.
+ 
+ 
+ 
+Inside center, and we'll make it
+Inside center, and we'll make it
+ 
+Inside center, and we'll make it
+black.
+black.
+ 
+black.
+And
+ 
+ 
+ 
+there you go.
+there you go.
+ 
+there you go.
+So, the New York kill zone, it runs up
+So, the New York kill zone, it runs up
+ 
+So, the New York kill zone, it runs up
+into that, runs the highs,
+into that, runs the highs,
+ 
+into that, runs the highs,
+and we want to see a displacement to the
+and we want to see a displacement to the
+ 
+and we want to see a displacement to the
+downside. We get it right there. Okay?
+downside. We get it right there. Okay?
+ 
+downside. We get it right there. Okay?
+So, now you have this area here,
+So, now you have this area here,
+ 
+So, now you have this area here,
+and then you would put your order in
+and then you would put your order in
+ 
+and then you would put your order in
+right there. What time is that?
+right there. What time is that?
+ 
+right there. What time is that?
+It's 10:00.
+It's 10:00.
+ 
+It's 10:00.
+So, you put your limit order in to sell
+So, you put your limit order in to sell
+ 
+So, you put your limit order in to sell
+short right at that price right there or
+short right at that price right there or
+ 
+short right at that price right there or
+plus one pip
+plus one pip
+ 
+plus one pip
+period.
+period.
+ 
+period.
+And your risk is going to be
+And your risk is going to be
+ 
+And your risk is going to be
+above this high. The imbalance is really
+above this high. The imbalance is really
+ 
+above this high. The imbalance is really
+stretched out. You can use that as your
+stretched out. You can use that as your
+ 
+stretched out. You can use that as your
+stop.
+stop.
+ 
+stop.
+If you're really concerned, you can put
+If you're really concerned, you can put
+ 
+If you're really concerned, you can put
+your stop above the swing high. But
+your stop above the swing high. But
+ 
+your stop above the swing high. But
+whenever you have a big range like that,
+whenever you have a big range like that,
+ 
+whenever you have a big range like that,
+my stop can place right there.
+my stop can place right there.
+ 
+my stop can place right there.
+So, your stop would be here,
+So, your stop would be here,
+ 
+So, your stop would be here,
+and you're going to go short here.
+and you're going to go short here.
+ 
+and you're going to go short here.
+That's the minimum expectation using the
+That's the minimum expectation using the
+ 
+That's the minimum expectation using the
+15-minute time frame. But we're going to
+15-minute time frame. But we're going to
+ 
+15-minute time frame. But we're going to
+split
+split
+ 
+split
+the 15-minute time frame down into
+the 15-minute time frame down into
+ 
+the 15-minute time frame down into
+5-minute intervals.
+5-minute intervals.
+ 
+5-minute intervals.
+Okay, so we're going to look inside this
+Okay, so we're going to look inside this
+ 
+Okay, so we're going to look inside this
+range here and see if it's advantageous
+range here and see if it's advantageous
+ 
+range here and see if it's advantageous
+for us to go down into a 5-minute chart.
+for us to go down into a 5-minute chart.
+ 
+for us to go down into a 5-minute chart.
+And does it have a fair value gap in
+And does it have a fair value gap in
+ 
+And does it have a fair value gap in
+that? All right, so we're looking at the
+that? All right, so we're looking at the
+ 
+that? All right, so we're looking at the
+5-minute chart now, and it's that shaded
+5-minute chart now, and it's that shaded
+ 
+5-minute chart now, and it's that shaded
+area here. So, it's using this specific
+area here. So, it's using this specific
+ 
+area here. So, it's using this specific
+candle or that low.
+candle or that low.
+ 
+candle or that low.
+And we're looking inside this range
+And we're looking inside this range
+ 
+And we're looking inside this range
+right here.
+right here.
+ 
+right here.
+Okay? So, it's this decline we're
+Okay? So, it's this decline we're
+ 
+Okay? So, it's this decline we're
+looking at. Does it have fair value gap?
+looking at. Does it have fair value gap?
+ 
+looking at. Does it have fair value gap?
+Well,
+Well,
+ 
+Well,
+we have this small one right in here.
+we have this small one right in here.
+ 
+we have this small one right in here.
+See that? We have this stretched out one
+See that? We have this stretched out one
+ 
+See that? We have this stretched out one
+here. Yes.
+here. Yes.
+ 
+here. Yes.
+And we have all this run in here where
+And we have all this run in here where
+ 
+And we have all this run in here where
+it has a small little fair value gap.
+it has a small little fair value gap.
+ 
+it has a small little fair value gap.
+So, now think about what's been shown.
+So, now think about what's been shown.
+ 
+So, now think about what's been shown.
+On that 15-minute time frame, we have a
+On that 15-minute time frame, we have a
+ 
+On that 15-minute time frame, we have a
+minimum threshold of at least reaching
+minimum threshold of at least reaching
+ 
+minimum threshold of at least reaching
+into this low.
+ 
+ 
+ 
+Okay? Remember, I showed you on the
+Okay? Remember, I showed you on the
+ 
+Okay? Remember, I showed you on the
+15-minute time frame that imbalance. So,
+15-minute time frame that imbalance. So,
+ 
+15-minute time frame that imbalance. So,
+it needs to get up into that. Okay? So,
+it needs to get up into that. Okay? So,
+ 
+it needs to get up into that. Okay? So,
+I'm answering the question that I saw,
+I'm answering the question that I saw,
+ 
+I'm answering the question that I saw,
+or it really wasn't a question. It was
+or it really wasn't a question. It was
+ 
+or it really wasn't a question. It was
+someone trying to make a point that
+someone trying to make a point that
+ 
+someone trying to make a point that
+was I showing something incorrectly
+was I showing something incorrectly
+ 
+was I showing something incorrectly
+by showing a higher time frame fair
+by showing a higher time frame fair
+ 
+by showing a higher time frame fair
+value gap because wouldn't the smaller
+value gap because wouldn't the smaller
+ 
+value gap because wouldn't the smaller
+time frame fair value gap form before
+time frame fair value gap form before
+ 
+time frame fair value gap form before
+the higher time frame? No, it never
+the higher time frame? No, it never
+ 
+the higher time frame? No, it never
+works like that.
+works like that.
+ 
+works like that.
+The higher time frame imbalances are
+The higher time frame imbalances are
+ 
+The higher time frame imbalances are
+going to be parent
+going to be parent
+ 
+going to be parent
+to
+to
+ 
+to
+the subordinate smaller time frames.
+the subordinate smaller time frames.
+ 
+the subordinate smaller time frames.
+Okay? The parent,
+Okay? The parent,
+ 
+Okay? The parent,
+okay, is this 15-minute time frame
+okay, is this 15-minute time frame
+ 
+okay, is this 15-minute time frame
+imbalance.
+imbalance.
+ 
+imbalance.
+So, it needs to get above that. But when
+So, it needs to get above that. But when
+ 
+So, it needs to get above that. But when
+it does that, we have to look at the
+it does that, we have to look at the
+ 
+it does that, we have to look at the
+lower time frame below 15-minute time
+lower time frame below 15-minute time
+ 
+lower time frame below 15-minute time
+frame, which is the beginning stages of
+frame, which is the beginning stages of
+ 
+frame, which is the beginning stages of
+our fine-tuned entry of 5, 4, 3, 2, and
+our fine-tuned entry of 5, 4, 3, 2, and
+ 
+our fine-tuned entry of 5, 4, 3, 2, and
+1 time frames.
+1 time frames.
+ 
+1 time frames.
+So, here we have the 5-minute chart. We
+So, here we have the 5-minute chart. We
+ 
+So, here we have the 5-minute chart. We
+have an imbalance right here.
+have an imbalance right here.
+ 
+have an imbalance right here.
+And then we have that smaller one right
+And then we have that smaller one right
+ 
+And then we have that smaller one right
+in here.
+in here.
+ 
+in here.
+And all up to this price point here,
+And all up to this price point here,
+ 
+And all up to this price point here,
+we could factor that in, but it's not
+we could factor that in, but it's not
+ 
+we could factor that in, but it's not
+likely to get up there.
+likely to get up there.
+ 
+likely to get up there.
+So, we can look at what?
+So, we can look at what?
+ 
+So, we can look at what?
+This
+This
+ 
+This
+level here.
+level here.
+ 
+level here.
+That is the minimum expectation. You can
+That is the minimum expectation. You can
+ 
+That is the minimum expectation. You can
+put a uh sell limit order there to go
+put a uh sell limit order there to go
+ 
+put a uh sell limit order there to go
+short, or you can fine-tune this to
+short, or you can fine-tune this to
+ 
+short, or you can fine-tune this to
+rebound all the way up to here.
+ 
+ 
+ 
+Right there. In other words, it would
+Right there. In other words, it would
+ 
+Right there. In other words, it would
+look like this.
+look like this.
+ 
+look like this.
+This would be your imbalance on the
+This would be your imbalance on the
+ 
+This would be your imbalance on the
+5-minute chart.
+5-minute chart.
+ 
+5-minute chart.
+And if it traded up into that,
+And if it traded up into that,
+ 
+And if it traded up into that,
+right there,
+right there,
+ 
+right there,
+okay? In other words, you could use
+okay? In other words, you could use
+ 
+okay? In other words, you could use
+any ti- any
+any ti- any
+ 
+any ti- any
+specific price
+specific price
+ 
+specific price
+in this range here you can pick.
+in this range here you can pick.
+ 
+in this range here you can pick.
+This is where the unique style for you
+This is where the unique style for you
+ 
+This is where the unique style for you
+comes in. If you get greedy,
+comes in. If you get greedy,
+ 
+comes in. If you get greedy,
+you may not get your fill.
+you may not get your fill.
+ 
+you may not get your fill.
+So, I'm teaching you the low threshold
+So, I'm teaching you the low threshold
+ 
+So, I'm teaching you the low threshold
+entry, but that always will give you the
+entry, but that always will give you the
+ 
+entry, but that always will give you the
+highest risk.
+highest risk.
+ 
+highest risk.
+But that higher risk in terms of number
+But that higher risk in terms of number
+ 
+But that higher risk in terms of number
+of pips, not in terms of the amount of
+of pips, not in terms of the amount of
+ 
+of pips, not in terms of the amount of
+money because that part is always
+money because that part is always
+ 
+money because that part is always
+controlled by you, the trader.
+controlled by you, the trader.
+ 
+controlled by you, the trader.
+You can manage the amount of leverage
+You can manage the amount of leverage
+ 
+You can manage the amount of leverage
+you're using, and it doesn't matter how
+you're using, and it doesn't matter how
+ 
+you're using, and it doesn't matter how
+many pips of risk you have, the amount
+many pips of risk you have, the amount
+ 
+many pips of risk you have, the amount
+of allocation in terms of the leverage
+of allocation in terms of the leverage
+ 
+of allocation in terms of the leverage
+that you're using in the trade, that's
+that you're using in the trade, that's
+ 
+that you're using in the trade, that's
+the most important thing. And that's the
+the most important thing. And that's the
+ 
+the most important thing. And that's the
+most important thing that gets abused
+most important thing that gets abused
+ 
+most important thing that gets abused
+most of the time by traders. Because
+most of the time by traders. Because
+ 
+most of the time by traders. Because
+every time a trader gets in the
+every time a trader gets in the
+ 
+every time a trader gets in the
+marketplace,
+marketplace,
+ 
+marketplace,
+their expectations are, "How can I make
+their expectations are, "How can I make
+ 
+their expectations are, "How can I make
+the most?" And they don't necessarily
+the most?" And they don't necessarily
+ 
+the most?" And they don't necessarily
+think about the other side of that sword
+think about the other side of that sword
+ 
+think about the other side of that sword
+because
+because
+ 
+because
+if the edge you're trying to chop with,
+if the edge you're trying to chop with,
+ 
+if the edge you're trying to chop with,
+okay, or swing,
+okay, or swing,
+ 
+okay, or swing,
+if it makes contact with what your
+if it makes contact with what your
+ 
+if it makes contact with what your
+target, then yes, you are profitable.
+target, then yes, you are profitable.
+ 
+target, then yes, you are profitable.
+But if it comes back and hits you in the
+But if it comes back and hits you in the
+ 
+But if it comes back and hits you in the
+head, okay, you're burying that axe
+head, okay, you're burying that axe
+ 
+head, okay, you're burying that axe
+right in your skull. So, that leverage
+right in your skull. So, that leverage
+ 
+right in your skull. So, that leverage
+is going to be
+is going to be
+ 
+is going to be
+counterproductive to you. It's going to
+counterproductive to you. It's going to
+ 
+counterproductive to you. It's going to
+hurt you at that point. It's not going
+hurt you at that point. It's not going
+ 
+hurt you at that point. It's not going
+to be beneficial to you. It's going to
+to be beneficial to you. It's going to
+ 
+to be beneficial to you. It's going to
+harm you. So,
+harm you. So,
+ 
+harm you. So,
+I'm teaching you the low threshold
+I'm teaching you the low threshold
+ 
+I'm teaching you the low threshold
+entry, but I'm also teaching you in
+entry, but I'm also teaching you in
+ 
+entry, but I'm also teaching you in
+addition to that, I'm showing you how to
+addition to that, I'm showing you how to
+ 
+addition to that, I'm showing you how to
+build an additional perspective that
+build an additional perspective that
+ 
+build an additional perspective that
+helps you find the better entries that
+helps you find the better entries that
+ 
+helps you find the better entries that
+allows you to shorten the number of pips
+allows you to shorten the number of pips
+ 
+allows you to shorten the number of pips
+or points if you're trading with the
+or points if you're trading with the
+ 
+or points if you're trading with the
+index futures. Okay? But long story
+index futures. Okay? But long story
+ 
+index futures. Okay? But long story
+short, this would be your range you can
+short, this would be your range you can
+ 
+short, this would be your range you can
+work within, and it trades up into that
+work within, and it trades up into that
+ 
+work within, and it trades up into that
+secondary fair value gap. Now, some of
+secondary fair value gap. Now, some of
+ 
+secondary fair value gap. Now, some of
+you might say, "Well, what happens if I
+you might say, "Well, what happens if I
+ 
+you might say, "Well, what happens if I
+put a limit up here?" Well, that would
+put a limit up here?" Well, that would
+ 
+put a limit up here?" Well, that would
+be obviously a stellar entry, but you
+be obviously a stellar entry, but you
+ 
+be obviously a stellar entry, but you
+don't necessarily need that. Okay? Uh
+don't necessarily need that. Okay? Uh
+ 
+don't necessarily need that. Okay? Uh
+why I like this one is because if you
+why I like this one is because if you
+ 
+why I like this one is because if you
+look at the 15-minute time frame,
+look at the 15-minute time frame,
+ 
+look at the 15-minute time frame,
+it was like this.
+it was like this.
+ 
+it was like this.
+That was the range. Okay? So, if we go
+That was the range. Okay? So, if we go
+ 
+That was the range. Okay? So, if we go
+up in that range to the upper end of it,
+up in that range to the upper end of it,
+ 
+up in that range to the upper end of it,
+look over here. What do we have? All
+look over here. What do we have? All
+ 
+look over here. What do we have? All
+three of these candles here.
+three of these candles here.
+ 
+three of these candles here.
+One, two, three.
+One, two, three.
+ 
+One, two, three.
+The order block begins with this
+The order block begins with this
+ 
+The order block begins with this
+candle's low.
+candle's low.
+ 
+candle's low.
+It's one, two, three candles making one
+It's one, two, three candles making one
+ 
+It's one, two, three candles making one
+consecutive
+consecutive
+ 
+consecutive
+bearish order block.
+bearish order block.
+ 
+bearish order block.
+Some of you
+Some of you
+ 
+Some of you
+are commenting in the section of the
+are commenting in the section of the
+ 
+are commenting in the section of the
+video saying,
+video saying,
+ 
+video saying,
+"I thought I understood order blocks.
+"I thought I understood order blocks.
+ 
+"I thought I understood order blocks.
+Now, I'm confused." Because you're
+Now, I'm confused." Because you're
+ 
+Now, I'm confused." Because you're
+hearing people parrot what I've said in
+hearing people parrot what I've said in
+ 
+hearing people parrot what I've said in
+certain circumstances,
+certain circumstances,
+ 
+certain circumstances,
+and they don't understand what an order
+and they don't understand what an order
+ 
+and they don't understand what an order
+block is. Okay?
+block is. Okay?
+ 
+block is. Okay?
+This is why
+This is why
+ 
+This is why
+I get upset when people try to teach
+I get upset when people try to teach
+ 
+I get upset when people try to teach
+what they heard me teach about one or
+what they heard me teach about one or
+ 
+what they heard me teach about one or
+two times, and the buzzword is what's
+two times, and the buzzword is what's
+ 
+two times, and the buzzword is what's
+being tossed around so that way people
+being tossed around so that way people
+ 
+being tossed around so that way people
+can sell their courses and get clicks on
+can sell their courses and get clicks on
+ 
+can sell their courses and get clicks on
+their videos.
+their videos.
+ 
+their videos.
+You have no idea
+You have no idea
+ 
+You have no idea
+learning about order blocks from anybody
+learning about order blocks from anybody
+ 
+learning about order blocks from anybody
+else on YouTube. I'm going to make it
+else on YouTube. I'm going to make it
+ 
+else on YouTube. I'm going to make it
+very plain and make a blanket statement
+very plain and make a blanket statement
+ 
+very plain and make a blanket statement
+right there. I'm not trying to hurt
+right there. I'm not trying to hurt
+ 
+right there. I'm not trying to hurt
+anybody's feelings cuz I know a lot of
+anybody's feelings cuz I know a lot of
+ 
+anybody's feelings cuz I know a lot of
+you out there that
+you out there that
+ 
+you out there that
+try to talk about order blocks,
+try to talk about order blocks,
+ 
+try to talk about order blocks,
+you have a lot of respect for me,
+you have a lot of respect for me,
+ 
+you have a lot of respect for me,
+but I'm trying to correct you because I
+but I'm trying to correct you because I
+ 
+but I'm trying to correct you because I
+know you have a large audience. Some of
+know you have a large audience. Some of
+ 
+know you have a large audience. Some of
+you have a very large audience, and
+you have a very large audience, and
+ 
+you have a very large audience, and
+you're doing things that are not
+you're doing things that are not
+ 
+you're doing things that are not
+accurate. Okay? So,
+accurate. Okay? So,
+ 
+accurate. Okay? So,
+I know you're watching my videos so that
+I know you're watching my videos so that
+ 
+I know you're watching my videos so that
+way you'll correct what you're doing so
+way you'll correct what you're doing so
+ 
+way you'll correct what you're doing so
+that way your viewers won't be harmed,
+that way your viewers won't be harmed,
+ 
+that way your viewers won't be harmed,
+or they won't use something that's done
+or they won't use something that's done
+ 
+or they won't use something that's done
+incorrectly and dubbed as my order
+incorrectly and dubbed as my order
+ 
+incorrectly and dubbed as my order
+block. And if they have
+block. And if they have
+ 
+block. And if they have
+hardship or difficulty doing it, it's
+hardship or difficulty doing it, it's
+ 
+hardship or difficulty doing it, it's
+not going to be attributed to the
+not going to be attributed to the
+ 
+not going to be attributed to the
+concepts being effective cuz they are
+concepts being effective cuz they are
+ 
+concepts being effective cuz they are
+effective. It's just
+effective. It's just
+ 
+effective. It's just
+they haven't been taught properly, okay?
+they haven't been taught properly, okay?
+ 
+they haven't been taught properly, okay?
+It's easy to talk about it in hindsight,
+It's easy to talk about it in hindsight,
+ 
+It's easy to talk about it in hindsight,
+but it's real hard to do it in real time
+but it's real hard to do it in real time
+ 
+but it's real hard to do it in real time
+unless you know what you're doing.
+unless you know what you're doing.
+ 
+unless you know what you're doing.
+So, the logic is we we ran up into this
+So, the logic is we we ran up into this
+ 
+So, the logic is we we ran up into this
+daily fair value gap. That's what this
+daily fair value gap. That's what this
+ 
+daily fair value gap. That's what this
+level was up here. This red line was
+level was up here. This red line was
+ 
+level was up here. This red line was
+this relative equal highs on the hourly
+this relative equal highs on the hourly
+ 
+this relative equal highs on the hourly
+chart, remember that?
+chart, remember that?
+ 
+chart, remember that?
+And you're going to probably going to
+And you're going to probably going to
+ 
+And you're going to probably going to
+need to watch this video a few times cuz
+need to watch this video a few times cuz
+ 
+need to watch this video a few times cuz
+I've gone through a lot already.
+I've gone through a lot already.
+ 
+I've gone through a lot already.
+But, I'm breaking down the market.
+But, I'm breaking down the market.
+ 
+But, I'm breaking down the market.
+And this run here is the run into that
+And this run here is the run into that
+ 
+And this run here is the run into that
+imbalance and above the relative equal
+imbalance and above the relative equal
+ 
+imbalance and above the relative equal
+highs. So, this is the
+highs. So, this is the
+ 
+highs. So, this is the
+bearish order block. It's the
+bearish order block. It's the
+ 
+bearish order block. It's the
+consecutive run on this time frame, the
+consecutive run on this time frame, the
+ 
+consecutive run on this time frame, the
+5-minute chart.
+5-minute chart.
+ 
+5-minute chart.
+It does not need to get up into this
+It does not need to get up into this
+ 
+It does not need to get up into this
+last up close candle down close cuz
+last up close candle down close cuz
+ 
+last up close candle down close cuz
+that's what everybody says an order
+that's what everybody says an order
+ 
+that's what everybody says an order
+block is. It is not that.
+block is. It is not that.
+ 
+block is. It is not that.
+Notice it doesn't even get up to that,
+Notice it doesn't even get up to that,
+ 
+Notice it doesn't even get up to that,
+does it?
+does it?
+ 
+does it?
+Why?
+Why?
+ 
+Why?
+Because what I'm showing you here, what
+Because what I'm showing you here, what
+ 
+Because what I'm showing you here, what
+makes an order block
+makes an order block
+ 
+makes an order block
+valid?
+valid?
+ 
+valid?
+It has to have an imbalance.
+It has to have an imbalance.
+ 
+It has to have an imbalance.
+Without the imbalance,
+Without the imbalance,
+ 
+Without the imbalance,
+there is no order block.
+there is no order block.
+ 
+there is no order block.
+That's why it's not supply and demand,
+That's why it's not supply and demand,
+ 
+That's why it's not supply and demand,
+okay? There's specific rules. I'm going
+okay? There's specific rules. I'm going
+ 
+okay? There's specific rules. I'm going
+to cut through candles, supply and
+to cut through candles, supply and
+ 
+to cut through candles, supply and
+demand requires fresh zones, okay?
+demand requires fresh zones, okay?
+ 
+demand requires fresh zones, okay?
+That's nonsense. I have no
+That's nonsense. I have no
+ 
+That's nonsense. I have no
+affinity for anything like that. I'll
+affinity for anything like that. I'll
+ 
+affinity for anything like that. I'll
+cut through fractals and go through and
+cut through fractals and go through and
+ 
+cut through fractals and go through and
+find something over here
+find something over here
+ 
+find something over here
+and still trade on it.
+and still trade on it.
+ 
+and still trade on it.
+So, it violates the supply and demand
+So, it violates the supply and demand
+ 
+So, it violates the supply and demand
+theory right there. So, I that's the
+theory right there. So, I that's the
+ 
+theory right there. So, I that's the
+distinction and why I laugh at people
+distinction and why I laugh at people
+ 
+distinction and why I laugh at people
+that say, "Oh, he's teaching really
+that say, "Oh, he's teaching really
+ 
+that say, "Oh, he's teaching really
+nothing new." I'm really teaching you
+nothing new." I'm really teaching you
+ 
+nothing new." I'm really teaching you
+something that no one's talking about
+something that no one's talking about
+ 
+something that no one's talking about
+unless I talk about it first. They're
+unless I talk about it first. They're
+ 
+unless I talk about it first. They're
+saying what I said.
+saying what I said.
+ 
+saying what I said.
+And not to sound egotistical, I'm not
+And not to sound egotistical, I'm not
+ 
+And not to sound egotistical, I'm not
+trying to be egotistical, but I I want
+trying to be egotistical, but I I want
+ 
+trying to be egotistical, but I I want
+you to learn it correctly, folks, okay?
+you to learn it correctly, folks, okay?
+ 
+you to learn it correctly, folks, okay?
+I only want to see you do it the right
+I only want to see you do it the right
+ 
+I only want to see you do it the right
+way because if you do it the right way,
+way because if you do it the right way,
+ 
+way because if you do it the right way,
+you will find the results you're looking
+you will find the results you're looking
+ 
+you will find the results you're looking
+for. If you don't want to do what I'm
+for. If you don't want to do what I'm
+ 
+for. If you don't want to do what I'm
+teaching, you're not going to be
+teaching, you're not going to be
+ 
+teaching, you're not going to be
+consistent, you're not going to find
+consistent, you're not going to find
+ 
+consistent, you're not going to find
+longevity, and you're going to get
+longevity, and you're going to get
+ 
+longevity, and you're going to get
+frustrated, and you're going to think
+frustrated, and you're going to think
+ 
+frustrated, and you're going to think
+that this stuff doesn't work because you
+that this stuff doesn't work because you
+ 
+that this stuff doesn't work because you
+didn't learn it properly from the person
+didn't learn it properly from the person
+ 
+didn't learn it properly from the person
+that created it.
+that created it.
+ 
+that created it.
+The order block is all three consecutive
+The order block is all three consecutive
+ 
+The order block is all three consecutive
+candles. The reason why this last up
+candles. The reason why this last up
+ 
+candles. The reason why this last up
+close candle is not even traded to is
+close candle is not even traded to is
+ 
+close candle is not even traded to is
+because the higher time frame parent
+because the higher time frame parent
+ 
+because the higher time frame parent
+imbalance, that 15-minute time frame
+imbalance, that 15-minute time frame
+ 
+imbalance, that 15-minute time frame
+which is being shown here,
+which is being shown here,
+ 
+which is being shown here,
+that range of that low and that candle's
+that range of that low and that candle's
+ 
+that range of that low and that candle's
+high here,
+high here,
+ 
+high here,
+it stops there.
+it stops there.
+ 
+it stops there.
+So, there's no necessity for it to trade
+So, there's no necessity for it to trade
+ 
+So, there's no necessity for it to trade
+up into that last candle.
+up into that last candle.
+ 
+up into that last candle.
+So, if it trades up into
+So, if it trades up into
+ 
+So, if it trades up into
+this candle here, the bottom one,
+this candle here, the bottom one,
+ 
+this candle here, the bottom one,
+the last one of the three going up,
+the last one of the three going up,
+ 
+the last one of the three going up,
+that's enough for me and take it over
+that's enough for me and take it over
+ 
+that's enough for me and take it over
+here, and then we have this imbalance.
+here, and then we have this imbalance.
+ 
+here, and then we have this imbalance.
+So, in my mind,
+So, in my mind,
+ 
+So, in my mind,
+this imbalance is sufficient.
+this imbalance is sufficient.
+ 
+this imbalance is sufficient.
+We don't need this one,
+We don't need this one,
+ 
+We don't need this one,
+and you wouldn't expect that last up
+and you wouldn't expect that last up
+ 
+and you wouldn't expect that last up
+close candle to be traded to.
+close candle to be traded to.
+ 
+close candle to be traded to.
+So,
+So,
+ 
+So,
+this is the ideal scenario that I think
+this is the ideal scenario that I think
+ 
+this is the ideal scenario that I think
+the mentorship on YouTube should be
+the mentorship on YouTube should be
+ 
+the mentorship on YouTube should be
+looking for. Now, as soon as you have
+looking for. Now, as soon as you have
+ 
+looking for. Now, as soon as you have
+this, this is when you settle in on.
+this, this is when you settle in on.
+ 
+this, this is when you settle in on.
+What are you met with?
+What are you met with?
+ 
+What are you met with?
+Another little fair value gap right
+Another little fair value gap right
+ 
+Another little fair value gap right
+above it. So, what were the rules that I
+above it. So, what were the rules that I
+ 
+above it. So, what were the rules that I
+gave you when it has that in the chart?
+gave you when it has that in the chart?
+ 
+gave you when it has that in the chart?
+Think. It is going to be a likelihood
+Think. It is going to be a likelihood
+ 
+Think. It is going to be a likelihood
+that it could trade up in there, but
+that it could trade up in there, but
+ 
+that it could trade up in there, but
+your limit order to enter is down in
+your limit order to enter is down in
+ 
+your limit order to enter is down in
+here because it might not get up here.
+here because it might not get up here.
+ 
+here because it might not get up here.
+What am I trying to do? I'm trying to
+What am I trying to do? I'm trying to
+ 
+What am I trying to do? I'm trying to
+teach you how to avoid missing trades
+teach you how to avoid missing trades
+ 
+teach you how to avoid missing trades
+because a lot of you going to want to
+because a lot of you going to want to
+ 
+because a lot of you going to want to
+put an order up in here, and yes, it
+put an order up in here, and yes, it
+ 
+put an order up in here, and yes, it
+would have been filled on this instance,
+would have been filled on this instance,
+ 
+would have been filled on this instance,
+but many times you're going to have an
+but many times you're going to have an
+ 
+but many times you're going to have an
+order placed at a really overzealous
+order placed at a really overzealous
+ 
+order placed at a really overzealous
+price point that would if you nail it,
+price point that would if you nail it,
+ 
+price point that would if you nail it,
+it's beautiful,
+it's beautiful,
+ 
+it's beautiful,
+but they don't happen a lot. It's
+but they don't happen a lot. It's
+ 
+but they don't happen a lot. It's
+fleeting. It happens once in a while.
+fleeting. It happens once in a while.
+ 
+fleeting. It happens once in a while.
+So, I'm trying to give you something
+So, I'm trying to give you something
+ 
+So, I'm trying to give you something
+that it allows you to operate
+that it allows you to operate
+ 
+that it allows you to operate
+consistently, gives you lots of setups
+consistently, gives you lots of setups
+ 
+consistently, gives you lots of setups
+that allow you to practice, also back
+that allow you to practice, also back
+ 
+that allow you to practice, also back
+test like I'm showing you here. This is
+test like I'm showing you here. This is
+ 
+test like I'm showing you here. This is
+how you back test cuz this is already
+how you back test cuz this is already
+ 
+how you back test cuz this is already
+happened.
+happened.
+ 
+happened.
+But, these are all the things that I'm
+But, these are all the things that I'm
+ 
+But, these are all the things that I'm
+teaching you in this mentorship, and I
+teaching you in this mentorship, and I
+ 
+teaching you in this mentorship, and I
+talked about this level here in my own
+talked about this level here in my own
+ 
+talked about this level here in my own
+private group beforehand. And you also
+private group beforehand. And you also
+ 
+private group beforehand. And you also
+knew about the bias being bearish on
+knew about the bias being bearish on
+ 
+knew about the bias being bearish on
+this pair from Tuesday's trading
+this pair from Tuesday's trading
+ 
+this pair from Tuesday's trading
+or Tuesday's episode in this mentorship
+or Tuesday's episode in this mentorship
+ 
+or Tuesday's episode in this mentorship
+on the YouTube channel, okay?
+on the YouTube channel, okay?
+ 
+on the YouTube channel, okay?
+So, we have a break in
+So, we have a break in
+ 
+So, we have a break in
+this low here.
+this low here.
+ 
+this low here.
+So, there's an internal shift in market
+So, there's an internal shift in market
+ 
+So, there's an internal shift in market
+structure. It's bearish. We have the
+structure. It's bearish. We have the
+ 
+structure. It's bearish. We have the
+imbalance here that's been refined down
+imbalance here that's been refined down
+ 
+imbalance here that's been refined down
+into the 5-minute chart in concert with
+into the 5-minute chart in concert with
+ 
+into the 5-minute chart in concert with
+the bearish order block, the lowest down
+the bearish order block, the lowest down
+ 
+the bearish order block, the lowest down
+close candle. We've talked about why
+close candle. We've talked about why
+ 
+close candle. We've talked about why
+we're not looking at the last up close
+we're not looking at the last up close
+ 
+we're not looking at the last up close
+candle before the down move. So, we're
+candle before the down move. So, we're
+ 
+candle before the down move. So, we're
+canceling all that misconception.
+canceling all that misconception.
+ 
+canceling all that misconception.
+And it runs up into the level with the
+And it runs up into the level with the
+ 
+And it runs up into the level with the
+rule I gave you, if we settle in on a
+rule I gave you, if we settle in on a
+ 
+rule I gave you, if we settle in on a
+fair value gap and it has a small one
+fair value gap and it has a small one
+ 
+fair value gap and it has a small one
+above it, expect that it might trade up
+above it, expect that it might trade up
+ 
+above it, expect that it might trade up
+there, so your risk has to incorporate
+there, so your risk has to incorporate
+ 
+there, so your risk has to incorporate
+that.
+that.
+ 
+that.
+So, that's the reason why I'm telling
+So, that's the reason why I'm telling
+ 
+So, that's the reason why I'm telling
+you your stop loss could be here.
+ 
+ 
+ 
+Yes, it might be a little bit too rich
+Yes, it might be a little bit too rich
+ 
+Yes, it might be a little bit too rich
+for some of you because you want to
+for some of you because you want to
+ 
+for some of you because you want to
+trade with one pip stop loss, a half a
+trade with one pip stop loss, a half a
+ 
+trade with one pip stop loss, a half a
+pip stop loss.
+pip stop loss.
+ 
+pip stop loss.
+There's a lot of guys out there trying
+There's a lot of guys out there trying
+ 
+There's a lot of guys out there trying
+to do ultra ultra short-term stuff. You
+to do ultra ultra short-term stuff. You
+ 
+to do ultra ultra short-term stuff. You
+might be able to pull it off once in a
+might be able to pull it off once in a
+ 
+might be able to pull it off once in a
+while, maybe, you know, a series of
+while, maybe, you know, a series of
+ 
+while, maybe, you know, a series of
+trades,
+trades,
+ 
+trades,
+but I promise you, when you start
+but I promise you, when you start
+ 
+but I promise you, when you start
+putting down size on these trades,
+putting down size on these trades,
+ 
+putting down size on these trades,
+you're not going to be able to pull that
+you're not going to be able to pull that
+ 
+you're not going to be able to pull that
+off, okay? It just isn't going to
+off, okay? It just isn't going to
+ 
+off, okay? It just isn't going to
+happen. So, don't get used to trying to
+happen. So, don't get used to trying to
+ 
+happen. So, don't get used to trying to
+do it, okay?
+do it, okay?
+ 
+do it, okay?
+Plus, it's easy to do other things. You
+Plus, it's easy to do other things. You
+ 
+Plus, it's easy to do other things. You
+can walk away from the charts and not be
+can walk away from the charts and not be
+ 
+can walk away from the charts and not be
+chained to it cuz if you have a small
+chained to it cuz if you have a small
+ 
+chained to it cuz if you have a small
+ultra short stop,
+ultra short stop,
+ 
+ultra short stop,
+I don't care how good you are,
+I don't care how good you are,
+ 
+I don't care how good you are,
+you're going to sweat it. You're going
+you're going to sweat it. You're going
+ 
+you're going to sweat it. You're going
+to be expecting you're going to get
+to be expecting you're going to get
+ 
+to be expecting you're going to get
+stopped out. What happens if it stops me
+stopped out. What happens if it stops me
+ 
+stopped out. What happens if it stops me
+out?
+out?
+ 
+out?
+I'm not worrying about getting stopped
+I'm not worrying about getting stopped
+ 
+I'm not worrying about getting stopped
+out. I'm not worried about if the market
+out. I'm not worried about if the market
+ 
+out. I'm not worried about if the market
+moves to my stop. I'm more interested in
+moves to my stop. I'm more interested in
+ 
+moves to my stop. I'm more interested in
+the market moving where I think it's
+the market moving where I think it's
+ 
+the market moving where I think it's
+going to go. Where is that? That's this
+going to go. Where is that? That's this
+ 
+going to go. Where is that? That's this
+level down here. That's the 6th of
+level down here. That's the 6th of
+ 
+level down here. That's the 6th of
+April's low.
+April's low.
+ 
+April's low.
+Okay? Yeah, we went lower than that
+Okay? Yeah, we went lower than that
+ 
+Okay? Yeah, we went lower than that
+already here. Let me get this thing out
+already here. Let me get this thing out
+ 
+already here. Let me get this thing out
+of your way.
+of your way.
+ 
+of your way.
+If you take this and move it out of the
+If you take this and move it out of the
+ 
+If you take this and move it out of the
+way here, we have the an early run at
+way here, we have the an early run at
+ 
+way here, we have the an early run at
+5:00 or so in the morning. It made that
+5:00 or so in the morning. It made that
+ 
+5:00 or so in the morning. It made that
+at 5:25 New York local time in the
+at 5:25 New York local time in the
+ 
+at 5:25 New York local time in the
+morning. It swept the previous day's
+morning. It swept the previous day's
+ 
+morning. It swept the previous day's
+low. So, the 6th of April was swept.
+low. So, the 6th of April was swept.
+ 
+low. So, the 6th of April was swept.
+Then we rallied up, and we hit the level
+Then we rallied up, and we hit the level
+ 
+Then we rallied up, and we hit the level
+that what? Our bias
+that what? Our bias
+ 
+that what? Our bias
+called for. In other words, I'm looking
+called for. In other words, I'm looking
+ 
+called for. In other words, I'm looking
+for this level to be traded to before I
+for this level to be traded to before I
+ 
+for this level to be traded to before I
+go short. So, I'm not taking anything in
+go short. So, I'm not taking anything in
+ 
+go short. So, I'm not taking anything in
+London. I'm not worried about anything
+London. I'm not worried about anything
+ 
+London. I'm not worried about anything
+in London because London didn't give me
+in London because London didn't give me
+ 
+in London because London didn't give me
+the initial rally higher into this area.
+the initial rally higher into this area.
+ 
+the initial rally higher into this area.
+When does it go up here?
+When does it go up here?
+ 
+When does it go up here?
+It's going up there at 9:30 in the
+It's going up there at 9:30 in the
+ 
+It's going up there at 9:30 in the
+morning New York local time.
+morning New York local time.
+ 
+morning New York local time.
+So, it hits that level. It's at a really
+So, it hits that level. It's at a really
+ 
+So, it hits that level. It's at a really
+rich premium,
+rich premium,
+ 
+rich premium,
+and I know my discount level I'm looking
+and I know my discount level I'm looking
+ 
+and I know my discount level I'm looking
+for for targeting. So, here's the
+for for targeting. So, here's the
+ 
+for for targeting. So, here's the
+framework, the setup. We have our market
+framework, the setup. We have our market
+ 
+framework, the setup. We have our market
+structure shift. We have
+structure shift. We have
+ 
+structure shift. We have
+disqualified all these upper
+disqualified all these upper
+ 
+disqualified all these upper
+candles here. The lower candle, that's
+candles here. The lower candle, that's
+ 
+candles here. The lower candle, that's
+where you're going to aim for.
+where you're going to aim for.
+ 
+where you're going to aim for.
+What's the order block that you trade
+What's the order block that you trade
+ 
+What's the order block that you trade
+for, Michael? What's the one you What's
+for, Michael? What's the one you What's
+ 
+for, Michael? What's the one you What's
+the right order block? How do I pick the
+the right order block? How do I pick the
+ 
+the right order block? How do I pick the
+right order block? I just answered it.
+ 
+ 
+ 
+What is an order block? It's a change in
+What is an order block? It's a change in
+ 
+What is an order block? It's a change in
+the state of delivery.
+the state of delivery.
+ 
+the state of delivery.
+The algorithm changes its state of
+The algorithm changes its state of
+ 
+The algorithm changes its state of
+delivery. As soon as we get below
+delivery. As soon as we get below
+ 
+delivery. As soon as we get below
+this candle's open,
+this candle's open,
+ 
+this candle's open,
+the market starts delivering sell side.
+the market starts delivering sell side.
+ 
+the market starts delivering sell side.
+And then it breaks this swing low. So,
+And then it breaks this swing low. So,
+ 
+And then it breaks this swing low. So,
+now we have changed gears internally.
+now we have changed gears internally.
+ 
+now we have changed gears internally.
+Any rally after that is just setting up
+Any rally after that is just setting up
+ 
+Any rally after that is just setting up
+for another run to go lower. So, in
+for another run to go lower. So, in
+ 
+for another run to go lower. So, in
+other words, this is a suspect rally.
+other words, this is a suspect rally.
+ 
+other words, this is a suspect rally.
+Okay? So, this is an intermediate term
+Okay? So, this is an intermediate term
+ 
+Okay? So, this is an intermediate term
+high,
+high,
+ 
+high,
+swing high because it has the imbalance.
+swing high because it has the imbalance.
+ 
+swing high because it has the imbalance.
+It should not trade higher than a high.
+It should not trade higher than a high.
+ 
+It should not trade higher than a high.
+That's the reason why I'm telling you
+That's the reason why I'm telling you
+ 
+That's the reason why I'm telling you
+you can put your stop loss there.
+you can put your stop loss there.
+ 
+you can put your stop loss there.
+See how the rules are coming together?
+See how the rules are coming together?
+ 
+See how the rules are coming together?
+I'm not complicating it. I'm literally
+I'm not complicating it. I'm literally
+ 
+I'm not complicating it. I'm literally
+telling you everything I've taught, and
+telling you everything I've taught, and
+ 
+telling you everything I've taught, and
+I'm putting it into the chart.
+I'm putting it into the chart.
+ 
+I'm putting it into the chart.
+Everything was said before it happened.
+Everything was said before it happened.
+ 
+Everything was said before it happened.
+And here it is. It's the framework. It's
+And here it is. It's the framework. It's
+ 
+And here it is. It's the framework. It's
+the logic, and I'm teaching you with
+the logic, and I'm teaching you with
+ 
+the logic, and I'm teaching you with
+great detail that you otherwise would
+great detail that you otherwise would
+ 
+great detail that you otherwise would
+have never learned. So, I'm taking you
+have never learned. So, I'm taking you
+ 
+have never learned. So, I'm taking you
+in over top of the chart, giving you the
+in over top of the chart, giving you the
+ 
+in over top of the chart, giving you the
+framework, and giving you the logic. I'm
+framework, and giving you the logic. I'm
+ 
+framework, and giving you the logic. I'm
+giving you the what if this, what if
+giving you the what if this, what if
+ 
+giving you the what if this, what if
+that
+ 
+ 
+ 
+to see a trade to because of different
+to see a trade to because of different
+ 
+to see a trade to because of different
+YouTube channels or other people trying
+YouTube channels or other people trying
+ 
+YouTube channels or other people trying
+to teach my stuff, and they don't know
+to teach my stuff, and they don't know
+ 
+to teach my stuff, and they don't know
+what they're talking about, okay? They
+what they're talking about, okay? They
+ 
+what they're talking about, okay? They
+have They have no idea what they're
+have They have no idea what they're
+ 
+have They have no idea what they're
+doing.
+doing.
+ 
+doing.
+This setup here gives us a nice
+This setup here gives us a nice
+ 
+This setup here gives us a nice
+opportunity to get short. So, you could
+opportunity to get short. So, you could
+ 
+opportunity to get short. So, you could
+be a seller here on a limit entry. So,
+be a seller here on a limit entry. So,
+ 
+be a seller here on a limit entry. So,
+you place your limit order here, and you
+you place your limit order here, and you
+ 
+you place your limit order here, and you
+just walk away from it. You let it go.
+just walk away from it. You let it go.
+ 
+just walk away from it. You let it go.
+Now, what happens if it doesn't fill you
+Now, what happens if it doesn't fill you
+ 
+Now, what happens if it doesn't fill you
+by 11:30? Pull the order.
+by 11:30? Pull the order.
+ 
+by 11:30? Pull the order.
+It's it. Don't put it you know, good
+It's it. Don't put it you know, good
+ 
+It's it. Don't put it you know, good
+till cancel. Just pull it because you
+till cancel. Just pull it because you
+ 
+till cancel. Just pull it because you
+want to be entering on the day that it
+want to be entering on the day that it
+ 
+want to be entering on the day that it
+creates this because relative equal
+creates this because relative equal
+ 
+creates this because relative equal
+highs, if it doesn't drop off,
+highs, if it doesn't drop off,
+ 
+highs, if it doesn't drop off,
+it could come up in there at a time of
+it could come up in there at a time of
+ 
+it could come up in there at a time of
+day where you won't really want to be
+day where you won't really want to be
+ 
+day where you won't really want to be
+there, and it could fill you,
+there, and it could fill you,
+ 
+there, and it could fill you,
+and then keep on running and take out
+and then keep on running and take out
+ 
+and then keep on running and take out
+the relative equal highs at a deeper
+the relative equal highs at a deeper
+ 
+the relative equal highs at a deeper
+past, and then stop you out. So, it's
+past, and then stop you out. So, it's
+ 
+past, and then stop you out. So, it's
+important to know why the kill zones are
+important to know why the kill zones are
+ 
+important to know why the kill zones are
+there. Kill zones are when you determine
+there. Kill zones are when you determine
+ 
+there. Kill zones are when you determine
+your entry, and you place your orders,
+your entry, and you place your orders,
+ 
+your entry, and you place your orders,
+and you walk away.
+and you walk away.
+ 
+and you walk away.
+You don't need to have your entry filled
+You don't need to have your entry filled
+ 
+You don't need to have your entry filled
+inside that kill zone window.
+inside that kill zone window.
+ 
+inside that kill zone window.
+Your order idea and your order placement
+Your order idea and your order placement
+ 
+Your order idea and your order placement
+need to be considered at that time. If
+need to be considered at that time. If
+ 
+need to be considered at that time. If
+you can't derive a order placement for
+you can't derive a order placement for
+ 
+you can't derive a order placement for
+setup
+setup
+ 
+setup
+or trade entry by that time, you have
+or trade entry by that time, you have
+ 
+or trade entry by that time, you have
+nothing to do. And that's it. You've
+nothing to do. And that's it. You've
+ 
+nothing to do. And that's it. You've
+You've basically taken no risk on, and
+You've basically taken no risk on, and
+ 
+You've basically taken no risk on, and
+you have to wait till the next trading
+you have to wait till the next trading
+ 
+you have to wait till the next trading
+opportunity or trading day.
+opportunity or trading day.
+ 
+opportunity or trading day.
+And then the market obviously starts to
+And then the market obviously starts to
+ 
+And then the market obviously starts to
+break lower,
+break lower,
+ 
+break lower,
+and then
+ 
+ 
+ 
+trades to it here at
+trades to it here at
+ 
+trades to it here at
+2:45.
+2:45.
+ 
+2:45.
+So, at 2:45, it fills it, and that's the
+So, at 2:45, it fills it, and that's the
+ 
+So, at 2:45, it fills it, and that's the
+end of that. So,
+end of that. So,
+ 
+end of that. So,
+not bad. It's 10 20 30 40 pips.
+not bad. It's 10 20 30 40 pips.
+ 
+not bad. It's 10 20 30 40 pips.
+So, there you go. 40 pips.
+So, there you go. 40 pips.
+ 
+So, there you go. 40 pips.
+You don't get the very highest high
+You don't get the very highest high
+ 
+You don't get the very highest high
+and it ultimately goes a little bit
+and it ultimately goes a little bit
+ 
+and it ultimately goes a little bit
+lower. Who cares?
+lower. Who cares?
+ 
+lower. Who cares?
+You've You've structured a trade that
+You've You've structured a trade that
+ 
+You've You've structured a trade that
+makes sense
+makes sense
+ 
+makes sense
+and
+and
+ 
+and
+it's just a really nice run up in there.
+it's just a really nice run up in there.
+ 
+it's just a really nice run up in there.
+And everything is delivered on the basis
+And everything is delivered on the basis
+ 
+And everything is delivered on the basis
+of the logic and the elements I'm
+of the logic and the elements I'm
+ 
+of the logic and the elements I'm
+teaching you in this YouTube channel.
+teaching you in this YouTube channel.
+ 
+teaching you in this YouTube channel.
+And you can't argue with it. It's
+And you can't argue with it. It's
+ 
+And you can't argue with it. It's
+it's obvious. It's so plain to see how
+it's obvious. It's so plain to see how
+ 
+it's obvious. It's so plain to see how
+these markets are being delivered.
+these markets are being delivered.
+ 
+these markets are being delivered.
+And if you're one that likes to argue
+And if you're one that likes to argue
+ 
+And if you're one that likes to argue
+and say there isn't an algorithm or if
+and say there isn't an algorithm or if
+ 
+and say there isn't an algorithm or if
+you say that these concepts don't work
+you say that these concepts don't work
+ 
+you say that these concepts don't work
+and all that stuff, it's because you
+and all that stuff, it's because you
+ 
+and all that stuff, it's because you
+want some excuse why you can't do it
+want some excuse why you can't do it
+ 
+want some excuse why you can't do it
+yourself.
+yourself.
+ 
+yourself.
+And I don't want any of you to feel that
+And I don't want any of you to feel that
+ 
+And I don't want any of you to feel that
+way. Okay? I don't get a high or
+way. Okay? I don't get a high or
+ 
+way. Okay? I don't get a high or
+you know, get my rocks off because
+you know, get my rocks off because
+ 
+you know, get my rocks off because
+people stumble and not do well with this
+people stumble and not do well with this
+ 
+people stumble and not do well with this
+because I know why they're not doing
+because I know why they're not doing
+ 
+because I know why they're not doing
+well.
+well.
+ 
+well.
+You're not doing the work that's
+You're not doing the work that's
+ 
+You're not doing the work that's
+required. That means going through your
+required. That means going through your
+ 
+required. That means going through your
+charts and doing what I just did here
+charts and doing what I just did here
+ 
+charts and doing what I just did here
+every single day.
+every single day.
+ 
+every single day.
+And being passionate about it. Looking
+And being passionate about it. Looking
+ 
+And being passionate about it. Looking
+at what it is that has been shown in
+at what it is that has been shown in
+ 
+at what it is that has been shown in
+price action. What is it doing? What is
+price action. What is it doing? What is
+ 
+price action. What is it doing? What is
+it not doing?
+it not doing?
+ 
+it not doing?
+The things I taught you in this lesson
+The things I taught you in this lesson
+ 
+The things I taught you in this lesson
+tonight is
+tonight is
+ 
+tonight is
+in my mind, it's
+in my mind, it's
+ 
+in my mind, it's
+charter level teaching.
+charter level teaching.
+ 
+charter level teaching.
+It literally is something that I would
+It literally is something that I would
+ 
+It literally is something that I would
+generally reserve for charter members
+generally reserve for charter members
+ 
+generally reserve for charter members
+only. That means the people that have
+only. That means the people that have
+ 
+only. That means the people that have
+been with me for a year or more and
+been with me for a year or more and
+ 
+been with me for a year or more and
+they're under my tutelage in my private
+they're under my tutelage in my private
+ 
+they're under my tutelage in my private
+community. So, this is a lesson that
+community. So, this is a lesson that
+ 
+community. So, this is a lesson that
+literally
+literally
+ 
+literally
+would come from that type of
+would come from that type of
+ 
+would come from that type of
+student level.
+student level.
+ 
+student level.
+But I'm applying it to what you're
+But I'm applying it to what you're
+ 
+But I'm applying it to what you're
+learning with this model.
+learning with this model.
+ 
+learning with this model.
+It's applicable to forex. It's
+It's applicable to forex. It's
+ 
+It's applicable to forex. It's
+applicable to
+applicable to
+ 
+applicable to
+bonds. It's applicable to gold. It's
+bonds. It's applicable to gold. It's
+ 
+bonds. It's applicable to gold. It's
+applicable Let me Let me put this cuz I
+applicable Let me Let me put this cuz I
+ 
+applicable Let me Let me put this cuz I
+see a lot of people also saying, "Can
+see a lot of people also saying, "Can
+ 
+see a lot of people also saying, "Can
+you show it in gold?"
+you show it in gold?"
+ 
+you show it in gold?"
+Gold is one of those markets that is an
+Gold is one of those markets that is an
+ 
+Gold is one of those markets that is an
+event-driven market.
+event-driven market.
+ 
+event-driven market.
+Okay? And what that means is it usually
+Okay? And what that means is it usually
+ 
+Okay? And what that means is it usually
+requires some kind of
+requires some kind of
+ 
+requires some kind of
+geopolitical or
+geopolitical or
+ 
+geopolitical or
+something crazy causing it to move.
+something crazy causing it to move.
+ 
+something crazy causing it to move.
+Otherwise, it's highly manipulated.
+Otherwise, it's highly manipulated.
+ 
+Otherwise, it's highly manipulated.
+There's a lot of stop hunts and then
+There's a lot of stop hunts and then
+ 
+There's a lot of stop hunts and then
+consolidations. It's very frustrating.
+consolidations. It's very frustrating.
+ 
+consolidations. It's very frustrating.
+Okay? It's It's not a It's not a market
+Okay? It's It's not a It's not a market
+ 
+Okay? It's It's not a It's not a market
+I believe that someone should be
+I believe that someone should be
+ 
+I believe that someone should be
+aggressively short-term trading. I don't
+aggressively short-term trading. I don't
+ 
+aggressively short-term trading. I don't
+think that's the ideal market. There's
+think that's the ideal market. There's
+ 
+think that's the ideal market. There's
+plenty other markets out there that you
+plenty other markets out there that you
+ 
+plenty other markets out there that you
+can do that with and have better
+can do that with and have better
+ 
+can do that with and have better
+you know, consistency and longevity.
+you know, consistency and longevity.
+ 
+you know, consistency and longevity.
+Now, am I saying there aren't people out
+Now, am I saying there aren't people out
+ 
+Now, am I saying there aren't people out
+there that are making money consistently
+there that are making money consistently
+ 
+there that are making money consistently
+in gold? No, I'm not saying that. I'm
+in gold? No, I'm not saying that. I'm
+ 
+in gold? No, I'm not saying that. I'm
+saying cuz I'm speaking to people with
+saying cuz I'm speaking to people with
+ 
+saying cuz I'm speaking to people with
+the expectation that you're just now
+the expectation that you're just now
+ 
+the expectation that you're just now
+learning how to do this. I'm aware that
+learning how to do this. I'm aware that
+ 
+learning how to do this. I'm aware that
+there's a lot of you that are
+there's a lot of you that are
+ 
+there's a lot of you that are
+veterans that that have been trading
+veterans that that have been trading
+ 
+veterans that that have been trading
+longer than the average person coming to
+longer than the average person coming to
+ 
+longer than the average person coming to
+my YouTube channel.
+my YouTube channel.
+ 
+my YouTube channel.
+But I have to speak in a language that
+But I have to speak in a language that
+ 
+But I have to speak in a language that
+is palatable for a new viewer.
+is palatable for a new viewer.
+ 
+is palatable for a new viewer.
+Otherwise, I'm going to speak to and
+Otherwise, I'm going to speak to and
+ 
+Otherwise, I'm going to speak to and
+this might be too lofty for a new viewer
+this might be too lofty for a new viewer
+ 
+this might be too lofty for a new viewer
+anyway, but it hopefully it will
+anyway, but it hopefully it will
+ 
+anyway, but it hopefully it will
+intrigue them to see that there's a
+intrigue them to see that there's a
+ 
+intrigue them to see that there's a
+rhyme and reason to everything I'm
+rhyme and reason to everything I'm
+ 
+rhyme and reason to everything I'm
+teaching and they repeat. It keeps
+teaching and they repeat. It keeps
+ 
+teaching and they repeat. It keeps
+happening every single day. These
+happening every single day. These
+ 
+happening every single day. These
+signatures repeat. So,
+signatures repeat. So,
+ 
+signatures repeat. So,
+the question's going to be is
+the question's going to be is
+ 
+the question's going to be is
+what are you going to do with this
+what are you going to do with this
+ 
+what are you going to do with this
+information? Are you going to just say,
+information? Are you going to just say,
+ 
+information? Are you going to just say,
+"Okay, well, this is great, but it's
+"Okay, well, this is great, but it's
+ 
+"Okay, well, this is great, but it's
+just too much work, so I'm going to look
+just too much work, so I'm going to look
+ 
+just too much work, so I'm going to look
+for something else that gives me a
+for something else that gives me a
+ 
+for something else that gives me a
+moving average crossover
+moving average crossover
+ 
+moving average crossover
+or some kind of a bell and whistle to
+or some kind of a bell and whistle to
+ 
+or some kind of a bell and whistle to
+put things on my chart to tell me what
+put things on my chart to tell me what
+ 
+put things on my chart to tell me what
+to do." And then you're basically
+to do." And then you're basically
+ 
+to do." And then you're basically
+creating a religious trading style
+creating a religious trading style
+ 
+creating a religious trading style
+because you're trusting something other
+because you're trusting something other
+ 
+because you're trusting something other
+than price. Because
+than price. Because
+ 
+than price. Because
+what have I shown you here?
+what have I shown you here?
+ 
+what have I shown you here?
+Just price.
+Just price.
+ 
+Just price.
+There's no indicators here. I'm only
+There's no indicators here. I'm only
+ 
+There's no indicators here. I'm only
+putting these areas in here with this
+putting these areas in here with this
+ 
+putting these areas in here with this
+rectangle to highlight an imbalance.
+rectangle to highlight an imbalance.
+ 
+rectangle to highlight an imbalance.
+I don't have these on my chart. In time,
+I don't have these on my chart. In time,
+ 
+I don't have these on my chart. In time,
+you won't either. But in the beginning
+you won't either. But in the beginning
+ 
+you won't either. But in the beginning
+while you're learning, it's important to
+while you're learning, it's important to
+ 
+while you're learning, it's important to
+annotate your charts that way when you
+annotate your charts that way when you
+ 
+annotate your charts that way when you
+log them in your study journal, that way
+log them in your study journal, that way
+ 
+log them in your study journal, that way
+at the end of the week you go back and
+at the end of the week you go back and
+ 
+at the end of the week you go back and
+look at all the intraday price action,
+look at all the intraday price action,
+ 
+look at all the intraday price action,
+then you look at how the weekly chart
+then you look at how the weekly chart
+ 
+then you look at how the weekly chart
+worked within that whole
+worked within that whole
+ 
+worked within that whole
+panoramic view
+panoramic view
+ 
+panoramic view
+of intraday daily price action. How did
+of intraday daily price action. How did
+ 
+of intraday daily price action. How did
+it all fit together? And by doing that,
+it all fit together? And by doing that,
+ 
+it all fit together? And by doing that,
+you're literally getting snapshots of
+you're literally getting snapshots of
+ 
+you're literally getting snapshots of
+every individual day,
+every individual day,
+ 
+every individual day,
+then the daily chart and the weekly
+then the daily chart and the weekly
+ 
+then the daily chart and the weekly
+chart and how it fulfilled its entire
+chart and how it fulfilled its entire
+ 
+chart and how it fulfilled its entire
+weekly range.
+weekly range.
+ 
+weekly range.
+When was the high formed? When was the
+When was the high formed? When was the
+ 
+When was the high formed? When was the
+low formed? What was the biggest day of
+low formed? What was the biggest day of
+ 
+low formed? What was the biggest day of
+the week? What was the framework around
+the week? What was the framework around
+ 
+the week? What was the framework around
+that biggest day of the week of
+that biggest day of the week of
+ 
+that biggest day of the week of
+movement? And then also break down
+movement? And then also break down
+ 
+movement? And then also break down
+obviously like we're showing you here
+obviously like we're showing you here
+ 
+obviously like we're showing you here
+where trade setups It doesn't make a
+where trade setups It doesn't make a
+ 
+where trade setups It doesn't make a
+difference if you didn't trade it.
+difference if you didn't trade it.
+ 
+difference if you didn't trade it.
+Everything anybody ever learns is always
+Everything anybody ever learns is always
+ 
+Everything anybody ever learns is always
+done by hindsight. You want to be a
+done by hindsight. You want to be a
+ 
+done by hindsight. You want to be a
+doctor, a surgeon? Guess what you're
+doctor, a surgeon? Guess what you're
+ 
+doctor, a surgeon? Guess what you're
+doing. You're working in hindsight.
+doing. You're working in hindsight.
+ 
+doing. You're working in hindsight.
+You're studying medical journals that
+You're studying medical journals that
+ 
+You're studying medical journals that
+about things that took place that you
+about things that took place that you
+ 
+about things that took place that you
+were not there. Okay? You're studying
+were not there. Okay? You're studying
+ 
+were not there. Okay? You're studying
+hindsight. Don't let these
+hindsight. Don't let these
+ 
+hindsight. Don't let these
+goobers out there try to discourage you
+goobers out there try to discourage you
+ 
+goobers out there try to discourage you
+from studying because I'm teaching you
+from studying because I'm teaching you
+ 
+from studying because I'm teaching you
+how you are going to get better at this.
+how you are going to get better at this.
+ 
+how you are going to get better at this.
+You do what I just showed you how to do
+You do what I just showed you how to do
+ 
+You do what I just showed you how to do
+right here. And you do it every single
+right here. And you do it every single
+ 
+right here. And you do it every single
+day. You're going to develop your own
+day. You're going to develop your own
+ 
+day. You're going to develop your own
+style of keeping notes in your charts.
+style of keeping notes in your charts.
+ 
+style of keeping notes in your charts.
+I'm not going to do that here because
+I'm not going to do that here because
+ 
+I'm not going to do that here because
+I don't want to make a
+I don't want to make a
+ 
+I don't want to make a
+an example and feel like you have to
+an example and feel like you have to
+ 
+an example and feel like you have to
+do exactly what I said. Okay?
+do exactly what I said. Okay?
+ 
+do exactly what I said. Okay?
+What do I mean by that?
+What do I mean by that?
+ 
+What do I mean by that?
+It's To me, it's fascinating to see
+It's To me, it's fascinating to see
+ 
+It's To me, it's fascinating to see
+people comment in the comment section of
+people comment in the comment section of
+ 
+people comment in the comment section of
+the videos or they'll send me an email
+the videos or they'll send me an email
+ 
+the videos or they'll send me an email
+or I'll listen to people that obviously
+or I'll listen to people that obviously
+ 
+or I'll listen to people that obviously
+are trained under me and they make
+are trained under me and they make
+ 
+are trained under me and they make
+videos on YouTube.
+videos on YouTube.
+ 
+videos on YouTube.
+I can hear my fingerprints or read my
+I can hear my fingerprints or read my
+ 
+I can hear my fingerprints or read my
+fingerprints in the way they talk.
+fingerprints in the way they talk.
+ 
+fingerprints in the way they talk.
+They'll say certain things
+They'll say certain things
+ 
+They'll say certain things
+um
+um
+ 
+um
+certain words, certain expressions. I
+certain words, certain expressions. I
+ 
+certain words, certain expressions. I
+can I can see my own fingerprints on
+can I can see my own fingerprints on
+ 
+can I can see my own fingerprints on
+them.
+them.
+ 
+them.
+This part
+This part
+ 
+This part
+I always leave empty and I do the same
+I always leave empty and I do the same
+ 
+I always leave empty and I do the same
+way of teaching even in my private group
+way of teaching even in my private group
+ 
+way of teaching even in my private group
+because I never show them annotations
+because I never show them annotations
+ 
+because I never show them annotations
+outside of the things I'm showing
+outside of the things I'm showing
+ 
+outside of the things I'm showing
+because over here, you might write an
+because over here, you might write an
+ 
+because over here, you might write an
+observation about something that you may
+observation about something that you may
+ 
+observation about something that you may
+want to further investigate
+want to further investigate
+ 
+want to further investigate
+that I might not even touch on in this
+that I might not even touch on in this
+ 
+that I might not even touch on in this
+discussion or lecture.
+discussion or lecture.
+ 
+discussion or lecture.
+But it's important to you. So, you use
+But it's important to you. So, you use
+ 
+But it's important to you. So, you use
+the space in your chart to write those
+the space in your chart to write those
+ 
+the space in your chart to write those
+things down. And then you come back to
+things down. And then you come back to
+ 
+things down. And then you come back to
+that chart on Saturday at the end of the
+that chart on Saturday at the end of the
+ 
+that chart on Saturday at the end of the
+week or Sunday if that's the day you're
+week or Sunday if that's the day you're
+ 
+week or Sunday if that's the day you're
+going to do it on.
+going to do it on.
+ 
+going to do it on.
+And you revisit the entire week and you
+And you revisit the entire week and you
+ 
+And you revisit the entire week and you
+walk through the entire week of how it
+walk through the entire week of how it
+ 
+walk through the entire week of how it
+delivered. How many pips did it move and
+delivered. How many pips did it move and
+ 
+delivered. How many pips did it move and
+how much risk would have been incurred
+how much risk would have been incurred
+ 
+how much risk would have been incurred
+on the trade.
+on the trade.
+ 
+on the trade.
+So, all those things work towards a
+So, all those things work towards a
+ 
+So, all those things work towards a
+model
+model
+ 
+model
+that you'll grow accustomed to trusting
+that you'll grow accustomed to trusting
+ 
+that you'll grow accustomed to trusting
+because you'll have back data
+because you'll have back data
+ 
+because you'll have back data
+and you'll have examples that you've
+and you'll have examples that you've
+ 
+and you'll have examples that you've
+trained yourself to see over time. And
+trained yourself to see over time. And
+ 
+trained yourself to see over time. And
+by doing this, your psychological makeup
+by doing this, your psychological makeup
+ 
+by doing this, your psychological makeup
+as a trader will be formed with these
+as a trader will be formed with these
+ 
+as a trader will be formed with these
+things in mind. So, that way when you're
+things in mind. So, that way when you're
+ 
+things in mind. So, that way when you're
+watching price action, it'll leap off at
+watching price action, it'll leap off at
+ 
+watching price action, it'll leap off at
+the chart when it's forming and you'll
+the chart when it's forming and you'll
+ 
+the chart when it's forming and you'll
+remember something you saw hundreds or
+remember something you saw hundreds or
+ 
+remember something you saw hundreds or
+thousands of times before that generally
+thousands of times before that generally
+ 
+thousands of times before that generally
+repeat over and over and over again.
+repeat over and over and over again.
+ 
+repeat over and over and over again.
+Does every single day look exactly like
+Does every single day look exactly like
+ 
+Does every single day look exactly like
+this? No.
+this? No.
+ 
+this? No.
+But there's a lot of similarity to the
+But there's a lot of similarity to the
+ 
+But there's a lot of similarity to the
+things I'm showing you here that repeat.
+things I'm showing you here that repeat.
+ 
+things I'm showing you here that repeat.
+So, it's It's a matter of knowing what
+So, it's It's a matter of knowing what
+ 
+So, it's It's a matter of knowing what
+you're looking for. If two
+you're looking for. If two
+ 
+you're looking for. If two
+bears are walking in the snow,
+bears are walking in the snow,
+ 
+bears are walking in the snow,
+one's younger and one's older and
+one's younger and one's older and
+ 
+one's younger and one's older and
+they're walking in the snow. Will both
+they're walking in the snow. Will both
+ 
+they're walking in the snow. Will both
+footprints look exactly the same? No.
+footprints look exactly the same? No.
+ 
+footprints look exactly the same? No.
+But you'll recognize they're both bear
+But you'll recognize they're both bear
+ 
+But you'll recognize they're both bear
+prints and you'll recognize which one's
+prints and you'll recognize which one's
+ 
+prints and you'll recognize which one's
+larger or older and which one's younger.
+larger or older and which one's younger.
+ 
+larger or older and which one's younger.
+So, that's what it's like when you're
+So, that's what it's like when you're
+ 
+So, that's what it's like when you're
+looking at these signatures in price
+looking at these signatures in price
+ 
+looking at these signatures in price
+action.
+action.
+ 
+action.
+They are generally
+They are generally
+ 
+They are generally
+very close to one another in terms of
+very close to one another in terms of
+ 
+very close to one another in terms of
+repeating the same type of way.
+repeating the same type of way.
+ 
+repeating the same type of way.
+But they're not going to be so identical
+But they're not going to be so identical
+ 
+But they're not going to be so identical
+that they're indistinguishable to the
+that they're indistinguishable to the
+ 
+that they're indistinguishable to the
+next one. Like you'll be able to see
+next one. Like you'll be able to see
+ 
+next one. Like you'll be able to see
+that that's a different day of trading.
+that that's a different day of trading.
+ 
+that that's a different day of trading.
+But you'll still recognize these
+But you'll still recognize these
+ 
+But you'll still recognize these
+repeating phenomenon that is so telling
+repeating phenomenon that is so telling
+ 
+repeating phenomenon that is so telling
+in the marketplace, but you can't fully
+in the marketplace, but you can't fully
+ 
+in the marketplace, but you can't fully
+appreciate it right now because you're
+appreciate it right now because you're
+ 
+appreciate it right now because you're
+only now just becoming introduced to it.
+only now just becoming introduced to it.
+ 
+only now just becoming introduced to it.
+And maybe you've watched some of my
+And maybe you've watched some of my
+ 
+And maybe you've watched some of my
+videos. Maybe you watched all my videos.
+videos. Maybe you watched all my videos.
+ 
+videos. Maybe you watched all my videos.
+And you see when I do this and it
+And you see when I do this and it
+ 
+And you see when I do this and it
+resonates with you, you're like, "Man, I
+resonates with you, you're like, "Man, I
+ 
+resonates with you, you're like, "Man, I
+can I get it cuz he's showing it to me."
+can I get it cuz he's showing it to me."
+ 
+can I get it cuz he's showing it to me."
+But then you go out into the chart and
+But then you go out into the chart and
+ 
+But then you go out into the chart and
+you try to do it and it just feels like
+you try to do it and it just feels like
+ 
+you try to do it and it just feels like
+your chart doesn't is
+your chart doesn't is
+ 
+your chart doesn't is
+organized or it's not so obvious to you
+organized or it's not so obvious to you
+ 
+organized or it's not so obvious to you
+what you're looking for. That's normal.
+what you're looking for. That's normal.
+ 
+what you're looking for. That's normal.
+That's how it was for me for a long time
+That's how it was for me for a long time
+ 
+That's how it was for me for a long time
+in the '90s. For a long time, I
+in the '90s. For a long time, I
+ 
+in the '90s. For a long time, I
+struggled and floundered of trying to
+struggled and floundered of trying to
+ 
+struggled and floundered of trying to
+figure out what I'm supposed to be
+figure out what I'm supposed to be
+ 
+figure out what I'm supposed to be
+looking for.
+looking for.
+ 
+looking for.
+I'm teaching you the things that repeat.
+I'm teaching you the things that repeat.
+ 
+I'm teaching you the things that repeat.
+Your job is to keep going into the
+Your job is to keep going into the
+ 
+Your job is to keep going into the
+chart, annotating them, and keeping a a
+chart, annotating them, and keeping a a
+ 
+chart, annotating them, and keeping a a
+a running log, a study journal, of what
+a running log, a study journal, of what
+ 
+a running log, a study journal, of what
+the price action has done and what
+the price action has done and what
+ 
+the price action has done and what
+you're observing.
+you're observing.
+ 
+you're observing.
+You can't get hurt because it's already
+You can't get hurt because it's already
+ 
+You can't get hurt because it's already
+happened. The move's already happened.
+happened. The move's already happened.
+ 
+happened. The move's already happened.
+So, you're studying it. So, what you're
+So, you're studying it. So, what you're
+ 
+So, you're studying it. So, what you're
+creating is the greatest technical
+creating is the greatest technical
+ 
+creating is the greatest technical
+analysis book that you're ever going to
+analysis book that you're ever going to
+ 
+analysis book that you're ever going to
+own and you're doing it in your own
+own and you're doing it in your own
+ 
+own and you're doing it in your own
+words
+words
+ 
+words
+with your own work. Cuz when you buy a
+with your own work. Cuz when you buy a
+ 
+with your own work. Cuz when you buy a
+book, what are you getting? You're
+book, what are you getting? You're
+ 
+book, what are you getting? You're
+getting snapshots of something they're
+getting snapshots of something they're
+ 
+getting snapshots of something they're
+saying, "This is the important thing
+saying, "This is the important thing
+ 
+saying, "This is the important thing
+about this particular chapter or the
+about this particular chapter or the
+ 
+about this particular chapter or the
+theme of this particular book."
+theme of this particular book."
+ 
+theme of this particular book."
+I'm showing you how you need to stop
+I'm showing you how you need to stop
+ 
+I'm showing you how you need to stop
+buying books. But there is no books out
+buying books. But there is no books out
+ 
+buying books. But there is no books out
+there except for the ones I put in that
+there except for the ones I put in that
+ 
+there except for the ones I put in that
+one video that's in my library.
+one video that's in my library.
+ 
+one video that's in my library.
+Honestly, that's it. No other books are
+Honestly, that's it. No other books are
+ 
+Honestly, that's it. No other books are
+necessary
+necessary
+ 
+necessary
+in trading in my opinion. It's just It's
+in trading in my opinion. It's just It's
+ 
+in trading in my opinion. It's just It's
+the same garbage that's repeated and
+the same garbage that's repeated and
+ 
+the same garbage that's repeated and
+rehashed and people are just trying to
+rehashed and people are just trying to
+ 
+rehashed and people are just trying to
+do a cash grab.
+do a cash grab.
+ 
+do a cash grab.
+You're not going to learn anything
+You're not going to learn anything
+ 
+You're not going to learn anything
+except for bad habits and flawed logic.
+except for bad habits and flawed logic.
+ 
+except for bad habits and flawed logic.
+Now,
+Now,
+ 
+Now,
+when you've created a study journal with
+when you've created a study journal with
+ 
+when you've created a study journal with
+thousands of examples and you've been
+thousands of examples and you've been
+ 
+thousands of examples and you've been
+doing it for years,
+doing it for years,
+ 
+doing it for years,
+you're going to be astonished
+you're going to be astonished
+ 
+you're going to be astonished
+of how much of a
+of how much of a
+ 
+of how much of a
+technical analyst you are years from
+technical analyst you are years from
+ 
+technical analyst you are years from
+now. And you'll be able to see a lot
+now. And you'll be able to see a lot
+ 
+now. And you'll be able to see a lot
+more setups that you just don't see.
+more setups that you just don't see.
+ 
+more setups that you just don't see.
+Like there's several opportunities in
+Like there's several opportunities in
+ 
+Like there's several opportunities in
+this timeframe or this fractal here on a
+this timeframe or this fractal here on a
+ 
+this timeframe or this fractal here on a
+5-minute chart. There's lots of little
+5-minute chart. There's lots of little
+ 
+5-minute chart. There's lots of little
+trades in here.
+trades in here.
+ 
+trades in here.
+I'm not going to go through and pick
+I'm not going to go through and pick
+ 
+I'm not going to go through and pick
+them all out because this is going to
+them all out because this is going to
+ 
+them all out because this is going to
+create a thousand different questions
+create a thousand different questions
+ 
+create a thousand different questions
+and you're going to miss
+and you're going to miss
+ 
+and you're going to miss
+or overlook the very thing I've shown
+or overlook the very thing I've shown
+ 
+or overlook the very thing I've shown
+you in this lecture.
+you in this lecture.
+ 
+you in this lecture.
+But this is the model
+But this is the model
+ 
+But this is the model
+that obviously works in this timeframe
+that obviously works in this timeframe
+ 
+that obviously works in this timeframe
+in this pair. It's in Forex. It's not
+in this pair. It's in Forex. It's not
+ 
+in this pair. It's in Forex. It's not
+highly specific only to futures.
+highly specific only to futures.
+ 
+highly specific only to futures.
+Notice that it's
+ 
+ 
+ 
+pretty clear, isn't it?
+pretty clear, isn't it?
+ 
+pretty clear, isn't it?
+It may not have been clear before I
+It may not have been clear before I
+ 
+It may not have been clear before I
+walked through it with you.
+walked through it with you.
+ 
+walked through it with you.
+But you learned, hopefully, a a great
+But you learned, hopefully, a a great
+ 
+But you learned, hopefully, a a great
+deal of things tonight. You learned a
+deal of things tonight. You learned a
+ 
+deal of things tonight. You learned a
+little bit about order blocks, what
+little bit about order blocks, what
+ 
+little bit about order blocks, what
+makes an order block based on the fair
+makes an order block based on the fair
+ 
+makes an order block based on the fair
+value gap. How do you differentiate
+value gap. How do you differentiate
+ 
+value gap. How do you differentiate
+how you
+how you
+ 
+how you
+look at the order block, how do you
+look at the order block, how do you
+ 
+look at the order block, how do you
+break it down, how do you invalidate the
+break it down, how do you invalidate the
+ 
+break it down, how do you invalidate the
+certain parts of the order block, and
+certain parts of the order block, and
+ 
+certain parts of the order block, and
+how do you know it's not going to go in
+how do you know it's not going to go in
+ 
+how do you know it's not going to go in
+the upper half of the order block or the
+the upper half of the order block or the
+ 
+the upper half of the order block or the
+last up close candle before it goes
+last up close candle before it goes
+ 
+last up close candle before it goes
+down. I taught that tonight.
+down. I taught that tonight.
+ 
+down. I taught that tonight.
+So,
+So,
+ 
+So,
+hopefully, this has been insightful to
+hopefully, this has been insightful to
+ 
+hopefully, this has been insightful to
+you. And obviously, we'll be back at it
+you. And obviously, we'll be back at it
+ 
+you. And obviously, we'll be back at it
+again next Tuesday and so I'll talk to
+again next Tuesday and so I'll talk to
+ 
+again next Tuesday and so I'll talk to
+you then. Enjoy your weekend and be
+you then. Enjoy your weekend and be
+ 
+you then. Enjoy your weekend and be
+safe.
+
